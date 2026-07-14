@@ -1,20 +1,7 @@
 {
 	"nodes":[
-		{"id":"4f7f6507edd4eceb","type":"group","x":-1920,"y":-600,"width":3840,"height":1200,"color":"3","label":"Kris, Outside The Lines"},
+		{"id":"4f7f6507edd4eceb","type":"group","x":-1920,"y":-660,"width":3840,"height":1260,"color":"3","label":"Kris, Outside The Lines"},
 		{"id":"83dcf9b6e27cbd9e","type":"group","x":-1840,"y":320,"width":520,"height":260,"color":"2","label":"Probably Kris being silly (good for them)"},
-		{"id":"33f900fc7a8d0819","type":"link","url":"https://www.youtube.com/embed/vvHnpyFiO_k","x":440,"y":220,"width":640,"height":360},
-		{
-			"id":"ff40d377e4df8c0e",
-			"type":"text",
-			"text":"About that last one... Don't you think something seems off...?",
-			"styleAttributes":{},
-			"x":760,
-			"y":-60,
-			"width":260,
-			"height":100,
-			"color":"4"
-		},
-		{"id":"89b7808dd1b175dd","type":"file","file":"Conspiracy Board/Events/Media/Important Person's Shirt A.png","x":-383,"y":-530,"width":283,"height":400},
 		{
 			"id":"c57de21c45f8e167",
 			"type":"text",
@@ -71,6 +58,42 @@
 			"color":"4"
 		},
 		{
+			"id":"c7bc4975dcff77f5",
+			"type":"text",
+			"text":"Playing up the fact they aren't exactly fond of themselves, here, with their consultation? Then again, not like I've heard of a Kris having a good experience with Therapy.",
+			"styleAttributes":{},
+			"x":-1600,
+			"y":60,
+			"width":260,
+			"height":200,
+			"color":"1"
+		},
+		{
+			"id":"113bbd93683bf04b",
+			"type":"text",
+			"text":"§ Suddenly, you\nthought very hard\nabout an animated\nseries you watched\nas a kid...\n§ \"Automatic Duck.\"",
+			"styleAttributes":{},
+			"x":-1600,
+			"y":358,
+			"width":260,
+			"height":192,
+			"color":"4"
+		},
+		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation A.png","x":-1300,"y":-30,"width":360,"height":623},
+		{"id":"89b7808dd1b175dd","type":"file","file":"Conspiracy Board/Events/Media/Important Person's Shirt A.png","x":-383,"y":-530,"width":283,"height":400},
+		{"id":"33f900fc7a8d0819","type":"link","url":"https://www.youtube.com/embed/vvHnpyFiO_k","x":440,"y":220,"width":640,"height":360},
+		{
+			"id":"ff40d377e4df8c0e",
+			"type":"text",
+			"text":"About that last one... Don't you think something seems off...?",
+			"styleAttributes":{},
+			"x":760,
+			"y":-60,
+			"width":260,
+			"height":100,
+			"color":"4"
+		},
+		{
 			"id":"97e71e7fd7fb6144",
 			"type":"file",
 			"file":"Conspiracy Board/Canvases/Kris' Timeline.canvas",
@@ -103,33 +126,7 @@
 				}
 			]
 		},
-		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation A.png","x":-1300,"y":-30,"width":360,"height":623},
-		{"id":"39072fe0f939818b","type":"file","file":"Conspiracy Board/Events/Media/Kris' consultation screenshot (lq).png","x":-820,"y":-530,"width":400,"height":364},
-		{"id":"3d1900dbef0db239","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation B.png","x":-896,"y":133,"width":441,"height":460},
-		{
-			"id":"b3654c65c5c0c62e",
-			"type":"text",
-			"text":"Clearly capable of modifying the game for different answers like we can.",
-			"styleAttributes":{},
-			"x":-750,
-			"y":-110,
-			"width":260,
-			"height":100,
-			"color":"1"
-		},
 		{"id":"89457a68dbf51514","type":"file","file":"Conspiracy Board/Events/Media/Important Person's Shirt B.png","x":-355,"y":-92,"width":226,"height":29},
-		{
-			"id":"c7bc4975dcff77f5",
-			"type":"text",
-			"text":"Playing up the fact they aren't exactly fond of themselves, here, with their consultation? Then again, not like I've heard of a Kris having a good experience with Therapy.",
-			"styleAttributes":{},
-			"x":-1600,
-			"y":60,
-			"width":260,
-			"height":200,
-			"color":"1"
-		},
-		{"id":"464c0d71bd14601b","type":"file","file":"Conspiracy Board/Events/Media/Can anyone try to recognize December.png","x":-1260,"y":-393,"width":400,"height":91},
 		{
 			"id":"5794380380c64dd9",
 			"type":"text",
@@ -141,20 +138,34 @@
 			"height":60,
 			"color":"1"
 		},
+		{"id":"2457d1d6d96692c9","type":"file","file":"image-2.png","x":9,"y":405,"width":177,"height":98,"color":"4"},
+		{"id":"658ace554eec80e4","type":"file","file":"Conspiracy Board/Events/Media/Kris Sick.png","x":240,"y":405,"width":164,"height":145,"color":"4"},
+		{
+			"id":"b3654c65c5c0c62e",
+			"type":"text",
+			"text":"Clearly capable of modifying the game for different answers like we can.",
+			"styleAttributes":{},
+			"x":-750,
+			"y":-110,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{"id":"39072fe0f939818b","type":"file","file":"Conspiracy Board/Events/Media/Kris' consultation screenshot (lq).png","x":-820,"y":-530,"width":400,"height":364},
+		{"id":"3d1900dbef0db239","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation B.png","x":-896,"y":133,"width":441,"height":460},
+		{"id":"464c0d71bd14601b","type":"file","file":"Conspiracy Board/Events/Media/Can anyone try to recognize December.png","x":-1260,"y":-393,"width":400,"height":91},
 		{"id":"515d1db5d1f1856a","type":"file","file":"Conspiracy Board/Events/Media/Kris Account.png","x":-1260,"y":-530,"width":399,"height":82},
 		{
-			"id":"113bbd93683bf04b",
+			"id":"0bfda341c679072c",
 			"type":"text",
-			"text":"§ Suddenly, you\nthought very hard\nabout an animated\nseries you watched\nas a kid...\n§ \"Automatic Duck.\"",
+			"text":"Notably using the last name 'Dreemurr', and not D'vina.",
 			"styleAttributes":{},
-			"x":-1600,
-			"y":358,
+			"x":-1190,
+			"y":-633,
 			"width":260,
-			"height":192,
-			"color":"4"
-		},
-		{"id":"2457d1d6d96692c9","type":"file","file":"image-2.png","x":9,"y":405,"width":177,"height":98,"color":"4"},
-		{"id":"658ace554eec80e4","type":"file","file":"Conspiracy Board/Events/Media/Kris Sick.png","x":240,"y":405,"width":164,"height":145,"color":"4"}
+			"height":60,
+			"color":"1"
+		}
 	],
 	"edges":[
 		{
@@ -258,6 +269,16 @@
 			"toNode":"2457d1d6d96692c9",
 			"toSide":"right",
 			"color":"4"
+		},
+		{
+			"id":"a547f88760b5200c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0bfda341c679072c",
+			"fromSide":"bottom",
+			"toNode":"515d1db5d1f1856a",
+			"toSide":"top",
+			"color":"1"
 		}
 	],
 	"metadata":{
