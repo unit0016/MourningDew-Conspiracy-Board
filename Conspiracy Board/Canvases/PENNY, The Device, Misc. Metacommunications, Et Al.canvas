@@ -212,17 +212,6 @@
 			"color":"1"
 		},
 		{
-			"id":"f894064b2c7da9d6",
-			"type":"text",
-			"text":"THERAPY is notably capitalized here.",
-			"styleAttributes":{},
-			"x":-7760,
-			"y":-300,
-			"width":280,
-			"height":60,
-			"color":"1"
-		},
-		{
 			"id":"d16b9ba317b166d9",
 			"type":"text",
 			"text":"Kris ostensibly made one of these questions, and considering the timeline of how this interview played out - I have reason to believe it's the last, calling back to the 'Thank you.' ARG along with the emails we've received thusfar.\n\nIn that ARG, you received \"So, she never stopped smiling.\" as a response for inputting 0-10 Seconds as an answer.\n\nKris' consultation notably stated they were hurt by Noelle.\n\n...What's up with all of this?",
@@ -231,6 +220,17 @@
 			"y":-160,
 			"width":280,
 			"height":460,
+			"color":"1"
+		},
+		{
+			"id":"f894064b2c7da9d6",
+			"type":"text",
+			"text":"THERAPY is notably capitalized here. 'More of a life'... has some implications I can't extrapolate too well.",
+			"styleAttributes":{},
+			"x":-7760,
+			"y":-300,
+			"width":280,
+			"height":120,
 			"color":"1"
 		}
 	],
