@@ -2,7 +2,7 @@
 
 *"Not yet."* - PENNY, declaring that I'll be killed *later* for my transgressions
 
-This is a community-run conspiracy board / obsidian vault with the information we've currently gathered on the MourningDew ARG. If you don't wish to view it locally or contribute, you can easily find a web mirror of the project [here](https://mourningdew.phinarina.xyz/conspiracy-board/conspiracy-board.html). - Do note there is a delay between the github repository updating verse the website.
+This is a community-run conspiracy board / obsidian vault with the information we've currently gathered on the MourningDew ARG. If you don't wish to view it locally or contribute, you can easily find a web mirror of the project [here](https://mourningdew.phinarina.xyz/board). - Do note there is a delay between the github repository updating verse the website.
 
 If you are *on* the web mirror; you can alternatively contribute / download a local copy [here](https://github.com/unit0016/MourningDew-Conspiracy-Board).
 
