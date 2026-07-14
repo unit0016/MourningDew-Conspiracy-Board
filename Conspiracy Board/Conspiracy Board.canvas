@@ -47,17 +47,6 @@
 			"color":"6"
 		},
 		{
-			"id":"997fff1a89814e63",
-			"type":"text",
-			"text":"Presumably a second shirt here?",
-			"styleAttributes":{},
-			"x":2380,
-			"y":-274,
-			"width":260,
-			"height":77,
-			"color":"1"
-		},
-		{
 			"id":"9cd5c134e7edca21",
 			"type":"text",
 			"text":"§ Pearl! Oh, it's wonderful to see you. \n§ This is a section of the Church most aren't able to access, so make yourself comfortable.",
@@ -158,31 +147,6 @@
 		},
 		{"id":"f24b6c84ecde55e6","type":"text","text":"§ (You couldn't seem to put the words together to explain what tragedy is...) \n§ (...almost like you didn't know them.)","x":66,"y":484,"width":400,"height":88,"color":"6"},
 		{"id":"f3a391b99762d974","type":"text","text":"§ (In fact, you don't actually know what it means, either.)","x":526,"y":498,"width":250,"height":60,"color":"6"},
-		{"id":"8aa63c704ccf8db0","type":"file","file":"Conspiracy Board/Events/Media/Kris Room - Note Text B (Writing).png","x":-374,"y":-318,"width":150,"height":180,"color":"6"},
-		{"id":"22edb31b4002cc0e","type":"text","text":"§ Pearl...?\r\n§ Are you awake?\r\n§ Kris, honey, you better not be making it sleep in...\r\n§ The Festival is starting, you know!","x":260,"y":-292,"width":440,"height":129,"color":"6"},
-		{
-			"id":"f444f9b1737e73df",
-			"type":"text",
-			"text":"§ ...Thank you. \n§ - Kris \n§ (...) \nTear up the note 🩵 Fold the note up neatly",
-			"styleAttributes":{},
-			"x":1000,
-			"y":-287,
-			"width":360,
-			"height":120,
-			"color":"6"
-		},
-		{"id":"fbd6c6dcc042d15e","type":"file","file":"Conspiracy Board/Events/Media/Kris Room - Note Text A.png","x":740,"y":-246,"width":220,"height":38,"color":"6"},
-		{
-			"id":"e24aca81f0d19e1e",
-			"type":"text",
-			"text":"§ You put the note on top of your desk and gave it a nice pat.",
-			"styleAttributes":{},
-			"x":1400,
-			"y":-257,
-			"width":480,
-			"height":60,
-			"color":"6"
-		},
 		{
 			"id":"cd6d0a75b3cd7590",
 			"type":"text",
@@ -285,39 +249,6 @@
 			"y":620,
 			"width":530,
 			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"fcdbe1cea1fd9e1a",
-			"type":"text",
-			"text":"Kris' dynamic with us is going to be drastically different, if this isn't just for Pearl - though to what end exactly...?",
-			"styleAttributes":{},
-			"x":935,
-			"y":-120,
-			"width":415,
-			"height":100,
-			"color":"1"
-		},
-		{
-			"id":"26e45531c0fc9f3d",
-			"type":"text",
-			"text":"But they're still a goofball, even in this environment.",
-			"styleAttributes":{},
-			"x":1510,
-			"y":-150,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"4fbb1311bc653edd",
-			"type":"text",
-			"text":"'Home' leitmotif is used in Kris' room and they're still referred to as Dreemurr, reasonable to assume this is Toriel",
-			"styleAttributes":{},
-			"x":300,
-			"y":-120,
-			"width":260,
-			"height":140,
 			"color":"1"
 		},
 		{"id":"00e8bd99a93ba85b","type":"file","file":"Conspiracy Board/Events/Media/Consultations/23b Consultation.png","x":7080,"y":-4745,"width":400,"height":383},
@@ -690,6 +621,75 @@
 			"y":-4140,
 			"width":280,
 			"height":460,
+			"color":"1"
+		},
+		{
+			"id":"997fff1a89814e63",
+			"type":"text",
+			"text":"Presumably a second shirt here?",
+			"styleAttributes":{},
+			"x":2380,
+			"y":-274,
+			"width":260,
+			"height":77,
+			"color":"1"
+		},
+		{"id":"8aa63c704ccf8db0","type":"file","file":"Conspiracy Board/Events/Media/Kris Room - Note Text B (Writing).png","x":-374,"y":-318,"width":150,"height":180,"color":"6"},
+		{"id":"22edb31b4002cc0e","type":"text","text":"§ Pearl...?\r\n§ Are you awake?\r\n§ Kris, honey, you better not be making it sleep in...\r\n§ The Festival is starting, you know!","x":260,"y":-292,"width":440,"height":129,"color":"6"},
+		{
+			"id":"f444f9b1737e73df",
+			"type":"text",
+			"text":"§ ...Thank you. \n§ - Kris \n§ (...) \nTear up the note 🩵 Fold the note up neatly",
+			"styleAttributes":{},
+			"x":1000,
+			"y":-287,
+			"width":360,
+			"height":120,
+			"color":"6"
+		},
+		{"id":"fbd6c6dcc042d15e","type":"file","file":"Conspiracy Board/Events/Media/Kris Room - Note Text A.png","x":740,"y":-246,"width":220,"height":38,"color":"6"},
+		{
+			"id":"e24aca81f0d19e1e",
+			"type":"text",
+			"text":"§ You put the note on top of your desk and gave it a nice pat.",
+			"styleAttributes":{},
+			"x":1400,
+			"y":-257,
+			"width":480,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"fcdbe1cea1fd9e1a",
+			"type":"text",
+			"text":"Kris' dynamic with us is going to be drastically different, if this isn't just for Pearl - though to what end exactly...?",
+			"styleAttributes":{},
+			"x":935,
+			"y":-120,
+			"width":415,
+			"height":100,
+			"color":"1"
+		},
+		{
+			"id":"26e45531c0fc9f3d",
+			"type":"text",
+			"text":"But they're still a goofball, even in this environment.",
+			"styleAttributes":{},
+			"x":1510,
+			"y":-150,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"4fbb1311bc653edd",
+			"type":"text",
+			"text":"'Home' leitmotif is used in Kris' room and they're still referred to as Dreemurr, reasonable to assume this is Toriel",
+			"styleAttributes":{},
+			"x":300,
+			"y":-120,
+			"width":260,
+			"height":140,
 			"color":"1"
 		}
 	],
