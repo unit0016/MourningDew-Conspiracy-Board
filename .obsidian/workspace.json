@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
+                "file": "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
                 "viewState": {
-                  "x": -7461.562959166472,
-                  "y": 470.5091164980193,
-                  "zoom": -1.6750244947723167
+                  "x": -313.52899145045035,
+                  "y": -118.0255526306209,
+                  "zoom": 0.20628416722056458
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "PENNY, The Device, Misc. Metacommunications, Et Al"
+              "title": "Pearl's Timeline"
             }
           }
         ]
@@ -189,13 +189,16 @@
   },
   "active": "3fd9b6108a2422bd",
   "lastOpenFiles": [
+    "Conspiracy Board/Canvases/Onyx's Timeline.canvas",
+    "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
+    "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
+    "Conspiracy Board/Canvases/Player Timeline.canvas",
     "Conspiracy Board/Canvases/Conspiracy Board.canvas",
     "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
     "Conspiracy Board/Canvases/Kris.canvas",
     "image-2.png",
     "Conspiracy Board/Events/Media/Kris.png",
     "Conspiracy Board/Events/Media/Kris Sick.png",
-    "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
     "readme.md",
     "Conspiracy Board/Events/Gerson Boom's death.md",
     "Conspiracy Board/Events/The ANGEL (Kris) Arrives.md",
@@ -208,11 +211,8 @@
     "Conspiracy Board/Events/Media/Consultations/Brickman Consultation.md",
     "Conspiracy Board/Events/Kris' birth.md",
     "Conspiracy Board/Events/CONSULTATION.md",
-    "Conspiracy Board/Canvases/Player Timeline.canvas",
-    "Conspiracy Board/Canvases/Onyx's Timeline.canvas",
     "Conspiracy Board/Canvases/Kris' Timeline.canvas",
     "Conspiracy Board/Canvases/Consultations/Consultations.canvas",
-    "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
     "Conspiracy Board/Canvases/Consultations/Round 1.canvas",
     "Conspiracy Board/Events/Media/Scores.png",
     "Conspiracy Board/Events/Media/Consultations/56b Consultation.png",
