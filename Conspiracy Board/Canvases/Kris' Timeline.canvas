@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3bbf5bd423f74cc2","type":"group","x":-340,"y":-300,"width":680,"height":600,"color":"#ffffff","label":"Kris' Timeline (White Upside-Down Heart)"},
+		{"id":"5bc16a3b376fe0ba","type":"file","file":"Conspiracy Board/Events/The ANGEL (Kris) Arrives.md","x":-124,"y":-180,"width":400,"height":400,"color":"#ffffff"}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

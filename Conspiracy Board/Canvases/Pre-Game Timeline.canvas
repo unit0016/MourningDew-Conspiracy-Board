@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"c709427b543ff089","type":"group","x":-450,"y":-190,"width":900,"height":380,"label":"Unknown Order, Before The ANGEL'S Arrival"},
+		{"id":"b183207538265f5a","type":"file","file":"Conspiracy Board/Events/Gerson Boom's death.md","x":10,"y":-156,"width":400,"height":319,"color":"6"},
+		{"id":"d7a9001d80b5c132","type":"file","file":"Conspiracy Board/Events/Kris' birth.md","x":-430,"y":-145,"width":400,"height":308,"color":"3"}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

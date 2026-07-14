@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0bc731753aedda61","type":"group","x":-560,"y":-240,"width":1120,"height":480,"color":"#ff00ea","label":"Our Timeline ('Violet Euhedral' / 'Red Heart' / 'Blue Upside-Down Heart' / Player Entered, etc)"},
+		{"id":"8b4c0d46326e0918","type":"file","file":"Conspiracy Board/Events/The ANGEL (Player) Arrives.md","x":-344,"y":-200,"width":400,"height":400,"color":"#d400ff"}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

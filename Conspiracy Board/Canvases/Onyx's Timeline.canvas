@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"dd8aceb29acaa1e8","type":"group","x":-388,"y":-250,"width":776,"height":500,"color":"6","label":"Onyx's Timeline (Purple Cross)"},
+		{"id":"153ef572af1e6b01","type":"file","file":"Conspiracy Board/Events/The ANGEL (Onyx) Arrives.md","x":-172,"y":-210,"width":400,"height":400,"color":"6"}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
