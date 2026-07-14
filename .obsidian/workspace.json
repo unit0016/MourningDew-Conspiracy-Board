@@ -15,9 +15,9 @@
               "state": {
                 "file": "Conspiracy Board/Conspiracy Board.canvas",
                 "viewState": {
-                  "x": -136.57776887058353,
-                  "y": 1068.6296299355547,
-                  "zoom": 3.3306690738754696e-16
+                  "x": 6917.2460116649145,
+                  "y": -2245.555064157046,
+                  "zoom": -3.279262585698182
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -190,6 +190,9 @@
   "lastOpenFiles": [
     "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
     "Conspiracy Board/Conspiracy Board.canvas",
+    "Conspiracy Board/Canvases/Consultations/Consultations.canvas",
+    "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
+    "Conspiracy Board/Events/Media/Consultations/56b Consultation.png",
     "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
     "Conspiracy Board/Canvases/Kris.canvas",
     "Conspiracy Board/Canvases/Kris' Timeline.canvas",
@@ -198,9 +201,7 @@
     "Conspiracy Board/Canvases/Player Timeline.canvas",
     "Conspiracy Board/Canvases/Onyx's Timeline.canvas",
     "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
-    "Conspiracy Board/Canvases/Consultations/Consultations.canvas",
     "Conspiracy Board/Canvases/Consultations/Round 1.canvas",
-    "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
     "Conspiracy Board/Canvases/Consultations/R.md",
     "Conspiracy Board/Canvases/Consultations",
     "Conspiracy Board/Canvases",
@@ -213,7 +214,6 @@
     "Conspiracy Board/Events/Media/Consultations/51b Consultation (Exact Copy OF Kris' Answers).png",
     "Conspiracy Board/Events/Media/Consultations/TYPO Consultation.png",
     "Conspiracy Board/Events/Media/Consultations/36b Consultation.png",
-    "Conspiracy Board/Events/Media/Consultations/37b Consultation (Frisk).png",
     "Conspiracy Board/Events/Media/Consultations/Photon Consultation.md",
     "Conspiracy Board/Events/Media/Consultations/Brickman Consultation.md",
     "Conspiracy Board/Events/Media/Consultations/Frog's Consultation.md",
