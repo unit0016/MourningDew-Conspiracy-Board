@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "f19cdb630b2164b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "af1448d55d451fa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fd9b6108a2422bd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Conspiracy Board/Conspiracy Board.canvas",
+                "viewState": {
+                  "x": 5070,
+                  "y": -2040,
+                  "zoom": -3.1909427827113954
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Conspiracy Board"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7e0e32511a55b09",
+    "type": "split",
+    "children": [
+      {
+        "id": "41539cdd518c5617",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cf0f3b6e0984c2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b4994945c2a947d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0d29b0b3fba3c51a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aabf1e689f4e14f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "db7fefa884bbf7f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0303c25255fc60eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Timeline/Timeline.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Timeline"
+            }
+          },
+          {
+            "id": "9e8209374dc7768a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Timeline/Timeline.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Timeline"
+            }
+          },
+          {
+            "id": "bf7811ab04a2335e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bebad0b2e405fdec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dc0828f908ece89b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Timeline/Timeline.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Timeline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3fd9b6108a2422bd",
+  "lastOpenFiles": [
+    "Conspiracy Board/Events/Media/Consultations/TYPO Consultation.png",
+    "Conspiracy Board/Events/Media/Consultations/36b Consultation.png",
+    "Conspiracy Board/Events/Media/Consultations/37b Consultation (Frisk).png",
+    "Conspiracy Board/Events/Media/Consultations/43b Consultation.png",
+    "Conspiracy Board/Events/Media/Consultations/43b Consultation TItle.png",
+    "Conspiracy Board/Events/Media/Consultations/27-B Consultation.png",
+    "Conspiracy Board/Events/Media/Consultations/38B Consultation.png",
+    "Conspiracy Board/Events/Media/Consultations/26B Consultation Answers.png",
+    "Conspiracy Board/Events/Media/Consultations/26B Consultation.png",
+    "Conspiracy Board/Events/Media/Consultations/29b Consultation (Deltarune, None,  Red, Heart, Pain, Wonder, No, Instantly, No, Delusion, Kris, Kris, No).jpg",
+    "Conspiracy Board/Events/Media/Consultations/31b Consultation (Susie, Violet Euhedral, Recognizes Susie, Hurt By Susie).png",
+    "Conspiracy Board/Conspiracy Board.canvas",
+    "Conspiracy Board/Events/Media/Consultations/Photon Consultation.md",
+    "Conspiracy Board/Events/Media/Consultations/Brickman Consultation.md",
+    "Conspiracy Board/Events/Media/Consultations/Frog's Consultation.md",
+    "Conspiracy Board/Events/Media/Consultations",
+    "Conspiracy Board/Events/CONSULTATION.md",
+    "Timeline/Events/Untitled.md",
+    "Conspiracy Board/Events/Media",
+    "Conspiracy Board/Events/The ANGEL (Pearl) Arrives.md",
+    "Conspiracy Board/Events/The ANGEL (Kris) Arrives.md",
+    "Conspiracy Board/Events/The ANGEL (Onyx) Arrives.md",
+    "Conspiracy Board/Events/The ANGEL (Player) Arrives.md",
+    "Conspiracy Board/Events/Gerson Boom's death.md",
+    "Conspiracy Board/Events/Kris' birth.md",
+    "Conspiracy Board/Events",
+    "Conspiracy Board"
+  ]
+}
