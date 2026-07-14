@@ -1,55 +1,11 @@
 {
 	"nodes":[
 		{"id":"db8a1ac6541f9911","type":"group","x":-8760,"y":-2000,"width":16980,"height":4000,"color":"6","label":"PENNY, The Device, Misc. Metacommunications, Et Al"},
-		{
-			"id":"8829d2dd08755bf7",
-			"type":"text",
-			"text":"Kris has been depicted wearing a sweater emblazed with the DELTA RUNE; angel crest right on the chest like whoever - whatever, this is. Is it a standardized uniform for the town, or...?",
-			"styleAttributes":{},
-			"x":-5506,
-			"y":-1960,
-			"width":440,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"9f44410eb3f5263c",
-			"type":"text",
-			"text":"What's with this symbolism for Alvin?",
-			"styleAttributes":{},
-			"x":-4607,
-			"y":-1930,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"b449b77bc2e32e28",
-			"type":"text",
-			"text":"This string of characters is important to some puzzle we haven't quite cottoned onto.",
-			"styleAttributes":{},
-			"x":-5876,
-			"y":-1960,
-			"width":260,
-			"height":100,
-			"color":"1"
-		},
 		{"id":"52590532278f3784","type":"file","file":"Conspiracy Board/Events/Media/PENNY Account.png","x":-5932,"y":-1168,"width":372,"height":400,"color":"4"},
 		{"id":"a9cd1e5a7742dd1d","type":"file","file":"Conspiracy Board/Events/CONSULTATION.md","x":-5946,"y":-688,"width":1126,"height":1798,"color":"4"},
 		{"id":"f9b21a6d466c0f72","type":"link","url":"https://mourningdew.phinarina.xyz/interview2/","x":-8720,"y":-674,"width":880,"height":1528},
 		{"id":"472e37d17cf7ecd5","type":"file","file":"Conspiracy Board/Events/Media/Penny.png","x":-6300,"y":-1211,"width":327,"height":400,"color":"4"},
 		{"id":"51624c48cf2c9dc2","type":"link","url":"https://mourningdew.phinarina.xyz/interview/","x":-7420,"y":-1770,"width":1080,"height":3720},
-		{
-			"id":"d16b9ba317b166d9",
-			"type":"text",
-			"text":"Kris ostensibly made one of these questions, and considering the timeline of how this interview played out - I have reason to believe it's the last, calling back to the 'Thank you.' ARG along with the emails we've received thusfar.\n\nIn that ARG, you received \"So, she never stopped smiling.\" as a response for inputting 0-10 Seconds as an answer.\n\nKris' consultation notably stated they were hurt by Noelle.\n\n...What's up with all of this?",
-			"styleAttributes":{},
-			"x":-7760,
-			"y":-140,
-			"width":280,
-			"height":460,
-			"color":"1"
-		},
 		{
 			"id":"7ac378a61eff195a",
 			"type":"text",
@@ -59,17 +15,6 @@
 			"y":180,
 			"width":260,
 			"height":189,
-			"color":"1"
-		},
-		{
-			"id":"f894064b2c7da9d6",
-			"type":"text",
-			"text":"THERAPY is notably capitalized here.",
-			"styleAttributes":{},
-			"x":-7760,
-			"y":-220,
-			"width":280,
-			"height":60,
 			"color":"1"
 		},
 		{
@@ -232,12 +177,67 @@
 			"width":280,
 			"height":120,
 			"color":"1"
+		},
+		{
+			"id":"8829d2dd08755bf7",
+			"type":"text",
+			"text":"Kris has been depicted wearing a sweater emblazed with the DELTA RUNE; angel crest right on the chest like whoever - whatever, this is. Is it a standardized uniform for the town, or...?",
+			"styleAttributes":{},
+			"x":-5506,
+			"y":-1960,
+			"width":440,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"9f44410eb3f5263c",
+			"type":"text",
+			"text":"What's with this symbolism for Alvin?",
+			"styleAttributes":{},
+			"x":-4607,
+			"y":-1930,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"b449b77bc2e32e28",
+			"type":"text",
+			"text":"This string of characters is important to some puzzle we haven't quite cottoned onto.",
+			"styleAttributes":{},
+			"x":-5876,
+			"y":-1960,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{
+			"id":"f894064b2c7da9d6",
+			"type":"text",
+			"text":"THERAPY is notably capitalized here.",
+			"styleAttributes":{},
+			"x":-7760,
+			"y":-300,
+			"width":280,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"d16b9ba317b166d9",
+			"type":"text",
+			"text":"Kris ostensibly made one of these questions, and considering the timeline of how this interview played out - I have reason to believe it's the last, calling back to the 'Thank you.' ARG along with the emails we've received thusfar.\n\nIn that ARG, you received \"So, she never stopped smiling.\" as a response for inputting 0-10 Seconds as an answer.\n\nKris' consultation notably stated they were hurt by Noelle.\n\n...What's up with all of this?",
+			"styleAttributes":{},
+			"x":-7760,
+			"y":-160,
+			"width":280,
+			"height":460,
+			"color":"1"
 		}
 	],
 	"edges":[
 		{
 			"id":"affc1abbfaa35015",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"d16b9ba317b166d9",
@@ -363,8 +363,9 @@
 		},
 		{
 			"id":"17eed28964ba15c1",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"direct"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"f9b21a6d466c0f72",
 			"fromSide":"right",
 			"toNode":"d16b9ba317b166d9",
@@ -373,8 +374,9 @@
 		},
 		{
 			"id":"9c167d342c9a1040",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"f894064b2c7da9d6",
 			"fromSide":"left",
 			"toNode":"f9b21a6d466c0f72",
