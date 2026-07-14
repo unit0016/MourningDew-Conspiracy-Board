@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"8c06115a8eea2837","type":"group","x":-1420,"y":-630,"width":3620,"height":1260,"color":"5","label":"Pearl's Timeline (Cyan Heart)"},
 		{"id":"11467b0df8f84c13","type":"file","file":"Conspiracy Board/Events/The ANGEL (Pearl) Arrives.md","x":-1184,"y":-578,"width":400,"height":400,"color":"5"},
-		{"id":"9dd786a73b55fefd","type":"text","text":"§ Yo, we got approval from the Council! Let's do it...! \n§ I'm so glad we've got our Needles... \n§ Just stab the earth, and...","x":-1334,"y":130,"width":320,"height":132,"color":"6"},
 		{
 			"id":"33097e7545fe1100",
 			"type":"text",
@@ -38,8 +37,20 @@
 			"color":"1"
 		},
 		{"id":"8d7f500bf8c47bb3","type":"link","url":"https://youtube.com/embed/zWoeJ8WQn8I","x":-2200,"y":48,"width":640,"height":360},
-		{"id":"2555a8032d472768","type":"text","text":"§ (In fact, you don't actually know what it means, either.)","x":-474,"y":348,"width":250,"height":60,"color":"4"},
 		{"id":"7a7921107501bb8d","type":"text","text":"§ (You couldn't seem to put the words together to explain what tragedy is...) \n§ (...almost like you didn't know them.)","x":-934,"y":334,"width":400,"height":88,"color":"4"},
+		{"id":"35f9f93bf52a3c6d","type":"file","file":"Conspiracy Board/Events/Media/Kris Room - Note Text A.png","x":-260,"y":-396,"width":220,"height":38,"color":"6"},
+		{
+			"id":"a07f6bb57f7b6997",
+			"type":"text",
+			"text":"Notably still referred to as 'The Holidays', here, in spite of Rudy and Carol ostensibly not being parts of the town at any point. What's even more confusing is that Dess' assumedly responded to at least one consultation email (#61B) in spite of Noelle having no family, so... what's going on here?",
+			"styleAttributes":{},
+			"x":180,
+			"y":450,
+			"width":530,
+			"height":160,
+			"color":"1"
+		},
+		{"id":"2555a8032d472768","type":"text","text":"§ (In fact, you don't actually know what it means, either.)","x":-474,"y":348,"width":250,"height":60,"color":"4"},
 		{
 			"id":"861b13efbc3dbd52",
 			"type":"text",
@@ -197,17 +208,6 @@
 			"color":"6"
 		},
 		{
-			"id":"d4afa6ad2bd88683",
-			"type":"text",
-			"text":"§ Pearl... \n§ Don't go in there, okay? \n§ The Holidays, they... \n§ ... \n§ Just don't.",
-			"styleAttributes":{},
-			"x":150,
-			"y":286,
-			"width":260,
-			"height":140,
-			"color":"6"
-		},
-		{
 			"id":"d34682739d48a972",
 			"type":"text",
 			"text":"§ Why did we name our town DELTA RUNE?\n§ Well, it was already said that it was going to be named that...\n§ We don't... actually know what it means.",
@@ -216,6 +216,40 @@
 			"y":222,
 			"width":260,
 			"height":200,
+			"color":"6"
+		},
+		{
+			"id":"5580e1de213881a2",
+			"type":"text",
+			"text":"§ What? \n§ You're looking for a \"Carol\"? \n§ No, there's no one named that here. \n§ ... \n§ There never was.",
+			"styleAttributes":{},
+			"x":480,
+			"y":246,
+			"width":260,
+			"height":180,
+			"color":"4"
+		},
+		{
+			"id":"5926dd62f5ca766c",
+			"type":"text",
+			"text":"§ Pearl! Oh, it's wonderful to see you. \n§ This is a section of the Church most aren't able to access, so make yourself comfortable.",
+			"styleAttributes":{},
+			"x":730,
+			"y":98,
+			"width":360,
+			"height":118,
+			"color":"6"
+		},
+		{"id":"9dd786a73b55fefd","type":"text","text":"§ Yo, we got approval from the Council! Let's do it...! \n§ I'm so glad we've got our Needles... \n§ Just stab the earth, and...","x":-1334,"y":130,"width":320,"height":132,"color":"6"},
+		{
+			"id":"d4afa6ad2bd88683",
+			"type":"text",
+			"text":"§ Pearl... \n§ Don't go in there, okay? \n§ The Holidays, they... \n§ ... \n§ Just don't.",
+			"styleAttributes":{},
+			"x":150,
+			"y":286,
+			"width":260,
+			"height":140,
 			"color":"6"
 		},
 		{
@@ -264,40 +298,6 @@
 		},
 		{"id":"76898b0295853c4e","type":"text","text":"§ Fahaha, \"tuhragehdee\"? \n§ That's such a silly word! I've never heard of it...","x":-1374,"y":334,"width":400,"height":88,"color":"4"},
 		{
-			"id":"981061223cd2c93d",
-			"type":"text",
-			"text":"See Consultation 26B for context as to why this was posted",
-			"styleAttributes":{},
-			"x":-1374,
-			"y":510,
-			"width":260,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"5580e1de213881a2",
-			"type":"text",
-			"text":"§ What? \n§ You're looking for a \"Carol\"? \n§ No, there's no one named that here. \n§ ... \n§ There never was.",
-			"styleAttributes":{},
-			"x":480,
-			"y":246,
-			"width":260,
-			"height":180,
-			"color":"4"
-		},
-		{
-			"id":"5926dd62f5ca766c",
-			"type":"text",
-			"text":"§ Pearl! Oh, it's wonderful to see you. \n§ This is a section of the Church most aren't able to access, so make yourself comfortable.",
-			"styleAttributes":{},
-			"x":730,
-			"y":98,
-			"width":360,
-			"height":118,
-			"color":"6"
-		},
-		{"id":"35f9f93bf52a3c6d","type":"file","file":"Conspiracy Board/Events/Media/Kris Room - Note Text A.png","x":-260,"y":-396,"width":220,"height":38,"color":"6"},
-		{
 			"id":"b6ea354b42cf3a66",
 			"type":"text",
 			"text":"Kris' dynamic with us is going to be drastically different, if this isn't just for Pearl - though to what end exactly...?",
@@ -331,14 +331,14 @@
 			"color":"1"
 		},
 		{
-			"id":"a07f6bb57f7b6997",
+			"id":"981061223cd2c93d",
 			"type":"text",
-			"text":"Notably still referred to as 'The Holidays', here, in spite of Rudy and Carol ostensibly not being parts of the town at any point. What's even more confusing is that Dess' assumedly responded to at least one consultation email (#61B) in spite of Noelle having no family, so... what's going on here?",
+			"text":"See Consultation 26B for context as to why this was posted",
 			"styleAttributes":{},
-			"x":180,
-			"y":450,
-			"width":530,
-			"height":160,
+			"x":-1374,
+			"y":510,
+			"width":260,
+			"height":80,
 			"color":"1"
 		},
 		{

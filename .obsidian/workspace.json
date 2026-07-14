@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
+                "file": "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
                 "viewState": {
-                  "x": -313.52899145045035,
-                  "y": -118.0255526306209,
-                  "zoom": 0.20628416722056458
+                  "x": -7649.2667593602255,
+                  "y": 235.9088162903596,
+                  "zoom": -0.7462188389333178
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Pearl's Timeline"
+              "title": "PENNY, The Device, Misc. Metacommunications, Et Al"
             }
           }
         ]
@@ -189,12 +189,12 @@
   },
   "active": "3fd9b6108a2422bd",
   "lastOpenFiles": [
-    "Conspiracy Board/Canvases/Onyx's Timeline.canvas",
-    "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
-    "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
-    "Conspiracy Board/Canvases/Player Timeline.canvas",
     "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+    "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
     "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
+    "Conspiracy Board/Canvases/Player Timeline.canvas",
+    "Conspiracy Board/Canvases/Onyx's Timeline.canvas",
+    "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
     "Conspiracy Board/Canvases/Kris.canvas",
     "image-2.png",
     "Conspiracy Board/Events/Media/Kris.png",

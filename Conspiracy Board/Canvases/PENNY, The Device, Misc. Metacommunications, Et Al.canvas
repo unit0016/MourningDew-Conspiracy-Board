@@ -1,19 +1,6 @@
 {
 	"nodes":[
 		{"id":"db8a1ac6541f9911","type":"group","x":-8760,"y":-2000,"width":16980,"height":4000,"color":"6","label":"PENNY, The Device, Misc. Metacommunications, Et Al"},
-		{"id":"4fa038861e37ca58","type":"file","file":"Conspiracy Board/Events/Media/Unknown drawning.png","x":-5616,"y":-1770,"width":660,"height":559},
-		{"id":"62218c39015a4aee","type":"link","url":"https://mourningdew.phinarina.xyz/G7DVlrUSVH244QLHOOQ/","x":-5830,"y":-1786,"width":140,"height":200},
-		{
-			"id":"b449b77bc2e32e28",
-			"type":"text",
-			"text":"This string of characters is important to some puzzle we haven't quite cottoned onto.",
-			"styleAttributes":{},
-			"x":-5876,
-			"y":-1960,
-			"width":260,
-			"height":100,
-			"color":"1"
-		},
 		{
 			"id":"8829d2dd08755bf7",
 			"type":"text",
@@ -25,30 +12,64 @@
 			"height":120,
 			"color":"1"
 		},
-		{"id":"51624c48cf2c9dc2","type":"link","url":"https://mourningdew.phinarina.xyz/interview/","x":-7420,"y":-1770,"width":1080,"height":3720},
-		{"id":"f526101511aeaf4d","type":"file","file":"Conspiracy Board/Events/Media/Penny Thank You.png","x":-6300,"y":-1752,"width":400,"height":132},
-		{"id":"3f3a22adbd304010","type":"file","file":"Conspiracy Board/Events/Media/Something with Alvin.png","x":-4460,"y":-1770,"width":113,"height":212},
 		{
-			"id":"05477ec54791b350",
+			"id":"9f44410eb3f5263c",
 			"type":"text",
-			"text":"This is clearly Kris narrating, but I hesitate to group it with Pearl's timeline of events due to the photograph. As for what they're looking for, I'm even more in the dark.",
+			"text":"What's with this symbolism for Alvin?",
 			"styleAttributes":{},
-			"x":-4880,
-			"y":-1281,
-			"width":360,
-			"height":140,
+			"x":-4607,
+			"y":-1930,
+			"width":260,
+			"height":60,
 			"color":"1"
 		},
-		{"id":"4c1648579212601a","type":"file","file":"Conspiracy Board/Events/Media/Lake.png","x":-4900,"y":-1770,"width":400,"height":300},
 		{
-			"id":"6a00e877b6c835f3",
+			"id":"b449b77bc2e32e28",
 			"type":"text",
-			"text":"Undyne's probably in with the church, with that sort of text.",
+			"text":"This string of characters is important to some puzzle we haven't quite cottoned onto.",
+			"styleAttributes":{},
+			"x":-5876,
+			"y":-1960,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{"id":"52590532278f3784","type":"file","file":"Conspiracy Board/Events/Media/PENNY Account.png","x":-5932,"y":-1168,"width":372,"height":400,"color":"4"},
+		{"id":"a9cd1e5a7742dd1d","type":"file","file":"Conspiracy Board/Events/CONSULTATION.md","x":-5946,"y":-688,"width":1126,"height":1798,"color":"4"},
+		{"id":"f9b21a6d466c0f72","type":"link","url":"https://mourningdew.phinarina.xyz/interview2/","x":-8720,"y":-674,"width":880,"height":1528},
+		{"id":"472e37d17cf7ecd5","type":"file","file":"Conspiracy Board/Events/Media/Penny.png","x":-6300,"y":-1211,"width":327,"height":400,"color":"4"},
+		{"id":"51624c48cf2c9dc2","type":"link","url":"https://mourningdew.phinarina.xyz/interview/","x":-7420,"y":-1770,"width":1080,"height":3720},
+		{
+			"id":"d16b9ba317b166d9",
+			"type":"text",
+			"text":"Kris ostensibly made one of these questions, and considering the timeline of how this interview played out - I have reason to believe it's the last, calling back to the 'Thank you.' ARG along with the emails we've received thusfar.\n\nIn that ARG, you received \"So, she never stopped smiling.\" as a response for inputting 0-10 Seconds as an answer.\n\nKris' consultation notably stated they were hurt by Noelle.\n\n...What's up with all of this?",
+			"styleAttributes":{},
+			"x":-7760,
+			"y":-140,
+			"width":280,
+			"height":460,
+			"color":"1"
+		},
+		{
+			"id":"7ac378a61eff195a",
+			"type":"text",
+			"text":"'An interesting coincidence.' was the phrase used to describe being named after a character in DELTARUNE proper. Why do these two keep that?",
 			"styleAttributes":{},
 			"x":-6220,
-			"y":600,
+			"y":180,
 			"width":260,
-			"height":80,
+			"height":189,
+			"color":"1"
+		},
+		{
+			"id":"f894064b2c7da9d6",
+			"type":"text",
+			"text":"THERAPY is notably capitalized here.",
+			"styleAttributes":{},
+			"x":-7760,
+			"y":-220,
+			"width":280,
+			"height":60,
 			"color":"1"
 		},
 		{
@@ -63,41 +84,27 @@
 			"color":"1"
 		},
 		{
-			"id":"9f44410eb3f5263c",
+			"id":"6a00e877b6c835f3",
 			"type":"text",
-			"text":"What's with this symbolism for Alvin?",
+			"text":"Undyne's probably in with the church, with that sort of text.",
 			"styleAttributes":{},
-			"x":-4607,
-			"y":-1930,
+			"x":-6220,
+			"y":600,
 			"width":260,
-			"height":60,
+			"height":80,
 			"color":"1"
 		},
-		{"id":"b78303993d679cc0","type":"file","file":"Conspiracy Board/Canvases/Consultations/Consultations.canvas","portal":true,"x":-4320,"y":-1980,"width":12590,"height":3040},
 		{
-			"id":"43037e2fe5d8c1ce",
+			"id":"8a800f6b6c569f87",
 			"type":"text",
-			"text":"A prim and proper boy. \nA crying, crying girl. \\[**ziexxbinselpqfeeagvmbpgmtxkbaqk**\\] \nA crying, crying girl.",
+			"text":"What's so dangerous about bringing up the good doctor's henchsquad?",
 			"styleAttributes":{},
-			"x":-4900,
-			"y":-1054,
-			"width":400,
-			"height":140,
-			"color":"4"
-		},
-		{"id":"f9b21a6d466c0f72","type":"link","url":"https://mourningdew.phinarina.xyz/interview2/","x":-8720,"y":-674,"width":880,"height":1528},
-		{
-			"id":"f9d1be7af2a65fe4",
-			"type":"text",
-			"text":"Notably not the full (unused) full verse as in DELTARUNE, 'Coldwater fell from top of sky.'",
-			"styleAttributes":{},
-			"x":-5932,
-			"y":-1426,
+			"x":-6220,
+			"y":740,
 			"width":260,
-			"height":115,
+			"height":100,
 			"color":"1"
 		},
-		{"id":"c47b0c8c39901c06","type":"file","file":"Conspiracy Board/Events/Media/Unknown PHOTON Drawing.png","x":-5520,"y":-1168,"width":399,"height":254},
 		{
 			"id":"324bb4dc29af9ba8",
 			"type":"text",
@@ -110,16 +117,17 @@
 			"color":"1"
 		},
 		{
-			"id":"61a9e2a856680a6b",
+			"id":"43037e2fe5d8c1ce",
 			"type":"text",
-			"text":"Coldwater fell from the sky.",
+			"text":"A prim and proper boy. \nA crying, crying girl. \\[**ziexxbinselpqfeeagvmbpgmtxkbaqk**\\] \nA crying, crying girl.",
 			"styleAttributes":{},
-			"x":-5932,
-			"y":-1531,
-			"width":260,
-			"height":60,
+			"x":-4900,
+			"y":-1054,
+			"width":400,
+			"height":140,
 			"color":"4"
 		},
+		{"id":"c47b0c8c39901c06","type":"file","file":"Conspiracy Board/Events/Media/Unknown PHOTON Drawing.png","x":-5520,"y":-1168,"width":399,"height":254},
 		{
 			"id":"5375edfca7f8f7f9",
 			"type":"text",
@@ -131,16 +139,15 @@
 			"height":60,
 			"color":"1"
 		},
-		{"id":"52590532278f3784","type":"file","file":"Conspiracy Board/Events/Media/PENNY Account.png","x":-5932,"y":-1168,"width":372,"height":400,"color":"4"},
 		{
-			"id":"8a800f6b6c569f87",
+			"id":"05477ec54791b350",
 			"type":"text",
-			"text":"What's so dangerous about bringing up the good doctor's henchsquad?",
+			"text":"This is clearly Kris narrating, but I hesitate to group it with Pearl's timeline of events due to the photograph. As for what they're looking for, I'm even more in the dark.",
 			"styleAttributes":{},
-			"x":-6220,
-			"y":740,
-			"width":260,
-			"height":100,
+			"x":-4880,
+			"y":-1281,
+			"width":360,
+			"height":140,
 			"color":"1"
 		},
 		{
@@ -154,19 +161,8 @@
 			"height":300,
 			"color":"4"
 		},
-		{
-			"id":"7ac378a61eff195a",
-			"type":"text",
-			"text":"'An interesting coincidence.' was the phrase used to describe being named after a character in DELTARUNE proper. Why do these two keep that?",
-			"styleAttributes":{},
-			"x":-6220,
-			"y":180,
-			"width":260,
-			"height":189,
-			"color":"1"
-		},
-		{"id":"a9cd1e5a7742dd1d","type":"file","file":"Conspiracy Board/Events/CONSULTATION.md","x":-5946,"y":-688,"width":1126,"height":1798,"color":"4"},
-		{"id":"472e37d17cf7ecd5","type":"file","file":"Conspiracy Board/Events/Media/Penny.png","x":-6300,"y":-1211,"width":327,"height":400,"color":"4"},
+		{"id":"b78303993d679cc0","type":"file","file":"Conspiracy Board/Canvases/Consultations/Consultations.canvas","portal":true,"x":-4320,"y":-1980,"width":12590,"height":3040},
+		{"id":"4fa038861e37ca58","type":"file","file":"Conspiracy Board/Events/Media/Unknown drawning.png","x":-5616,"y":-1770,"width":660,"height":559},
 		{
 			"id":"11bee713a8762eb2",
 			"type":"text",
@@ -179,17 +175,6 @@
 			"color":"4"
 		},
 		{
-			"id":"d16b9ba317b166d9",
-			"type":"text",
-			"text":"Kris ostensibly made one of these questions, and considering the timeline of how this interview played out - I have reason to believe it's the last, calling back to the 'Thank you.' ARG along with the emails we've received thusfar.\n\nIn that ARG, you received \"So, she never stopped smiling.\" as a response for inputting 0-10 Seconds as an answer.\n\nKris' consultation notably stated they were hurt by Noelle.\n\n...What's up with all of this?",
-			"styleAttributes":{},
-			"x":-7760,
-			"y":-140,
-			"width":280,
-			"height":460,
-			"color":"1"
-		},
-		{
 			"id":"8ccadfd7fc06faa7",
 			"type":"text",
 			"text":"§ It’s just within reach. If you just wiggle your hand… \n§ …if you could only move your hand like so…",
@@ -199,6 +184,54 @@
 			"width":260,
 			"height":120,
 			"color":"6"
+		},
+		{
+			"id":"f9d1be7af2a65fe4",
+			"type":"text",
+			"text":"Notably not the full (unused) full verse as in DELTARUNE, 'Coldwater fell from top of sky.'",
+			"styleAttributes":{},
+			"x":-5932,
+			"y":-1426,
+			"width":260,
+			"height":115,
+			"color":"1"
+		},
+		{"id":"4c1648579212601a","type":"file","file":"Conspiracy Board/Events/Media/Lake.png","x":-4900,"y":-1770,"width":400,"height":300},
+		{
+			"id":"61a9e2a856680a6b",
+			"type":"text",
+			"text":"Coldwater fell from the sky.",
+			"styleAttributes":{},
+			"x":-5932,
+			"y":-1531,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"3f3a22adbd304010","type":"file","file":"Conspiracy Board/Events/Media/Something with Alvin.png","x":-4460,"y":-1770,"width":113,"height":212},
+		{"id":"f526101511aeaf4d","type":"file","file":"Conspiracy Board/Events/Media/Penny Thank You.png","x":-6300,"y":-1752,"width":400,"height":132},
+		{"id":"62218c39015a4aee","type":"link","url":"https://mourningdew.phinarina.xyz/G7DVlrUSVH244QLHOOQ/","x":-5830,"y":-1786,"width":140,"height":200},
+		{
+			"id":"7d1bd5baa6cfea25",
+			"type":"text",
+			"text":"It's important they allow us to do this; right now?",
+			"styleAttributes":{},
+			"x":-7760,
+			"y":340,
+			"width":280,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"ce3787f86dbdd1c1",
+			"type":"text",
+			"text":"PENNY's able to respond to this board, as she has the other boards before now. ...And call me out! Twice!",
+			"styleAttributes":{},
+			"x":-7760,
+			"y":420,
+			"width":280,
+			"height":120,
+			"color":"1"
 		}
 	],
 	"edges":[
@@ -337,6 +370,38 @@
 			"toNode":"d16b9ba317b166d9",
 			"toSide":"left",
 			"color":"4"
+		},
+		{
+			"id":"9c167d342c9a1040",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f894064b2c7da9d6",
+			"fromSide":"left",
+			"toNode":"f9b21a6d466c0f72",
+			"toSide":"right",
+			"color":"1"
+		},
+		{
+			"id":"85a18774d728e2a4",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"7d1bd5baa6cfea25",
+			"fromSide":"left",
+			"toNode":"f9b21a6d466c0f72",
+			"toSide":"right",
+			"color":"1"
+		},
+		{
+			"id":"1b574e6247280b3f",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"ce3787f86dbdd1c1",
+			"fromSide":"left",
+			"toNode":"f9b21a6d466c0f72",
+			"toSide":"right",
+			"color":"1"
 		}
 	],
 	"metadata":{
