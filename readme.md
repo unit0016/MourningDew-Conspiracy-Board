@@ -9,8 +9,11 @@ If you are *on* the web mirror; you can alternatively contribute / download a lo
 ### Guidelines
 
 Generally speaking:
+
 **Comments, theories, et al** are marked in Red.
+
 **Metacommunication** is marked in Green.
+
 **In-universe text or events** are marked in Blurple.
 
 # Contributing / Reading Locally
