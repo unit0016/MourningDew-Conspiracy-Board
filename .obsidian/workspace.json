@@ -11,10 +11,17 @@
             "id": "3fd9b6108a2422bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
+                "viewState": {
+                  "x": -4127.233777898069,
+                  "y": -1557.7721346894134,
+                  "zoom": -0.008357828105650333
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "PENNY, The Device, Misc. Metacommunications, Et Al"
             }
           }
         ]
@@ -179,8 +186,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "7cf0f3b6e0984c2f",
+  "active": "3fd9b6108a2422bd",
   "lastOpenFiles": [
+    "Conspiracy Board/Events/Media/Scores.png",
     "Conspiracy Board/Canvases/Consultations/Consultations.canvas",
     "readme.md",
     "Conspiracy Board/Canvases/Conspiracy Board.canvas",
