@@ -2,39 +2,72 @@
 	"nodes":[
 		{"id":"4f7f6507edd4eceb","type":"group","x":-1920,"y":-600,"width":3840,"height":1200,"color":"3","label":"Kris, Outside The Lines"},
 		{"id":"83dcf9b6e27cbd9e","type":"group","x":-1840,"y":320,"width":520,"height":260,"color":"2","label":"Probably Kris being silly (good for them)"},
+		{"id":"33f900fc7a8d0819","type":"link","url":"https://www.youtube.com/embed/vvHnpyFiO_k","x":440,"y":220,"width":640,"height":360},
+		{
+			"id":"ff40d377e4df8c0e",
+			"type":"text",
+			"text":"About that last one... Don't you think something seems off...?",
+			"styleAttributes":{},
+			"x":760,
+			"y":-60,
+			"width":260,
+			"height":100,
+			"color":"4"
+		},
 		{"id":"89b7808dd1b175dd","type":"file","file":"Conspiracy Board/Events/Media/Important Person's Shirt A.png","x":-383,"y":-530,"width":283,"height":400},
+		{
+			"id":"c57de21c45f8e167",
+			"type":"text",
+			"text":"They, really are all happy, aren't they?\n\nYet, when I look at them... it's as if I dont even know who I'm looking at.\n\nI'll show them... that not all roads have to lead to the same place.\n\nThat there's another side, as long as you're able to go outside of the lines...\n\nSoon.\n\n\n\nhttps://www.youtube.com/@krisdreemurrkris",
+			"styleAttributes":{},
+			"x":200,
+			"y":-260,
+			"width":480,
+			"height":335,
+			"color":"4"
+		},
 		{
 			"id":"6d8fb99d379b2691",
 			"type":"text",
 			"text":"Recognized Pearl in one of the Excalidraw boards, maybe?",
 			"styleAttributes":{},
-			"x":-100,
-			"y":460,
+			"x":-1560,
+			"y":-373,
 			"width":260,
 			"height":90,
 			"color":"1"
 		},
-		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation A.png","x":-1300,"y":-30,"width":360,"height":623},
 		{
-			"id":"c7bc4975dcff77f5",
+			"id":"bfdfcd8b4ce75220",
 			"type":"text",
-			"text":"Playing up the fact they aren't exactly fond of themselves, here, with their consultation? Then again, not like I've heard of a Kris having a good experience with Therapy.",
+			"text":"*You don't like looking at this sort of thing.\n§ Wait, what was that *?\n                                                                -Kris \\[Blotched out with Black Ink\\]\n                                                                \n",
 			"styleAttributes":{},
-			"x":-1600,
-			"y":60,
-			"width":260,
-			"height":200,
+			"x":-1880,
+			"y":-483,
+			"width":530,
+			"height":90,
+			"color":"4"
+		},
+		{
+			"id":"6901ca51ee43da5e",
+			"type":"text",
+			"text":"In reference to a 'Green Diamond' in someone's Consultation.",
+			"styleAttributes":{},
+			"x":-1880,
+			"y":-573,
+			"width":400,
+			"height":60,
 			"color":"1"
 		},
 		{
-			"id":"113bbd93683bf04b",
+			"id":"c3da14ca338f91ef",
 			"type":"text",
-			"text":"§ Suddenly, you\nthought very hard\nabout an animated\nseries you watched\nas a kid...\n§ \"Automatic Duck.\"",
+			"text":"§ Sup, Pearl?",
 			"styleAttributes":{},
-			"x":-1600,
-			"y":358,
+			"x":-1880,
+			"y":-313,
 			"width":260,
-			"height":192,
+			"height":60,
 			"color":"4"
 		},
 		{
@@ -70,31 +103,8 @@
 				}
 			]
 		},
+		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation A.png","x":-1300,"y":-30,"width":360,"height":623},
 		{"id":"39072fe0f939818b","type":"file","file":"Conspiracy Board/Events/Media/Kris' consultation screenshot (lq).png","x":-820,"y":-530,"width":400,"height":364},
-		{"id":"464c0d71bd14601b","type":"file","file":"Conspiracy Board/Events/Media/Can anyone try to recognize December.png","x":-1260,"y":-393,"width":400,"height":91},
-		{"id":"515d1db5d1f1856a","type":"file","file":"Conspiracy Board/Events/Media/Kris Account.png","x":-1260,"y":-530,"width":399,"height":82},
-		{
-			"id":"5794380380c64dd9",
-			"type":"text",
-			"text":"Who is Kris referring to here?",
-			"styleAttributes":{},
-			"x":240,
-			"y":-408,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"c57de21c45f8e167",
-			"type":"text",
-			"text":"They, really are all happy, aren't they?\n\nYet, when I look at them... it's as if I dont even know who I'm looking at.\n\nI'll show them... that not all roads have to lead to the same place.\n\nThat there's another side, as long as you're able to go outside of the lines...\n\nSoon.\n\n\n\nhttps://www.youtube.com/@krisdreemurrkris",
-			"styleAttributes":{},
-			"x":200,
-			"y":-260,
-			"width":480,
-			"height":335,
-			"color":"4"
-		},
 		{"id":"3d1900dbef0db239","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation B.png","x":-896,"y":133,"width":441,"height":460},
 		{
 			"id":"b3654c65c5c0c62e",
@@ -107,52 +117,44 @@
 			"height":100,
 			"color":"1"
 		},
-		{
-			"id":"bfdfcd8b4ce75220",
-			"type":"text",
-			"text":"*You don't like looking at this sort of thing.\n§ Wait, what was that *?\n                                                                -Kris \\[Blotched out with Black Ink\\]\n                                                                \n",
-			"styleAttributes":{},
-			"x":-420,
-			"y":350,
-			"width":530,
-			"height":90,
-			"color":"4"
-		},
 		{"id":"89457a68dbf51514","type":"file","file":"Conspiracy Board/Events/Media/Important Person's Shirt B.png","x":-355,"y":-92,"width":226,"height":29},
 		{
-			"id":"6901ca51ee43da5e",
+			"id":"c7bc4975dcff77f5",
 			"type":"text",
-			"text":"In reference to a 'Green Diamond' in someone's Consultation.",
+			"text":"Playing up the fact they aren't exactly fond of themselves, here, with their consultation? Then again, not like I've heard of a Kris having a good experience with Therapy.",
 			"styleAttributes":{},
-			"x":-420,
-			"y":260,
-			"width":400,
+			"x":-1600,
+			"y":60,
+			"width":260,
+			"height":200,
+			"color":"1"
+		},
+		{"id":"464c0d71bd14601b","type":"file","file":"Conspiracy Board/Events/Media/Can anyone try to recognize December.png","x":-1260,"y":-393,"width":400,"height":91},
+		{
+			"id":"5794380380c64dd9",
+			"type":"text",
+			"text":"Who is Kris referring to here?",
+			"styleAttributes":{},
+			"x":240,
+			"y":-408,
+			"width":260,
 			"height":60,
 			"color":"1"
 		},
+		{"id":"515d1db5d1f1856a","type":"file","file":"Conspiracy Board/Events/Media/Kris Account.png","x":-1260,"y":-530,"width":399,"height":82},
 		{
-			"id":"c3da14ca338f91ef",
+			"id":"113bbd93683bf04b",
 			"type":"text",
-			"text":"§ Sup, Pearl?",
+			"text":"§ Suddenly, you\nthought very hard\nabout an animated\nseries you watched\nas a kid...\n§ \"Automatic Duck.\"",
 			"styleAttributes":{},
-			"x":-420,
-			"y":520,
+			"x":-1600,
+			"y":358,
 			"width":260,
-			"height":60,
+			"height":192,
 			"color":"4"
 		},
-		{"id":"33f900fc7a8d0819","type":"link","url":"https://www.youtube.com/embed/vvHnpyFiO_k","x":440,"y":220,"width":640,"height":360},
-		{
-			"id":"ff40d377e4df8c0e",
-			"type":"text",
-			"text":"About that last one... Don't you think something seems off...?",
-			"styleAttributes":{},
-			"x":760,
-			"y":-60,
-			"width":260,
-			"height":100,
-			"color":"4"
-		}
+		{"id":"2457d1d6d96692c9","type":"file","file":"image-2.png","x":9,"y":405,"width":177,"height":98,"color":"4"},
+		{"id":"658ace554eec80e4","type":"file","file":"Conspiracy Board/Events/Media/Kris Sick.png","x":240,"y":405,"width":164,"height":145,"color":"4"}
 	],
 	"edges":[
 		{
@@ -245,6 +247,17 @@
 			"fromSide":"right",
 			"toNode":"39072fe0f939818b",
 			"toSide":"left"
+		},
+		{
+			"id":"4bbf8b279d839149",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"658ace554eec80e4",
+			"fromSide":"left",
+			"toNode":"2457d1d6d96692c9",
+			"toSide":"right",
+			"color":"4"
 		}
 	],
 	"metadata":{

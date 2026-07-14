@@ -14,19 +14,64 @@
 			"interdimensionalEdges":[
 				{
 					"id":"1440d32da27701ca",
-					"styleAttributes":{"pathfindingMethod":"square"},
+					"styleAttributes":{"pathfindingMethod":"a-star"},
 					"toFloating":false,
+					"fromFloating":false,
 					"fromNode":"acportal||772b59ba0a4cdc62||c3da14ca338f91ef",
 					"fromSide":"bottom",
 					"toNode":"3d076ed772c22024",
 					"toSide":"top",
 					"color":"4"
+				},
+				{
+					"id":"03079f220128a8d7",
+					"styleAttributes":{"pathfindingMethod":"square"},
+					"toFloating":false,
+					"fromFloating":false,
+					"fromNode":"d32f71f20909c917",
+					"fromSide":"top",
+					"toNode":"acportal||772b59ba0a4cdc62||658ace554eec80e4",
+					"toSide":"bottom",
+					"color":"4"
 				}
 			]
 		},
-		{"id":"3d076ed772c22024","type":"file","file":"Conspiracy Board/Canvases/Pearl's Timeline.canvas","portal":true,"x":-1360,"y":-480,"width":4500,"height":1360},
+		{
+			"id":"3d076ed772c22024",
+			"type":"file",
+			"file":"Conspiracy Board/Canvases/Pearl's Timeline.canvas",
+			"portal":true,
+			"x":-1360,
+			"y":-480,
+			"width":4500,
+			"height":1360,
+			"interdimensionalEdges":[
+				{
+					"id":"fce36aa3a77f6644",
+					"styleAttributes":{"pathfindingMethod":"square"},
+					"toFloating":false,
+					"fromFloating":false,
+					"fromNode":"acportal||3d076ed772c22024||5c17e88e837991da",
+					"fromSide":"top",
+					"toNode":"d32f71f20909c917",
+					"toSide":"bottom",
+					"color":"4"
+				}
+			]
+		},
 		{"id":"b28bf6d6365eda54","type":"file","file":"Conspiracy Board/Canvases/Onyx's Timeline.canvas","portal":true,"x":-600,"y":960,"width":876,"height":600},
-		{"id":"e65c4ac87700c850","type":"file","file":"Conspiracy Board/Canvases/Player Timeline.canvas","portal":true,"x":-600,"y":1600,"width":1220,"height":580}
+		{"id":"e65c4ac87700c850","type":"file","file":"Conspiracy Board/Canvases/Player Timeline.canvas","portal":true,"x":-600,"y":1600,"width":1220,"height":580},
+		{
+			"id":"d32f71f20909c917",
+			"type":"text",
+			"text":"Kris' appearance",
+			"styleAttributes":{},
+			"x":1602,
+			"y":-540,
+			"width":260,
+			"height":60,
+			"color":"4"
+		}
 	],
 	"edges":[],
 	"metadata":{

@@ -2,17 +2,6 @@
 	"nodes":[
 		{"id":"8c06115a8eea2837","type":"group","x":-1420,"y":-630,"width":3620,"height":1260,"color":"5","label":"Pearl's Timeline (Cyan Heart)"},
 		{
-			"id":"8fc58a85d5a5d837",
-			"type":"text",
-			"text":"§ What must it be like to be Noelle? \n§ She's got no family, but always has a smile on her face. \n§ I wonder how she does it...?",
-			"styleAttributes":{},
-			"x":-200,
-			"y":290,
-			"width":300,
-			"height":132,
-			"color":"6"
-		},
-		{
 			"id":"8379860d46fc06bf",
 			"type":"text",
 			"text":"Deliberately calling out the fact they're an NPC is...\nWho is this?",
@@ -23,18 +12,54 @@
 			"height":100,
 			"color":"1"
 		},
+		{"id":"11467b0df8f84c13","type":"file","file":"Conspiracy Board/Events/The ANGEL (Pearl) Arrives.md","x":-1184,"y":-578,"width":400,"height":400,"color":"5"},
+		{"id":"9dd786a73b55fefd","type":"text","text":"§ Yo, we got approval from the Council! Let's do it...! \n§ I'm so glad we've got our Needles... \n§ Just stab the earth, and...","x":-1334,"y":130,"width":320,"height":132,"color":"6"},
 		{
-			"id":"d4afa6ad2bd88683",
+			"id":"33097e7545fe1100",
 			"type":"text",
-			"text":"§ Pearl... \n§ Don't go in there, okay? \n§ The Holidays, they... \n§ ... \n§ Just don't.",
+			"text":"Most likely connected, but how they flow together on-face is slightly less clear to me.",
 			"styleAttributes":{},
-			"x":150,
-			"y":286,
+			"x":-1044,
+			"y":-110,
 			"width":260,
-			"height":140,
+			"height":116,
+			"color":"1"
+		},
+		{
+			"id":"87599852254a2fef",
+			"type":"text",
+			"text":"pearl is an\n`G7DVlrUSVH244QLHOOQ`\nby the way",
+			"styleAttributes":{},
+			"x":-1820,
+			"y":-482,
+			"width":260,
+			"height":117,
+			"color":"4"
+		},
+		{"id":"6310de5433ed8bab","type":"file","file":"Conspiracy Board/Events/Media/Kris Room - Note Text B (Writing).png","x":-1374,"y":-468,"width":150,"height":180,"color":"6"},
+		{
+			"id":"495018499f948d32",
+			"type":"text",
+			"text":"Monster Kid, Kris, & Pearl here at some point along this timeline",
+			"styleAttributes":{},
+			"x":-1334,
+			"y":-86,
+			"width":260,
+			"height":92,
+			"color":"1"
+		},
+		{"id":"8d7f500bf8c47bb3","type":"link","url":"https://youtube.com/embed/zWoeJ8WQn8I","x":-2200,"y":48,"width":640,"height":360},
+		{
+			"id":"5695985007f38b9a",
+			"type":"text",
+			"text":"§ ...Thank you. \n§ - Kris \n§ (...) \nTear up the note 🩵 Fold the note up neatly",
+			"styleAttributes":{},
+			"x":0,
+			"y":-437,
+			"width":360,
+			"height":120,
 			"color":"6"
 		},
-		{"id":"9dd786a73b55fefd","type":"text","text":"§ Yo, we got approval from the Council! Let's do it...! \n§ I'm so glad we've got our Needles... \n§ Just stab the earth, and...","x":-1334,"y":130,"width":320,"height":132,"color":"6"},
 		{
 			"id":"5810a7ff33c81b80",
 			"type":"text",
@@ -57,19 +82,6 @@
 			"height":164,
 			"color":"6"
 		},
-		{"id":"7a7921107501bb8d","type":"text","text":"§ (You couldn't seem to put the words together to explain what tragedy is...) \n§ (...almost like you didn't know them.)","x":-934,"y":334,"width":400,"height":88,"color":"4"},
-		{"id":"76898b0295853c4e","type":"text","text":"§ Fahaha, \"tuhragehdee\"? \n§ That's such a silly word! I've never heard of it...","x":-1374,"y":334,"width":400,"height":88,"color":"4"},
-		{
-			"id":"5580e1de213881a2",
-			"type":"text",
-			"text":"§ What? \n§ You're looking for a \"Carol\"? \n§ No, there's no one named that here. \n§ ... \n§ There never was.",
-			"styleAttributes":{},
-			"x":480,
-			"y":246,
-			"width":260,
-			"height":180,
-			"color":"4"
-		},
 		{
 			"id":"f576ce166a10d580",
 			"type":"text",
@@ -80,6 +92,39 @@
 			"width":260,
 			"height":100,
 			"color":"4"
+		},
+		{
+			"id":"861b13efbc3dbd52",
+			"type":"text",
+			"text":"§ (There's a pencil in your brother's\nshirt pocket, next to the yellow line...)",
+			"styleAttributes":{},
+			"x":1380,
+			"y":-603,
+			"width":260,
+			"height":136,
+			"color":"6"
+		},
+		{
+			"id":"8fc58a85d5a5d837",
+			"type":"text",
+			"text":"§ What must it be like to be Noelle? \n§ She's got no family, but always has a smile on her face. \n§ I wonder how she does it...?",
+			"styleAttributes":{},
+			"x":-200,
+			"y":290,
+			"width":300,
+			"height":132,
+			"color":"6"
+		},
+		{
+			"id":"d4afa6ad2bd88683",
+			"type":"text",
+			"text":"§ Pearl... \n§ Don't go in there, okay? \n§ The Holidays, they... \n§ ... \n§ Just don't.",
+			"styleAttributes":{},
+			"x":150,
+			"y":286,
+			"width":260,
+			"height":140,
+			"color":"6"
 		},
 		{
 			"id":"a07f6bb57f7b6997",
@@ -93,77 +138,6 @@
 			"color":"1"
 		},
 		{
-			"id":"fb986b1502f5c688",
-			"type":"text",
-			"text":"Considering how fervently the town is seemingly indoctrinated into this interpretation of the mythos - is information about the Final Tragedy suppressed to the point that tragedy is an 'un-word'?",
-			"styleAttributes":{},
-			"x":-615,
-			"y":450,
-			"width":415,
-			"height":140,
-			"color":"1"
-		},
-		{
-			"id":"981061223cd2c93d",
-			"type":"text",
-			"text":"See Consultation 26B for context as to why this was posted",
-			"styleAttributes":{},
-			"x":-1374,
-			"y":510,
-			"width":260,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"87599852254a2fef",
-			"type":"text",
-			"text":"pearl is an\n`G7DVlrUSVH244QLHOOQ`\nby the way",
-			"styleAttributes":{},
-			"x":-1820,
-			"y":-482,
-			"width":260,
-			"height":117,
-			"color":"4"
-		},
-		{
-			"id":"495018499f948d32",
-			"type":"text",
-			"text":"Monster Kid, Kris, & Pearl here at some point along this timeline",
-			"styleAttributes":{},
-			"x":-1334,
-			"y":-86,
-			"width":260,
-			"height":92,
-			"color":"1"
-		},
-		{"id":"11467b0df8f84c13","type":"file","file":"Conspiracy Board/Events/The ANGEL (Pearl) Arrives.md","x":-1184,"y":-578,"width":400,"height":400,"color":"5"},
-		{"id":"6310de5433ed8bab","type":"file","file":"Conspiracy Board/Events/Media/Kris Room - Note Text B (Writing).png","x":-1374,"y":-468,"width":150,"height":180,"color":"6"},
-		{"id":"8d7f500bf8c47bb3","type":"link","url":"https://youtube.com/embed/zWoeJ8WQn8I","x":-2200,"y":48,"width":640,"height":360},
-		{
-			"id":"33097e7545fe1100",
-			"type":"text",
-			"text":"Most likely connected, but how they flow together on-face is slightly less clear to me.",
-			"styleAttributes":{},
-			"x":-1044,
-			"y":-110,
-			"width":260,
-			"height":116,
-			"color":"1"
-		},
-		{"id":"a6622f3f853df246","type":"text","text":"§ Pearl...?\r\n§ Are you awake?\r\n§ Kris, honey, you better not be making it sleep in...\r\n§ The Festival is starting, you know!","x":-740,"y":-442,"width":440,"height":129,"color":"6"},
-		{"id":"2555a8032d472768","type":"text","text":"§ (In fact, you don't actually know what it means, either.)","x":-474,"y":348,"width":250,"height":60,"color":"4"},
-		{
-			"id":"cdaf96c6014347d7",
-			"type":"text",
-			"text":"'Home' leitmotif is used in Kris' room and they're still referred to as Dreemurr, reasonable to assume this is Toriel",
-			"styleAttributes":{},
-			"x":-700,
-			"y":-270,
-			"width":260,
-			"height":140,
-			"color":"1"
-		},
-		{
 			"id":"d34682739d48a972",
 			"type":"text",
 			"text":"§ Why did we name our town DELTA RUNE?\n§ Well, it was already said that it was going to be named that...\n§ We don't... actually know what it means.",
@@ -172,28 +146,6 @@
 			"y":222,
 			"width":260,
 			"height":200,
-			"color":"6"
-		},
-		{
-			"id":"2d8d14b283091691",
-			"type":"text",
-			"text":"The symbology of the DELTA RUNE is still rather omnipresent - how is it referred to now?",
-			"styleAttributes":{},
-			"x":1440,
-			"y":470,
-			"width":260,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"861b13efbc3dbd52",
-			"type":"text",
-			"text":"§ (There's a pencil in your brother's\nshirt pocket, next to the yellow line...)",
-			"styleAttributes":{},
-			"x":1380,
-			"y":-603,
-			"width":260,
-			"height":136,
 			"color":"6"
 		},
 		{
@@ -219,6 +171,64 @@
 			"color":"1"
 		},
 		{
+			"id":"5c17e88e837991da",
+			"type":"text",
+			"text":"§ (Just out of view, \n§ Just perfectly out of view, \n§ Was a closet \n§ You don't remember being there.) \n§ As if they were your own, your hands moved to open the door... \n§ (It's one of your brother's old shirts.) \n§ These clothes have no power over you anymore. \n§ Sickly purple and green.",
+			"styleAttributes":{},
+			"x":1005,
+			"y":-603,
+			"width":340,
+			"height":290,
+			"color":"6"
+		},
+		{
+			"id":"fb986b1502f5c688",
+			"type":"text",
+			"text":"Considering how fervently the town is seemingly indoctrinated into this interpretation of the mythos - is information about the Final Tragedy suppressed to the point that tragedy is an 'un-word'?",
+			"styleAttributes":{},
+			"x":-615,
+			"y":450,
+			"width":415,
+			"height":140,
+			"color":"1"
+		},
+		{"id":"2555a8032d472768","type":"text","text":"§ (In fact, you don't actually know what it means, either.)","x":-474,"y":348,"width":250,"height":60,"color":"4"},
+		{
+			"id":"5c1dfc65bd80868d",
+			"type":"text",
+			"text":"§ Hey Pearl! I'm the Signs NPC!\n§ Did you know you can interact with SIGNs using \\[Z\\]?\n§ Just like how you interacted with me!\n§ Isn't that goodgood?",
+			"styleAttributes":{},
+			"x":1090,
+			"y":268,
+			"width":320,
+			"height":160,
+			"color":"6"
+		},
+		{
+			"id":"12048fde18bebc7d",
+			"type":"text",
+			"text":"§ What are you talking about???\n§ Pearl, is everything okay?",
+			"styleAttributes":{},
+			"x":1110,
+			"y":116,
+			"width":280,
+			"height":82,
+			"color":"4"
+		},
+		{"id":"7a7921107501bb8d","type":"text","text":"§ (You couldn't seem to put the words together to explain what tragedy is...) \n§ (...almost like you didn't know them.)","x":-934,"y":334,"width":400,"height":88,"color":"4"},
+		{"id":"76898b0295853c4e","type":"text","text":"§ Fahaha, \"tuhragehdee\"? \n§ That's such a silly word! I've never heard of it...","x":-1374,"y":334,"width":400,"height":88,"color":"4"},
+		{
+			"id":"981061223cd2c93d",
+			"type":"text",
+			"text":"See Consultation 26B for context as to why this was posted",
+			"styleAttributes":{},
+			"x":-1374,
+			"y":510,
+			"width":260,
+			"height":80,
+			"color":"1"
+		},
+		{
 			"id":"7a156310954b30de",
 			"type":"text",
 			"text":"§ Ha... Pearl...! § We've been spending all morning blowing up these inflatable SUSIEs for you. \n§ We know they're your favorite, so feel free to grab as many as you like!",
@@ -228,6 +238,40 @@
 			"width":720,
 			"height":60,
 			"color":"6"
+		},
+		{
+			"id":"5580e1de213881a2",
+			"type":"text",
+			"text":"§ What? \n§ You're looking for a \"Carol\"? \n§ No, there's no one named that here. \n§ ... \n§ There never was.",
+			"styleAttributes":{},
+			"x":480,
+			"y":246,
+			"width":260,
+			"height":180,
+			"color":"4"
+		},
+		{
+			"id":"5926dd62f5ca766c",
+			"type":"text",
+			"text":"§ Pearl! Oh, it's wonderful to see you. \n§ This is a section of the Church most aren't able to access, so make yourself comfortable.",
+			"styleAttributes":{},
+			"x":730,
+			"y":98,
+			"width":360,
+			"height":118,
+			"color":"6"
+		},
+		{"id":"a6622f3f853df246","type":"text","text":"§ Pearl...?\r\n§ Are you awake?\r\n§ Kris, honey, you better not be making it sleep in...\r\n§ The Festival is starting, you know!","x":-740,"y":-442,"width":440,"height":129,"color":"6"},
+		{
+			"id":"cdaf96c6014347d7",
+			"type":"text",
+			"text":"'Home' leitmotif is used in Kris' room and they're still referred to as Dreemurr, reasonable to assume this is Toriel",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-270,
+			"width":260,
+			"height":140,
+			"color":"1"
 		},
 		{
 			"id":"187a27f5de6c80ea",
@@ -242,17 +286,6 @@
 		},
 		{"id":"35f9f93bf52a3c6d","type":"file","file":"Conspiracy Board/Events/Media/Kris Room - Note Text A.png","x":-260,"y":-396,"width":220,"height":38,"color":"6"},
 		{
-			"id":"b6ea354b42cf3a66",
-			"type":"text",
-			"text":"Kris' dynamic with us is going to be drastically different, if this isn't just for Pearl - though to what end exactly...?",
-			"styleAttributes":{},
-			"x":-65,
-			"y":-270,
-			"width":415,
-			"height":100,
-			"color":"1"
-		},
-		{
 			"id":"a1e5dc2eee53b3a9",
 			"type":"text",
 			"text":"§ (You look at your own Needle.) \n§ (You begin to remember...) \n§ (...And then slam that memory shut.)",
@@ -264,38 +297,38 @@
 			"color":"6"
 		},
 		{
-			"id":"5c17e88e837991da",
+			"id":"b6ea354b42cf3a66",
 			"type":"text",
-			"text":"§ (Just out of view, \n§ Just perfectly out of view, \n§ Was a closet \n§ You don't remember being there.) \n§ As if they were your own, your hands moved to open the door... \n§ (It's one of your brother's old shirts.) \n§ These clothes have no power over you anymore. \n§ Sickly purple and green.",
+			"text":"Kris' dynamic with us is going to be drastically different, if this isn't just for Pearl - though to what end exactly...?",
 			"styleAttributes":{},
-			"x":1005,
-			"y":-603,
-			"width":340,
-			"height":290,
+			"x":-65,
+			"y":-270,
+			"width":415,
+			"height":100,
+			"color":"1"
+		},
+		{"id":"b006c064f25ebb03","type":"file","file":"Conspiracy Board/Events/Media/2026-07-13 17-19-49.mp4","x":390,"y":-210,"width":500,"height":281,"color":"6"},
+		{
+			"id":"e5a6cc13578d154d",
+			"type":"text",
+			"text":"§ ...Leave us be. \n§ Our dream \n§ Has become a nightmare.",
+			"styleAttributes":{},
+			"x":350,
+			"y":116,
+			"width":260,
+			"height":100,
 			"color":"6"
 		},
-		{"id":"5f1e8177b390fc9b","type":"file","file":"Conspiracy Board/Events/Media/Kris.png","x":880,"y":-586,"width":65,"height":119,"color":"6"},
 		{
-			"id":"5c1dfc65bd80868d",
+			"id":"2d8d14b283091691",
 			"type":"text",
-			"text":"§ Hey Pearl! I'm the Signs NPC!\n§ Did you know you can interact with SIGNs using \\[Z\\]?\n§ Just like how you interacted with me!\n§ Isn't that goodgood?",
+			"text":"The symbology of the DELTA RUNE is still rather omnipresent - how is it referred to now?",
 			"styleAttributes":{},
-			"x":1090,
-			"y":268,
-			"width":320,
-			"height":160,
-			"color":"6"
-		},
-		{
-			"id":"5695985007f38b9a",
-			"type":"text",
-			"text":"§ ...Thank you. \n§ - Kris \n§ (...) \nTear up the note 🩵 Fold the note up neatly",
-			"styleAttributes":{},
-			"x":0,
-			"y":-437,
-			"width":360,
+			"x":1440,
+			"y":470,
+			"width":260,
 			"height":120,
-			"color":"6"
+			"color":"1"
 		},
 		{
 			"id":"d795bf2ab163b1c9",
@@ -308,7 +341,6 @@
 			"height":60,
 			"color":"6"
 		},
-		{"id":"b006c064f25ebb03","type":"file","file":"Conspiracy Board/Events/Media/2026-07-13 17-19-49.mp4","x":390,"y":-210,"width":500,"height":281,"color":"6"},
 		{
 			"id":"0d0fd32f7a3215c0",
 			"type":"text",
@@ -319,39 +351,6 @@
 			"width":260,
 			"height":60,
 			"color":"1"
-		},
-		{
-			"id":"12048fde18bebc7d",
-			"type":"text",
-			"text":"§ What are you talking about???\n§ Pearl, is everything okay?",
-			"styleAttributes":{},
-			"x":1110,
-			"y":116,
-			"width":280,
-			"height":82,
-			"color":"4"
-		},
-		{
-			"id":"5926dd62f5ca766c",
-			"type":"text",
-			"text":"§ Pearl! Oh, it's wonderful to see you. \n§ This is a section of the Church most aren't able to access, so make yourself comfortable.",
-			"styleAttributes":{},
-			"x":730,
-			"y":98,
-			"width":360,
-			"height":118,
-			"color":"6"
-		},
-		{
-			"id":"e5a6cc13578d154d",
-			"type":"text",
-			"text":"§ ...Leave us be. \n§ Our dream \n§ Has become a nightmare.",
-			"styleAttributes":{},
-			"x":350,
-			"y":116,
-			"width":260,
-			"height":100,
-			"color":"6"
 		}
 	],
 	"edges":[
@@ -548,18 +547,6 @@
 			"fromSide":"right",
 			"toNode":"11467b0df8f84c13",
 			"toSide":"left"
-		},
-		{
-			"id":"25563660af96b5cd",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"5f1e8177b390fc9b",
-			"fromSide":"right",
-			"toNode":"5c17e88e837991da",
-			"toSide":"left",
-			"fromEnd":"arrow",
-			"color":"6"
 		},
 		{
 			"id":"32c7e2cacdbe11db",

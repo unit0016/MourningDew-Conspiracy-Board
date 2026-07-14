@@ -11,14 +11,17 @@
             "id": "3fd9b6108a2422bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
+                "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+                "viewState": {
+                  "x": 2012.1801019724708,
+                  "y": -441.9933190181621,
+                  "zoom": -0.9999999999999998
+                }
               },
-              "icon": "lucide-file",
-              "title": "readme"
+              "icon": "lucide-layout-dashboard",
+              "title": "Conspiracy Board"
             }
           }
         ]
@@ -186,16 +189,20 @@
   },
   "active": "3fd9b6108a2422bd",
   "lastOpenFiles": [
-    "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
     "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
+    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+    "Conspiracy Board/Canvases/Kris.canvas",
+    "image-2.png",
+    "Conspiracy Board/Events/Media/Kris.png",
+    "Conspiracy Board/Events/Media/Kris Sick.png",
+    "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
+    "readme.md",
     "Conspiracy Board/Events/Gerson Boom's death.md",
     "Conspiracy Board/Events/The ANGEL (Kris) Arrives.md",
     "Conspiracy Board/Events/The ANGEL (Onyx) Arrives.md",
     "Conspiracy Board/Events/The ANGEL (Pearl) Arrives.md",
     "Conspiracy Board/Events/The ANGEL (Player) Arrives.md",
-    "readme.md",
     "index.md",
-    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
     "Conspiracy Board/Events/Media/Consultations/Photon Consultation.md",
     "Conspiracy Board/Events/Media/Consultations/Frog's Consultation.md",
     "Conspiracy Board/Events/Media/Consultations/Brickman Consultation.md",
@@ -207,8 +214,6 @@
     "Conspiracy Board/Canvases/Consultations/Consultations.canvas",
     "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
     "Conspiracy Board/Canvases/Consultations/Round 1.canvas",
-    "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
-    "Conspiracy Board/Canvases/Kris.canvas",
     "Conspiracy Board/Events/Media/Scores.png",
     "Conspiracy Board/Events/Media/Consultations/56b Consultation.png",
     "Conspiracy Board/Canvases/Kris.md",
@@ -221,9 +226,6 @@
     "Conspiracy Board/Events/Media/Consultations/61b Consultation (Kris Copy, Hurt By Dess).png",
     "Conspiracy Board/Events/Media/Important Person's Shirt B.png",
     "Conspiracy Board/Events/Media/Important Person's Shirt A.png",
-    "Conspiracy Board/Events/Media/Consultations/59b Consultation.png",
-    "Conspiracy Board/Events/Media/Consultations/51b Consultation (Exact Copy OF Kris' Answers).png",
-    "Conspiracy Board/Events/Media/Consultations/TYPO Consultation.png",
     "Conspiracy Board/Events/Media/Consultations",
     "Timeline/Events/Untitled.md",
     "Conspiracy Board/Events/Media",
