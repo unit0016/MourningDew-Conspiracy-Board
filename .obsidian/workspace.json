@@ -11,17 +11,14 @@
             "id": "3fd9b6108a2422bd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -2.14275924920143
-                }
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Pearl's Timeline"
+              "icon": "lucide-file",
+              "title": "readme"
             }
           }
         ]
@@ -189,6 +186,8 @@
   },
   "active": "3fd9b6108a2422bd",
   "lastOpenFiles": [
+    "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
+    "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
     "Conspiracy Board/Events/Gerson Boom's death.md",
     "Conspiracy Board/Events/The ANGEL (Kris) Arrives.md",
     "Conspiracy Board/Events/The ANGEL (Onyx) Arrives.md",
@@ -202,7 +201,6 @@
     "Conspiracy Board/Events/Media/Consultations/Brickman Consultation.md",
     "Conspiracy Board/Events/Kris' birth.md",
     "Conspiracy Board/Events/CONSULTATION.md",
-    "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
     "Conspiracy Board/Canvases/Player Timeline.canvas",
     "Conspiracy Board/Canvases/Onyx's Timeline.canvas",
     "Conspiracy Board/Canvases/Kris' Timeline.canvas",

@@ -16,6 +16,8 @@ Generally speaking:
 
 **In-universe text or events** are marked in Blurple.
 
+**Youtube Video Links** need to be formatted as follows: https://youtube.com/embed/\[VideoIDHere\]
+
 # Contributing / Reading Locally
 
 ### "I've never used Github in my life, what do I do?"
