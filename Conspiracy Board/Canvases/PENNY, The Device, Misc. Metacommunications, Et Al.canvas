@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"db8a1ac6541f9911","type":"group","x":-7940,"y":-2000,"width":16160,"height":4000,"color":"6","label":"PENNY, The Device, Misc. Metacommunications, Et Al"},
+		{"id":"db8a1ac6541f9911","type":"group","x":-8760,"y":-2000,"width":16980,"height":4000,"color":"6","label":"PENNY, The Device, Misc. Metacommunications, Et Al"},
 		{
 			"id":"f9d1be7af2a65fe4",
 			"type":"text",
@@ -35,6 +35,135 @@
 			"height":60,
 			"color":"4"
 		},
+		{
+			"id":"5375edfca7f8f7f9",
+			"type":"text",
+			"text":"Vigenère cipher as far as we know, no known key",
+			"styleAttributes":{},
+			"x":-4900,
+			"y":-860,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"52590532278f3784","type":"file","file":"Conspiracy Board/Events/Media/PENNY Account.png","x":-5932,"y":-1168,"width":372,"height":400,"color":"4"},
+		{"id":"4fa038861e37ca58","type":"file","file":"Conspiracy Board/Events/Media/Unknown drawning.png","x":-5616,"y":-1770,"width":660,"height":559},
+		{"id":"62218c39015a4aee","type":"link","url":"https://mourningdew.phinarina.xyz/G7DVlrUSVH244QLHOOQ/","x":-5830,"y":-1786,"width":140,"height":200},
+		{
+			"id":"b449b77bc2e32e28",
+			"type":"text",
+			"text":"This string of characters is important to some puzzle we haven't quite cottoned onto.",
+			"styleAttributes":{},
+			"x":-5876,
+			"y":-1960,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{
+			"id":"8829d2dd08755bf7",
+			"type":"text",
+			"text":"Kris has been depicted wearing a sweater emblazed with the DELTA RUNE; angel crest right on the chest like whoever - whatever, this is. Is it a standardized uniform for the town, or...?",
+			"styleAttributes":{},
+			"x":-5506,
+			"y":-1960,
+			"width":440,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"8a800f6b6c569f87",
+			"type":"text",
+			"text":"What's so dangerous about bringing up the good doctor's henchsquad?",
+			"styleAttributes":{},
+			"x":-6220,
+			"y":740,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{
+			"id":"6a00e877b6c835f3",
+			"type":"text",
+			"text":"Undyne's probably in with the church, with that sort of text.",
+			"styleAttributes":{},
+			"x":-6220,
+			"y":600,
+			"width":260,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"627a458a1c0b6456",
+			"type":"text",
+			"text":"This is most likely supposed to depict Monster Kid?",
+			"styleAttributes":{},
+			"x":-6220,
+			"y":460,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"9f36125e5cd98876",
+			"type":"text",
+			"text":"Thank you.\nYour names were many.\nYou took many forms.\n\nYour choices mattered.\n\nFurther communication\nWill not resemble this.\n\nUntil next time,\n... You recieved a score of \"\".",
+			"styleAttributes":{},
+			"x":-5513,
+			"y":1160,
+			"width":260,
+			"height":300,
+			"color":"4"
+		},
+		{"id":"51624c48cf2c9dc2","type":"link","url":"https://mourningdew.phinarina.xyz/interview/","x":-7420,"y":-1770,"width":1080,"height":3720},
+		{"id":"472e37d17cf7ecd5","type":"file","file":"Conspiracy Board/Events/Media/Penny.png","x":-6300,"y":-1211,"width":327,"height":400,"color":"4"},
+		{"id":"f526101511aeaf4d","type":"file","file":"Conspiracy Board/Events/Media/Penny Thank You.png","x":-6300,"y":-1752,"width":400,"height":132},
+		{
+			"id":"11bee713a8762eb2",
+			"type":"text",
+			"text":"We've all seen the happiest outcomes. Nobody can fix the device, no matter how hard we all tried. No one can\n\nBut, maybe in order to fix something, you have to break it first?",
+			"styleAttributes":{},
+			"x":-6300,
+			"y":-1531,
+			"width":260,
+			"height":240,
+			"color":"4"
+		},
+		{
+			"id":"d16b9ba317b166d9",
+			"type":"text",
+			"text":"Kris ostensibly made one of these questions, and considering the timeline of how this interview played out - I have reason to believe it's the last, calling back to the 'Thank you.' ARG along with the emails we've received thusfar.\n\nIn that ARG, you received \"So, she never stopped smiling.\" as a response for inputting 0-10 Seconds as an answer.\n\nKris' consultation notably stated they were hurt by Noelle.\n\n...What's up with all of this?",
+			"styleAttributes":{},
+			"x":-7760,
+			"y":-140,
+			"width":280,
+			"height":460,
+			"color":"1"
+		},
+		{
+			"id":"7ac378a61eff195a",
+			"type":"text",
+			"text":"'An interesting coincidence.' was the phrase used to describe being named after a character in DELTARUNE proper. Why do these two keep that?",
+			"styleAttributes":{},
+			"x":-6220,
+			"y":180,
+			"width":260,
+			"height":189,
+			"color":"1"
+		},
+		{"id":"a9cd1e5a7742dd1d","type":"file","file":"Conspiracy Board/Events/CONSULTATION.md","x":-5946,"y":-688,"width":1126,"height":1798,"color":"4"},
+		{
+			"id":"9f44410eb3f5263c",
+			"type":"text",
+			"text":"What's with this symbolism for Alvin?",
+			"styleAttributes":{},
+			"x":-4607,
+			"y":-1930,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"b78303993d679cc0","type":"file","file":"Conspiracy Board/Canvases/Consultations/Consultations.canvas","portal":true,"x":-4320,"y":-1980,"width":12590,"height":3040},
 		{"id":"3f3a22adbd304010","type":"file","file":"Conspiracy Board/Events/Media/Something with Alvin.png","x":-4460,"y":-1770,"width":113,"height":212},
 		{
 			"id":"8ccadfd7fc06faa7",
@@ -70,135 +199,7 @@
 			"height":140,
 			"color":"4"
 		},
-		{
-			"id":"5375edfca7f8f7f9",
-			"type":"text",
-			"text":"Vigenère cipher as far as we know, no known key",
-			"styleAttributes":{},
-			"x":-4900,
-			"y":-860,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{"id":"52590532278f3784","type":"file","file":"Conspiracy Board/Events/Media/PENNY Account.png","x":-5932,"y":-1168,"width":372,"height":400,"color":"4"},
-		{
-			"id":"8a800f6b6c569f87",
-			"type":"text",
-			"text":"What's so dangerous about bringing up the good doctor's henchsquad?",
-			"styleAttributes":{},
-			"x":-6220,
-			"y":740,
-			"width":260,
-			"height":100,
-			"color":"1"
-		},
-		{"id":"4fa038861e37ca58","type":"file","file":"Conspiracy Board/Events/Media/Unknown drawning.png","x":-5616,"y":-1770,"width":660,"height":559},
-		{"id":"62218c39015a4aee","type":"link","url":"https://mourningdew.phinarina.xyz/G7DVlrUSVH244QLHOOQ/","x":-5830,"y":-1786,"width":140,"height":200},
-		{
-			"id":"b449b77bc2e32e28",
-			"type":"text",
-			"text":"This string of characters is important to some puzzle we haven't quite cottoned onto.",
-			"styleAttributes":{},
-			"x":-5876,
-			"y":-1960,
-			"width":260,
-			"height":100,
-			"color":"1"
-		},
-		{
-			"id":"6a00e877b6c835f3",
-			"type":"text",
-			"text":"Undyne's probably in with the church, with that sort of text.",
-			"styleAttributes":{},
-			"x":-6220,
-			"y":600,
-			"width":260,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"8829d2dd08755bf7",
-			"type":"text",
-			"text":"Kris has been depicted wearing a sweater emblazed with the DELTA RUNE; angel crest right on the chest like whoever - whatever, this is. Is it a standardized uniform for the town, or...?",
-			"styleAttributes":{},
-			"x":-5506,
-			"y":-1960,
-			"width":440,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"627a458a1c0b6456",
-			"type":"text",
-			"text":"This is most likely supposed to depict Monster Kid?",
-			"styleAttributes":{},
-			"x":-6220,
-			"y":460,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"9f36125e5cd98876",
-			"type":"text",
-			"text":"Thank you.\nYour names were many.\nYou took many forms.\n\nYour choices mattered.\n\nFurther communication\nWill not resemble this.\n\nUntil next time,\n... You recieved a score of \"\".",
-			"styleAttributes":{},
-			"x":-5513,
-			"y":1160,
-			"width":260,
-			"height":300,
-			"color":"4"
-		},
-		{"id":"51624c48cf2c9dc2","type":"link","url":"https://mourningdew.phinarina.xyz/interview/","x":-7420,"y":-1770,"width":1080,"height":3720},
-		{"id":"472e37d17cf7ecd5","type":"file","file":"Conspiracy Board/Events/Media/Penny.png","x":-6300,"y":-1211,"width":327,"height":400,"color":"4"},
-		{
-			"id":"d16b9ba317b166d9",
-			"type":"text",
-			"text":"Kris ostensibly made one of these questions, and considering the timeline of how this interview played out - I have reason to believe it's the last, calling back to the 'Thank you.' ARG along with the emails we've received thusfar.\n\nIn that ARG, you received \"So, she never stopped smiling.\" as a response for inputting 0-10 Seconds as an answer.\n\nKris' consultation notably stated they were hurt by Noelle.\n\n...What's up with all of this?",
-			"styleAttributes":{},
-			"x":-7760,
-			"y":-140,
-			"width":280,
-			"height":460,
-			"color":"1"
-		},
-		{
-			"id":"7ac378a61eff195a",
-			"type":"text",
-			"text":"'An interesting coincidence.' was the phrase used to describe being named after a character in DELTARUNE proper. Why do these two keep that?",
-			"styleAttributes":{},
-			"x":-6220,
-			"y":180,
-			"width":260,
-			"height":189,
-			"color":"1"
-		},
-		{"id":"a9cd1e5a7742dd1d","type":"file","file":"Conspiracy Board/Events/CONSULTATION.md","x":-5946,"y":-688,"width":1126,"height":1798,"color":"4"},
-		{"id":"f526101511aeaf4d","type":"file","file":"Conspiracy Board/Events/Media/Penny Thank You.png","x":-6300,"y":-1752,"width":400,"height":132},
-		{
-			"id":"11bee713a8762eb2",
-			"type":"text",
-			"text":"We've all seen the happiest outcomes. Nobody can fix the device, no matter how hard we all tried. No one can\n\nBut, maybe in order to fix something, you have to break it first?",
-			"styleAttributes":{},
-			"x":-6300,
-			"y":-1531,
-			"width":260,
-			"height":240,
-			"color":"4"
-		},
-		{
-			"id":"9f44410eb3f5263c",
-			"type":"text",
-			"text":"What's with this symbolism for Alvin?",
-			"styleAttributes":{},
-			"x":-4607,
-			"y":-1930,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{"id":"b78303993d679cc0","type":"file","file":"Conspiracy Board/Canvases/Consultations/Consultations.canvas","portal":true,"x":-4320,"y":-1980,"width":12590,"height":3040}
+		{"id":"f9b21a6d466c0f72","type":"link","url":"https://mourningdew.phinarina.xyz/interview2/","x":-8720,"y":-674,"width":880,"height":1528}
 	],
 	"edges":[
 		{
@@ -325,6 +326,16 @@
 			"fromSide":"top",
 			"toNode":"8ccadfd7fc06faa7",
 			"toSide":"bottom"
+		},
+		{
+			"id":"17eed28964ba15c1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f9b21a6d466c0f72",
+			"fromSide":"right",
+			"toNode":"d16b9ba317b166d9",
+			"toSide":"left",
+			"color":"4"
 		}
 	],
 	"metadata":{
