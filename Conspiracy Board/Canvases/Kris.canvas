@@ -2,6 +2,19 @@
 	"nodes":[
 		{"id":"4f7f6507edd4eceb","type":"group","x":-1920,"y":-600,"width":3840,"height":1200,"color":"3","label":"Kris, Outside The Lines"},
 		{"id":"83dcf9b6e27cbd9e","type":"group","x":-1840,"y":320,"width":520,"height":260,"color":"2","label":"Probably Kris being silly (good for them)"},
+		{"id":"89b7808dd1b175dd","type":"file","file":"Conspiracy Board/Events/Media/Important Person's Shirt A.png","x":-383,"y":-530,"width":283,"height":400},
+		{
+			"id":"6d8fb99d379b2691",
+			"type":"text",
+			"text":"Recognized Pearl in one of the Excalidraw boards, maybe?",
+			"styleAttributes":{},
+			"x":-100,
+			"y":460,
+			"width":260,
+			"height":90,
+			"color":"1"
+		},
+		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation A.png","x":-1300,"y":-30,"width":360,"height":623},
 		{
 			"id":"c7bc4975dcff77f5",
 			"type":"text",
@@ -13,11 +26,17 @@
 			"height":200,
 			"color":"1"
 		},
-		{"id":"3d1900dbef0db239","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation B.png","x":-896,"y":133,"width":441,"height":460},
-		{"id":"39072fe0f939818b","type":"file","file":"Conspiracy Board/Events/Media/Kris' consultation screenshot (lq).png","x":-820,"y":-530,"width":400,"height":364},
-		{"id":"464c0d71bd14601b","type":"file","file":"Conspiracy Board/Events/Media/Can anyone try to recognize December.png","x":-1260,"y":-393,"width":400,"height":91},
-		{"id":"515d1db5d1f1856a","type":"file","file":"Conspiracy Board/Events/Media/Kris Account.png","x":-1260,"y":-530,"width":399,"height":82},
-		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation A.png","x":-1300,"y":-30,"width":360,"height":623},
+		{
+			"id":"113bbd93683bf04b",
+			"type":"text",
+			"text":"§ Suddenly, you\nthought very hard\nabout an animated\nseries you watched\nas a kid...\n§ \"Automatic Duck.\"",
+			"styleAttributes":{},
+			"x":-1600,
+			"y":358,
+			"width":260,
+			"height":192,
+			"color":"4"
+		},
 		{
 			"id":"97e71e7fd7fb6144",
 			"type":"file",
@@ -51,16 +70,42 @@
 				}
 			]
 		},
+		{"id":"39072fe0f939818b","type":"file","file":"Conspiracy Board/Events/Media/Kris' consultation screenshot (lq).png","x":-820,"y":-530,"width":400,"height":364},
+		{"id":"464c0d71bd14601b","type":"file","file":"Conspiracy Board/Events/Media/Can anyone try to recognize December.png","x":-1260,"y":-393,"width":400,"height":91},
+		{"id":"515d1db5d1f1856a","type":"file","file":"Conspiracy Board/Events/Media/Kris Account.png","x":-1260,"y":-530,"width":399,"height":82},
 		{
-			"id":"113bbd93683bf04b",
+			"id":"5794380380c64dd9",
 			"type":"text",
-			"text":"§ Suddenly, you\nthought very hard\nabout an animated\nseries you watched\nas a kid...\n§ \"Automatic Duck.\"",
+			"text":"Who is Kris referring to here?",
 			"styleAttributes":{},
-			"x":-1600,
-			"y":358,
+			"x":240,
+			"y":-408,
 			"width":260,
-			"height":192,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"c57de21c45f8e167",
+			"type":"text",
+			"text":"They, really are all happy, aren't they?\n\nYet, when I look at them... it's as if I dont even know who I'm looking at.\n\nI'll show them... that not all roads have to lead to the same place.\n\nThat there's another side, as long as you're able to go outside of the lines...\n\nSoon.\n\n\n\nhttps://www.youtube.com/@krisdreemurrkris",
+			"styleAttributes":{},
+			"x":200,
+			"y":-260,
+			"width":480,
+			"height":335,
 			"color":"4"
+		},
+		{"id":"3d1900dbef0db239","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation B.png","x":-896,"y":133,"width":441,"height":460},
+		{
+			"id":"b3654c65c5c0c62e",
+			"type":"text",
+			"text":"Clearly capable of modifying the game for different answers like we can.",
+			"styleAttributes":{},
+			"x":-750,
+			"y":-110,
+			"width":260,
+			"height":100,
+			"color":"1"
 		},
 		{
 			"id":"bfdfcd8b4ce75220",
@@ -73,18 +118,6 @@
 			"height":90,
 			"color":"4"
 		},
-		{
-			"id":"c3da14ca338f91ef",
-			"type":"text",
-			"text":"§ Sup, Pearl?",
-			"styleAttributes":{},
-			"x":-420,
-			"y":520,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{"id":"89b7808dd1b175dd","type":"file","file":"Conspiracy Board/Events/Media/Important Person's Shirt A.png","x":-383,"y":-530,"width":283,"height":400},
 		{"id":"89457a68dbf51514","type":"file","file":"Conspiracy Board/Events/Media/Important Person's Shirt B.png","x":-355,"y":-92,"width":226,"height":29},
 		{
 			"id":"6901ca51ee43da5e",
@@ -98,50 +131,17 @@
 			"color":"1"
 		},
 		{
-			"id":"5794380380c64dd9",
+			"id":"c3da14ca338f91ef",
 			"type":"text",
-			"text":"Who is Kris referring to here?",
+			"text":"§ Sup, Pearl?",
 			"styleAttributes":{},
-			"x":240,
-			"y":-408,
+			"x":-420,
+			"y":520,
 			"width":260,
 			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"b3654c65c5c0c62e",
-			"type":"text",
-			"text":"Clearly capable of modifying the game for different answers like we can.",
-			"styleAttributes":{},
-			"x":-750,
-			"y":-110,
-			"width":260,
-			"height":100,
-			"color":"1"
-		},
-		{
-			"id":"6d8fb99d379b2691",
-			"type":"text",
-			"text":"Recognized Pearl in one of the Excalidraw boards, maybe?",
-			"styleAttributes":{},
-			"x":-100,
-			"y":460,
-			"width":260,
-			"height":90,
-			"color":"1"
-		},
-		{"id":"33f900fc7a8d0819","type":"link","url":"https://www.youtube.com/watch?v=vvHnpyFiO_k","x":440,"y":220,"width":640,"height":360},
-		{
-			"id":"c57de21c45f8e167",
-			"type":"text",
-			"text":"They, really are all happy, aren't they?\n\nYet, when I look at them... it's as if I dont even know who I'm looking at.\n\nI'll show them... that not all roads have to lead to the same place.\n\nThat there's another side, as long as you're able to go outside of the lines...\n\nSoon.\n\n\n\nhttps://www.youtube.com/@krisdreemurrkris",
-			"styleAttributes":{},
-			"x":200,
-			"y":-260,
-			"width":480,
-			"height":335,
 			"color":"4"
 		},
+		{"id":"33f900fc7a8d0819","type":"link","url":"https://www.youtube.com/embed/vvHnpyFiO_k","x":440,"y":220,"width":640,"height":360},
 		{
 			"id":"ff40d377e4df8c0e",
 			"type":"text",
