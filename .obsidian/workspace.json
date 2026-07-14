@@ -11,17 +11,14 @@
             "id": "3fd9b6108a2422bd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Conspiracy Board/Conspiracy Board.canvas",
-                "viewState": {
-                  "x": 916.3911091382225,
-                  "y": 168.6511531406097,
-                  "zoom": 0.05407074763515146
-                }
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Conspiracy Board"
+              "icon": "lucide-file",
+              "title": "readme"
             }
           }
         ]
@@ -56,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reccomend",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,22 +184,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "3fd9b6108a2422bd",
+  "active": "b4994945c2a947d6",
   "lastOpenFiles": [
-    "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
     "Conspiracy Board/Conspiracy Board.canvas",
+    "readme.md",
+    "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
+    "Conspiracy Board/Canvases/Kris' Timeline.canvas",
+    "Conspiracy Board/Canvases/Kris.canvas",
+    "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
     "Conspiracy Board/Canvases/Consultations/Consultations.canvas",
     "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
     "Conspiracy Board/Events/Media/Consultations/56b Consultation.png",
-    "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
-    "Conspiracy Board/Canvases/Kris.canvas",
-    "Conspiracy Board/Canvases/Kris' Timeline.canvas",
     "Conspiracy Board/Canvases/Kris.md",
     "Conspiracy Board/Canvases/Untitled.md",
     "Conspiracy Board/Canvases/Player Timeline.canvas",
     "Conspiracy Board/Canvases/Onyx's Timeline.canvas",
     "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
-    "Conspiracy Board/Canvases/Consultations/Round 1.canvas",
     "Conspiracy Board/Canvases/Consultations/R.md",
     "Conspiracy Board/Canvases/Consultations",
     "Conspiracy Board/Canvases",

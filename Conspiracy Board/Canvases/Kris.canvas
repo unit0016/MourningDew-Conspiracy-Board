@@ -3,17 +3,6 @@
 		{"id":"4f7f6507edd4eceb","type":"group","x":-1920,"y":-600,"width":3840,"height":1200,"color":"3","label":"Kris, Outside The Lines"},
 		{"id":"83dcf9b6e27cbd9e","type":"group","x":-1840,"y":320,"width":520,"height":260,"color":"2","label":"Probably Kris being silly (good for them)"},
 		{
-			"id":"113bbd93683bf04b",
-			"type":"text",
-			"text":"§ Suddenly, you\nthought very hard\nabout an animated\nseries you watched\nas a kid...\n§ \"Automatic Duck.\"",
-			"styleAttributes":{},
-			"x":-1600,
-			"y":358,
-			"width":260,
-			"height":192,
-			"color":"6"
-		},
-		{
 			"id":"c7bc4975dcff77f5",
 			"type":"text",
 			"text":"Playing up the fact they aren't exactly fond of themselves, here, with their consultation? Then again, not like I've heard of a Kris having a good experience with Therapy.",
@@ -24,6 +13,55 @@
 			"height":200,
 			"color":"1"
 		},
+		{"id":"3d1900dbef0db239","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation B.png","x":-896,"y":133,"width":441,"height":460},
+		{"id":"39072fe0f939818b","type":"file","file":"Conspiracy Board/Events/Media/Kris' consultation screenshot (lq).png","x":-820,"y":-530,"width":400,"height":364},
+		{"id":"464c0d71bd14601b","type":"file","file":"Conspiracy Board/Events/Media/Can anyone try to recognize December.png","x":-1260,"y":-393,"width":400,"height":91},
+		{"id":"515d1db5d1f1856a","type":"file","file":"Conspiracy Board/Events/Media/Kris Account.png","x":-1260,"y":-530,"width":399,"height":82},
+		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation A.png","x":-1300,"y":-30,"width":360,"height":623},
+		{
+			"id":"97e71e7fd7fb6144",
+			"type":"file",
+			"file":"Conspiracy Board/Canvases/Kris' Timeline.canvas",
+			"portal":true,
+			"x":1120,
+			"y":-120,
+			"width":780,
+			"height":700,
+			"interdimensionalEdges":[
+				{
+					"id":"03815c78b0b50456",
+					"styleAttributes":{},
+					"toFloating":false,
+					"fromFloating":false,
+					"fromNode":"33f900fc7a8d0819",
+					"fromSide":"right",
+					"toNode":"acportal||97e71e7fd7fb6144||3bbf5bd423f74cc2",
+					"toSide":"left",
+					"color":"4"
+				},
+				{
+					"id":"24d756f15cb5c5ff",
+					"styleAttributes":{},
+					"toFloating":false,
+					"fromNode":"ff40d377e4df8c0e",
+					"fromSide":"right",
+					"toNode":"acportal||97e71e7fd7fb6144||3bbf5bd423f74cc2",
+					"toSide":"left",
+					"color":"4"
+				}
+			]
+		},
+		{
+			"id":"113bbd93683bf04b",
+			"type":"text",
+			"text":"§ Suddenly, you\nthought very hard\nabout an animated\nseries you watched\nas a kid...\n§ \"Automatic Duck.\"",
+			"styleAttributes":{},
+			"x":-1600,
+			"y":358,
+			"width":260,
+			"height":192,
+			"color":"4"
+		},
 		{
 			"id":"bfdfcd8b4ce75220",
 			"type":"text",
@@ -33,13 +71,8 @@
 			"y":350,
 			"width":530,
 			"height":90,
-			"color":"6"
+			"color":"4"
 		},
-		{"id":"3d1900dbef0db239","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation B.png","x":-896,"y":133,"width":441,"height":460},
-		{"id":"39072fe0f939818b","type":"file","file":"Conspiracy Board/Events/Media/Kris' consultation screenshot (lq).png","x":-820,"y":-530,"width":400,"height":364},
-		{"id":"464c0d71bd14601b","type":"file","file":"Conspiracy Board/Events/Media/Can anyone try to recognize December.png","x":-1260,"y":-393,"width":400,"height":91},
-		{"id":"515d1db5d1f1856a","type":"file","file":"Conspiracy Board/Events/Media/Kris Account.png","x":-1260,"y":-530,"width":399,"height":82},
-		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation A.png","x":-1300,"y":-30,"width":360,"height":623},
 		{
 			"id":"c3da14ca338f91ef",
 			"type":"text",
@@ -49,7 +82,7 @@
 			"y":520,
 			"width":260,
 			"height":60,
-			"color":"6"
+			"color":"4"
 		},
 		{"id":"89b7808dd1b175dd","type":"file","file":"Conspiracy Board/Events/Media/Important Person's Shirt A.png","x":-383,"y":-530,"width":283,"height":400},
 		{"id":"89457a68dbf51514","type":"file","file":"Conspiracy Board/Events/Media/Important Person's Shirt B.png","x":-355,"y":-92,"width":226,"height":29},
@@ -86,18 +119,6 @@
 			"height":100,
 			"color":"1"
 		},
-		{"id":"33f900fc7a8d0819","type":"link","url":"https://www.youtube.com/watch?v=vvHnpyFiO_k","x":440,"y":220,"width":640,"height":360},
-		{
-			"id":"c57de21c45f8e167",
-			"type":"text",
-			"text":"They, really are all happy, aren't they?\n\nYet, when I look at them... it's as if I dont even know who I'm looking at.\n\nI'll show them... that not all roads have to lead to the same place.\n\nThat there's another side, as long as you're able to go outside of the lines...\n\nSoon.\n\n\n\nhttps://www.youtube.com/@krisdreemurrkris",
-			"styleAttributes":{},
-			"x":200,
-			"y":-260,
-			"width":480,
-			"height":335,
-			"color":"6"
-		},
 		{
 			"id":"6d8fb99d379b2691",
 			"type":"text",
@@ -109,6 +130,18 @@
 			"height":90,
 			"color":"1"
 		},
+		{"id":"33f900fc7a8d0819","type":"link","url":"https://www.youtube.com/watch?v=vvHnpyFiO_k","x":440,"y":220,"width":640,"height":360},
+		{
+			"id":"c57de21c45f8e167",
+			"type":"text",
+			"text":"They, really are all happy, aren't they?\n\nYet, when I look at them... it's as if I dont even know who I'm looking at.\n\nI'll show them... that not all roads have to lead to the same place.\n\nThat there's another side, as long as you're able to go outside of the lines...\n\nSoon.\n\n\n\nhttps://www.youtube.com/@krisdreemurrkris",
+			"styleAttributes":{},
+			"x":200,
+			"y":-260,
+			"width":480,
+			"height":335,
+			"color":"4"
+		},
 		{
 			"id":"ff40d377e4df8c0e",
 			"type":"text",
@@ -119,39 +152,6 @@
 			"width":260,
 			"height":100,
 			"color":"4"
-		},
-		{
-			"id":"97e71e7fd7fb6144",
-			"type":"file",
-			"file":"Conspiracy Board/Canvases/Kris' Timeline.canvas",
-			"portal":true,
-			"x":1120,
-			"y":-120,
-			"width":780,
-			"height":700,
-			"interdimensionalEdges":[
-				{
-					"id":"03815c78b0b50456",
-					"styleAttributes":{},
-					"toFloating":false,
-					"fromFloating":false,
-					"fromNode":"33f900fc7a8d0819",
-					"fromSide":"right",
-					"toNode":"acportal||97e71e7fd7fb6144||3bbf5bd423f74cc2",
-					"toSide":"left",
-					"color":"4"
-				},
-				{
-					"id":"24d756f15cb5c5ff",
-					"styleAttributes":{},
-					"toFloating":false,
-					"fromNode":"ff40d377e4df8c0e",
-					"fromSide":"right",
-					"toNode":"acportal||97e71e7fd7fb6144||3bbf5bd423f74cc2",
-					"toSide":"left",
-					"color":"4"
-				}
-			]
 		}
 	],
 	"edges":[

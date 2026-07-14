@@ -13,6 +13,34 @@
 			"color":"4"
 		},
 		{
+			"id":"495018499f948d32",
+			"type":"text",
+			"text":"Monster Kid, Kris, & Pearl here at some point along this timeline",
+			"styleAttributes":{},
+			"x":-1334,
+			"y":-86,
+			"width":260,
+			"height":92,
+			"color":"1"
+		},
+		{"id":"11467b0df8f84c13","type":"file","file":"Conspiracy Board/Events/The ANGEL (Pearl) Arrives.md","x":-1184,"y":-578,"width":400,"height":400,"color":"5"},
+		{"id":"a6622f3f853df246","type":"text","text":"§ Pearl...?\r\n§ Are you awake?\r\n§ Kris, honey, you better not be making it sleep in...\r\n§ The Festival is starting, you know!","x":-740,"y":-442,"width":440,"height":129,"color":"6"},
+		{"id":"6310de5433ed8bab","type":"file","file":"Conspiracy Board/Events/Media/Kris Room - Note Text B (Writing).png","x":-1374,"y":-468,"width":150,"height":180,"color":"6"},
+		{"id":"2555a8032d472768","type":"text","text":"§ (In fact, you don't actually know what it means, either.)","x":-474,"y":348,"width":250,"height":60,"color":"4"},
+		{"id":"8d7f500bf8c47bb3","type":"link","url":"https://youtu.be/zWoeJ8WQn8I","x":-2200,"y":48,"width":640,"height":360},
+		{"id":"9dd786a73b55fefd","type":"text","text":"§ Yo, we got approval from the Council! Let's do it...! \n§ I'm so glad we've got our Needles... \n§ Just stab the earth, and...","x":-1334,"y":130,"width":320,"height":132,"color":"6"},
+		{
+			"id":"8379860d46fc06bf",
+			"type":"text",
+			"text":"Deliberately calling out the fact they're an NPC is...\nWho is this?",
+			"styleAttributes":{},
+			"x":1120,
+			"y":470,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{
 			"id":"d34682739d48a972",
 			"type":"text",
 			"text":"§ Why did we name our town DELTA RUNE?\n§ Well, it was already said that it was going to be named that...\n§ We don't... actually know what it means.",
@@ -35,17 +63,6 @@
 			"color":"1"
 		},
 		{
-			"id":"495018499f948d32",
-			"type":"text",
-			"text":"Monster Kid, Kris, & Pearl here at some point along this timeline",
-			"styleAttributes":{},
-			"x":-1334,
-			"y":-86,
-			"width":260,
-			"height":92,
-			"color":"1"
-		},
-		{
 			"id":"33097e7545fe1100",
 			"type":"text",
 			"text":"Most likely connected, but how they flow together on-face is slightly less clear to me.",
@@ -56,8 +73,6 @@
 			"height":116,
 			"color":"1"
 		},
-		{"id":"11467b0df8f84c13","type":"file","file":"Conspiracy Board/Events/The ANGEL (Pearl) Arrives.md","x":-1184,"y":-578,"width":400,"height":400,"color":"5"},
-		{"id":"a6622f3f853df246","type":"text","text":"§ Pearl...?\r\n§ Are you awake?\r\n§ Kris, honey, you better not be making it sleep in...\r\n§ The Festival is starting, you know!","x":-740,"y":-442,"width":440,"height":129,"color":"6"},
 		{
 			"id":"861b13efbc3dbd52",
 			"type":"text",
@@ -69,7 +84,6 @@
 			"height":136,
 			"color":"6"
 		},
-		{"id":"6310de5433ed8bab","type":"file","file":"Conspiracy Board/Events/Media/Kris Room - Note Text B (Writing).png","x":-1374,"y":-468,"width":150,"height":180,"color":"6"},
 		{
 			"id":"5547915c963c7a36",
 			"type":"text",
@@ -80,6 +94,51 @@
 			"width":260,
 			"height":120,
 			"color":"6"
+		},
+		{"id":"35f9f93bf52a3c6d","type":"file","file":"Conspiracy Board/Events/Media/Kris Room - Note Text A.png","x":-260,"y":-396,"width":220,"height":38,"color":"6"},
+		{
+			"id":"326065370f7ceb2c",
+			"type":"text",
+			"text":"Presumably a second shirt here?",
+			"styleAttributes":{},
+			"x":1380,
+			"y":-424,
+			"width":260,
+			"height":77,
+			"color":"1"
+		},
+		{
+			"id":"7a156310954b30de",
+			"type":"text",
+			"text":"§ Ha... Pearl...! § We've been spending all morning blowing up these inflatable SUSIEs for you. \n§ We know they're your favorite, so feel free to grab as many as you like!",
+			"styleAttributes":{},
+			"x":-440,
+			"y":166,
+			"width":720,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"187a27f5de6c80ea",
+			"type":"text",
+			"text":"Townsfolk of DELTA RUNE are clearly aware of the answers we gave in our consultation, if not their exact meaning. How would they react to the angel both recognizing and feeling hurt by the same person? Or, being named the same as either...? All three?",
+			"styleAttributes":{},
+			"x":-410,
+			"y":-16,
+			"width":510,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"cdaf96c6014347d7",
+			"type":"text",
+			"text":"'Home' leitmotif is used in Kris' room and they're still referred to as Dreemurr, reasonable to assume this is Toriel",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-270,
+			"width":260,
+			"height":140,
+			"color":"1"
 		},
 		{
 			"id":"5810a7ff33c81b80",
@@ -125,32 +184,7 @@
 			"height":60,
 			"color":"6"
 		},
-		{"id":"35f9f93bf52a3c6d","type":"file","file":"Conspiracy Board/Events/Media/Kris Room - Note Text A.png","x":-260,"y":-396,"width":220,"height":38,"color":"6"},
-		{
-			"id":"0d0fd32f7a3215c0",
-			"type":"text",
-			"text":"But they're still a goofball, even in this environment.",
-			"styleAttributes":{},
-			"x":510,
-			"y":-300,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{"id":"2555a8032d472768","type":"text","text":"§ (In fact, you don't actually know what it means, either.)","x":-474,"y":348,"width":250,"height":60,"color":"6"},
 		{"id":"b006c064f25ebb03","type":"file","file":"Conspiracy Board/Events/Media/2026-07-13 17-19-49.mp4","x":390,"y":-210,"width":500,"height":281,"color":"6"},
-		{
-			"id":"326065370f7ceb2c",
-			"type":"text",
-			"text":"Presumably a second shirt here?",
-			"styleAttributes":{},
-			"x":1380,
-			"y":-424,
-			"width":260,
-			"height":77,
-			"color":"1"
-		},
-		{"id":"8d7f500bf8c47bb3","type":"link","url":"https://youtu.be/zWoeJ8WQn8I","x":-2200,"y":48,"width":640,"height":360},
 		{
 			"id":"b6ea354b42cf3a66",
 			"type":"text",
@@ -162,19 +196,7 @@
 			"height":100,
 			"color":"1"
 		},
-		{
-			"id":"a07f6bb57f7b6997",
-			"type":"text",
-			"text":"Notably still referred to as 'The Holidays', here, in spite of Rudy and Carol ostensibly not being parts of the town at any point. What's even more confusing is that Dess' assumedly responded to at least one consultation email (#61B) in spite of Noelle having no family, so... what's going on here?",
-			"styleAttributes":{},
-			"x":180,
-			"y":450,
-			"width":530,
-			"height":160,
-			"color":"1"
-		},
-		{"id":"76898b0295853c4e","type":"text","text":"§ Fahaha, \"tuhragehdee\"? \n§ That's such a silly word! I've never heard of it...","x":-1374,"y":334,"width":400,"height":88,"color":"6"},
-		{"id":"7a7921107501bb8d","type":"text","text":"§ (You couldn't seem to put the words together to explain what tragedy is...) \n§ (...almost like you didn't know them.)","x":-934,"y":334,"width":400,"height":88,"color":"6"},
+		{"id":"7a7921107501bb8d","type":"text","text":"§ (You couldn't seem to put the words together to explain what tragedy is...) \n§ (...almost like you didn't know them.)","x":-934,"y":334,"width":400,"height":88,"color":"4"},
 		{
 			"id":"8fc58a85d5a5d837",
 			"type":"text",
@@ -184,28 +206,6 @@
 			"y":290,
 			"width":300,
 			"height":132,
-			"color":"6"
-		},
-		{
-			"id":"d4afa6ad2bd88683",
-			"type":"text",
-			"text":"§ Pearl... \n§ Don't go in there, okay? \n§ The Holidays, they... \n§ ... \n§ Just don't.",
-			"styleAttributes":{},
-			"x":150,
-			"y":286,
-			"width":260,
-			"height":140,
-			"color":"6"
-		},
-		{
-			"id":"7a156310954b30de",
-			"type":"text",
-			"text":"§ Ha... Pearl...! § We've been spending all morning blowing up these inflatable SUSIEs for you. \n§ We know they're your favorite, so feel free to grab as many as you like!",
-			"styleAttributes":{},
-			"x":-440,
-			"y":166,
-			"width":720,
-			"height":60,
 			"color":"6"
 		},
 		{
@@ -220,15 +220,49 @@
 			"color":"6"
 		},
 		{
-			"id":"187a27f5de6c80ea",
+			"id":"a1e5dc2eee53b3a9",
 			"type":"text",
-			"text":"Townsfolk of DELTA RUNE are clearly aware of the answers we gave in our consultation, if not their exact meaning. How would they react to the angel both recognizing and feeling hurt by the same person? Or, being named the same as either...? All three?",
+			"text":"§ (You look at your own Needle.) \n§ (You begin to remember...) \n§ (...And then slam that memory shut.)",
 			"styleAttributes":{},
-			"x":-410,
-			"y":-16,
-			"width":510,
-			"height":120,
+			"x":-944,
+			"y":147,
+			"width":320,
+			"height":98,
+			"color":"6"
+		},
+		{
+			"id":"0d0fd32f7a3215c0",
+			"type":"text",
+			"text":"But they're still a goofball, even in this environment.",
+			"styleAttributes":{},
+			"x":510,
+			"y":-300,
+			"width":260,
+			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"a07f6bb57f7b6997",
+			"type":"text",
+			"text":"Notably still referred to as 'The Holidays', here, in spite of Rudy and Carol ostensibly not being parts of the town at any point. What's even more confusing is that Dess' assumedly responded to at least one consultation email (#61B) in spite of Noelle having no family, so... what's going on here?",
+			"styleAttributes":{},
+			"x":180,
+			"y":450,
+			"width":530,
+			"height":160,
+			"color":"1"
+		},
+		{"id":"76898b0295853c4e","type":"text","text":"§ Fahaha, \"tuhragehdee\"? \n§ That's such a silly word! I've never heard of it...","x":-1374,"y":334,"width":400,"height":88,"color":"4"},
+		{
+			"id":"d4afa6ad2bd88683",
+			"type":"text",
+			"text":"§ Pearl... \n§ Don't go in there, okay? \n§ The Holidays, they... \n§ ... \n§ Just don't.",
+			"styleAttributes":{},
+			"x":150,
+			"y":286,
+			"width":260,
+			"height":140,
+			"color":"6"
 		},
 		{
 			"id":"fb986b1502f5c688",
@@ -238,17 +272,6 @@
 			"x":-615,
 			"y":450,
 			"width":415,
-			"height":140,
-			"color":"1"
-		},
-		{
-			"id":"cdaf96c6014347d7",
-			"type":"text",
-			"text":"'Home' leitmotif is used in Kris' room and they're still referred to as Dreemurr, reasonable to assume this is Toriel",
-			"styleAttributes":{},
-			"x":-700,
-			"y":-270,
-			"width":260,
 			"height":140,
 			"color":"1"
 		},
@@ -284,63 +307,7 @@
 			"y":246,
 			"width":260,
 			"height":180,
-			"color":"6"
-		},
-		{
-			"id":"f576ce166a10d580",
-			"type":"text",
-			"text":"§ No, there's no \"Rudy\" here either... \n§ What an odd name, anyhow.",
-			"styleAttributes":{},
-			"x":780,
-			"y":286,
-			"width":260,
-			"height":100,
-			"color":"6"
-		},
-		{"id":"9dd786a73b55fefd","type":"text","text":"§ Yo, we got approval from the Council! Let's do it...! \n§ I'm so glad we've got our Needles... \n§ Just stab the earth, and...","x":-1334,"y":130,"width":320,"height":132,"color":"6"},
-		{
-			"id":"a1e5dc2eee53b3a9",
-			"type":"text",
-			"text":"§ (You look at your own Needle.) \n§ (You begin to remember...) \n§ (...And then slam that memory shut.)",
-			"styleAttributes":{},
-			"x":-944,
-			"y":147,
-			"width":320,
-			"height":98,
-			"color":"6"
-		},
-		{
-			"id":"12048fde18bebc7d",
-			"type":"text",
-			"text":"§ What are you talking about???\n§ Pearl, is everything okay?",
-			"styleAttributes":{},
-			"x":1110,
-			"y":116,
-			"width":280,
-			"height":82,
-			"color":"6"
-		},
-		{
-			"id":"5926dd62f5ca766c",
-			"type":"text",
-			"text":"§ Pearl! Oh, it's wonderful to see you. \n§ This is a section of the Church most aren't able to access, so make yourself comfortable.",
-			"styleAttributes":{},
-			"x":730,
-			"y":98,
-			"width":360,
-			"height":118,
-			"color":"6"
-		},
-		{
-			"id":"8379860d46fc06bf",
-			"type":"text",
-			"text":"Deliberately calling out the fact they're an NPC is...\nWho is this?",
-			"styleAttributes":{},
-			"x":1120,
-			"y":470,
-			"width":260,
-			"height":100,
-			"color":"1"
+			"color":"4"
 		},
 		{
 			"id":"981061223cd2c93d",
@@ -352,6 +319,39 @@
 			"width":260,
 			"height":80,
 			"color":"1"
+		},
+		{
+			"id":"f576ce166a10d580",
+			"type":"text",
+			"text":"§ No, there's no \"Rudy\" here either... \n§ What an odd name, anyhow.",
+			"styleAttributes":{},
+			"x":780,
+			"y":286,
+			"width":260,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"12048fde18bebc7d",
+			"type":"text",
+			"text":"§ What are you talking about???\n§ Pearl, is everything okay?",
+			"styleAttributes":{},
+			"x":1110,
+			"y":116,
+			"width":280,
+			"height":82,
+			"color":"4"
+		},
+		{
+			"id":"5926dd62f5ca766c",
+			"type":"text",
+			"text":"§ Pearl! Oh, it's wonderful to see you. \n§ This is a section of the Church most aren't able to access, so make yourself comfortable.",
+			"styleAttributes":{},
+			"x":730,
+			"y":98,
+			"width":360,
+			"height":118,
+			"color":"6"
 		}
 	],
 	"edges":[
