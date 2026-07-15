@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+                "file": "Conspiracy Board/Canvases/Kris.canvas",
                 "viewState": {
-                  "x": 2353.2727916019776,
-                  "y": -4668.088056615228,
-                  "zoom": -1.6363864823662655
+                  "x": -505.72004796836256,
+                  "y": -1148.701981397548,
+                  "zoom": -1.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Conspiracy Board"
+              "title": "Kris"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "3fd9b6108a2422bd",
   "lastOpenFiles": [
-    "Conspiracy Board/Canvases/Kris.canvas",
     "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+    "Conspiracy Board/Canvases/Kris.canvas",
     "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
     "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
     "Conspiracy Board/Events/Media/Penny.png",
