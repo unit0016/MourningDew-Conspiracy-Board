@@ -41,34 +41,12 @@
 		{"id":"e78c8ece32336049","type":"file","file":"Conspiracy Board/Events/Media/Consultations/51b Consultation (Exact Copy OF Kris' Answers).png","x":3930,"y":-768,"width":394,"height":400},
 		{"id":"7931e90b01cf879d","type":"file","file":"Conspiracy Board/Events/Media/Consultations/21b Consultation.png","x":-1410,"y":-793,"width":348,"height":400},
 		{"id":"8707119bcc7f3558","type":"file","file":"Conspiracy Board/Events/Media/Consultations/70b Consultation.png","x":5960,"y":-757,"width":399,"height":218},
-		{
-			"id":"2bf9dc95791e0881",
-			"type":"text",
-			"text":"We have no idea what was said for this one, they might've had messages off or didn't investigate further? Idk.",
-			"styleAttributes":{},
-			"x":6030,
-			"y":-506,
-			"width":260,
-			"height":120,
-			"color":"1"
-		},
 		{"id":"52520c5726a6aeaf","type":"file","file":"Conspiracy Board/Events/Media/Consultations/67b Consultation.png","x":5620,"y":-757,"width":315,"height":400},
 		{"id":"58b8e9ea7c7bc5e4","type":"file","file":"Conspiracy Board/Events/Media/Consultations/56b Consultation.png","x":4340,"y":-768,"width":400,"height":257},
 		{"id":"5857778a7d6b409c","type":"file","file":"Conspiracy Board/Events/Media/Consultations/59b Consultation.png","x":4780,"y":-757,"width":400,"height":251},
 		{"id":"2328da0b2629e0d3","type":"file","file":"Conspiracy Board/Events/Media/Consultations/61b Consultation (Kris Copy, Hurt By Dess).png","x":5200,"y":-757,"width":400,"height":251}
 	],
 	"edges":[
-		{
-			"id":"8163eaad41b69c1d",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"2bf9dc95791e0881",
-			"fromSide":"top",
-			"toNode":"8707119bcc7f3558",
-			"toSide":"bottom",
-			"color":"1"
-		},
 		{
 			"id":"f579fb05a3a3b763",
 			"styleAttributes":{},
