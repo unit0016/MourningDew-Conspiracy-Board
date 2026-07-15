@@ -351,6 +351,28 @@
 			"width":260,
 			"height":180,
 			"color":"4"
+		},
+		{
+			"id":"a47c160ab823e3ff",
+			"type":"text",
+			"text":"Whoever this is isn't happy with the state of affairs... what's the context here?",
+			"styleAttributes":{},
+			"x":120,
+			"y":-16,
+			"width":260,
+			"height":87,
+			"color":"1"
+		},
+		{
+			"id":"51bb30ca2325081a",
+			"type":"text",
+			"text":"Most likely spoken inside the GRAND FOUNTAIN's Dark World.",
+			"styleAttributes":{},
+			"x":910,
+			"y":-54,
+			"width":260,
+			"height":98,
+			"color":"1"
 		}
 	],
 	"edges":[
@@ -650,6 +672,27 @@
 			"fromSide":"top",
 			"toNode":"76898b0295853c4e",
 			"toSide":"bottom",
+			"color":"1"
+		},
+		{
+			"id":"0d8d9f83a927f71d",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a47c160ab823e3ff",
+			"fromSide":"bottom",
+			"toNode":"e5a6cc13578d154d",
+			"toSide":"top",
+			"color":"1"
+		},
+		{
+			"id":"aecb0c2357f03443",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"51bb30ca2325081a",
+			"fromSide":"bottom",
+			"toNode":"5926dd62f5ca766c",
+			"toSide":"top",
 			"color":"1"
 		}
 	],
