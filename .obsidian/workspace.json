@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
+                "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
                 "viewState": {
-                  "x": -4507.510302878764,
-                  "y": 690.2454167053791,
-                  "zoom": -2.333333333333333
+                  "x": 935.5309704849905,
+                  "y": -814.3013338455889,
+                  "zoom": -1.9999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "PENNY, The Device, Misc. Metacommunications, Et Al"
+              "title": "Conspiracy Board"
             }
           }
         ]
@@ -189,16 +189,21 @@
   },
   "active": "3fd9b6108a2422bd",
   "lastOpenFiles": [
-    "Conspiracy Board/Events/Media/Kris Sick B.png",
-    "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
-    "Conspiracy Board/Events/Media/Yo Dawg, I Heard You Like DELTA RUNE, So I Put A DELTA RUNE inside your ANGEL.png",
     "Conspiracy Board/Canvases/Kris.canvas",
-    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
-    "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
-    "Conspiracy Board/Canvases/Kris' Timeline.canvas",
-    "Conspiracy Board/Canvases/Player Timeline.canvas",
+    "Conspiracy Board/Theorycrafting/Synchrono Cyclica/They Just Like Us FR Theory.canvas",
+    "Conspiracy Board/Theorycrafting/Synchrono Cyclica",
+    "Conspiracy Board/Theorycrafting",
+    "Conspiracy Board/Events/Media/Multiple Krises Two.png",
+    "Conspiracy Board/Events/Media/Multiple Krises One.png",
     "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
     "Conspiracy Board/Canvases/Onyx's Timeline.canvas",
+    "Conspiracy Board/Canvases/Kris' Timeline.canvas",
+    "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
+    "Conspiracy Board/Events/Media/Kris Sick B.png",
+    "Conspiracy Board/Events/Media/Yo Dawg, I Heard You Like DELTA RUNE, So I Put A DELTA RUNE inside your ANGEL.png",
+    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+    "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
+    "Conspiracy Board/Canvases/Player Timeline.canvas",
     "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
     "Conspiracy Board/Events/Media/Kris.png",
     "Conspiracy Board/Events/Media/Kris Sick.png",
@@ -224,8 +229,6 @@
     "Conspiracy Board/Canvases",
     "Conspiracy Board/Events/Media/Consultations/70b Consultation.png",
     "Conspiracy Board/Events/Media/Consultations/67b Consultation.png",
-    "Conspiracy Board/Events/Media/Consultations/61b Consultation (Kris Copy, Hurt By Dess).png",
-    "Conspiracy Board/Events/Media/Important Person's Shirt B.png",
     "Conspiracy Board/Events/Media/Consultations",
     "Timeline/Events/Untitled.md",
     "Conspiracy Board/Events/Media",
