@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
+                "file": "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
                 "viewState": {
-                  "x": 8659.361132875445,
-                  "y": -457.9397786197693,
-                  "zoom": 0.3333333333333334
+                  "x": 527.2115915386878,
+                  "y": 364.72443533464127,
+                  "zoom": 0.20628416722056458
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "PENNY, The Device, Misc. Metacommunications, Et Al"
+              "title": "Pearl's Timeline"
             }
           }
         ]
@@ -189,9 +189,10 @@
   },
   "active": "2e03ee4f7e5c44b2",
   "lastOpenFiles": [
+    "Conspiracy Board/Canvases/Onyx's Timeline.canvas",
+    "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
     "Conspiracy Board/Canvases/Consultations/Consultations.canvas",
     "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
-    "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
     "Conspiracy Board/Events/Media/Consultations/Round 2/74b.png",
     "Conspiracy Board/Events/Media/Consultations/Round 1/YEOO Consultation A1.png",
     "Conspiracy Board/Canvases/Conspiracy Board.canvas",
@@ -218,7 +219,6 @@
     "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
     "Conspiracy Board/Events/Kris' Birth.md",
     "Conspiracy Board/Canvases/Kris' Timeline.canvas",
-    "Conspiracy Board/Canvases/Onyx's Timeline.canvas",
     "Conspiracy Board/Theorycrafting/Synchrono Cyclica",
     "Conspiracy Board/Theorycrafting",
     "readme.md",
