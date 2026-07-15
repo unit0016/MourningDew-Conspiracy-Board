@@ -2,17 +2,34 @@
 	"nodes":[
 		{"id":"597ad4e73ca7da44","type":"group","x":-5990,"y":-840,"width":13110,"height":1680,"color":"1","label":"Round 2 Consultations"},
 		{"id":"fa010cdddaff796b","type":"group","x":3450,"y":-790,"width":440,"height":460,"label":"Flowery's Consultation"},
-		{"id":"5857778a7d6b409c","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/59b Consultation.png","x":4780,"y":-757,"width":400,"height":251},
 		{"id":"8c8b1559b6ef65fb","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/9b Consultation.png","x":-4290,"y":-803,"width":400,"height":394},
 		{"id":"ec4dc3eab554a785","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/8B Consultation (Berdly, Blue Upside Down Heart).png","x":-4670,"y":-809,"width":333,"height":400},
 		{"id":"ae3803a79f7207a7","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/6b Consultation.png","x":-5110,"y":-803,"width":400,"height":272},
 		{"id":"b1741a02fff12fbd","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/3b Consultation.png","x":-5550,"y":-800,"width":400,"height":256},
 		{"id":"ae5a16fd2ab92c8b","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/2b Consultation (Water, Red Heart, Recognizes Susie, Hurt By Susie).png","x":-5970,"y":-800,"width":400,"height":322},
+		{"id":"6209d85d71601b7f","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/43b Consultation TItle.png","x":3469,"y":-768,"width":160,"height":36},
+		{"id":"b7d31ae54cc1bf66","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/74b.png","x":6720,"y":-820,"width":378,"height":400},
+		{
+			"id":"3ce2b5cd8d8170b8",
+			"type":"text",
+			"text":"WHAT DOES THIS ONE MEAN.\n\nWhat's gonna be in 75b??? 73b??? IN THIS RANGE, ACTUALLY.",
+			"styleAttributes":{},
+			"x":6598,
+			"y":-380,
+			"width":500,
+			"height":100,
+			"color":"1"
+		},
+		{"id":"5857778a7d6b409c","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/59b Consultation.png","x":4780,"y":-757,"width":400,"height":251},
 		{"id":"52520c5726a6aeaf","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/67b Consultation.png","x":5620,"y":-757,"width":315,"height":400},
 		{"id":"8707119bcc7f3558","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/70b Consultation.png","x":6300,"y":-757,"width":399,"height":218},
 		{"id":"a683620e9b1232b2","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/69b Consultation (Vesselbound, Apple juice).png","x":5960,"y":-757,"width":325,"height":337},
 		{"id":"2328da0b2629e0d3","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/61b Consultation (Kris Copy, Hurt By Dess).png","x":5200,"y":-757,"width":400,"height":251},
 		{"id":"58b8e9ea7c7bc5e4","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/56b Consultation.png","x":4340,"y":-768,"width":400,"height":257},
+		{"id":"e78c8ece32336049","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/51b Consultation (Exact Copy OF Kris' Answers).png","x":3930,"y":-768,"width":394,"height":400},
+		{"id":"d4170938b780c877","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/43b Consultation.png","x":3469,"y":-710,"width":400,"height":353},
+		{"id":"24647c6e6e9fd403","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/37b Consultation (Frisk).png","x":2690,"y":-798,"width":400,"height":240},
+		{"id":"a2df8d3b37d941de","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/36b Consultation.png","x":2270,"y":-798,"width":400,"height":227},
 		{
 			"id":"ffdbcc3624ebb419",
 			"type":"text",
@@ -24,12 +41,7 @@
 			"height":120,
 			"color":"1"
 		},
-		{"id":"e78c8ece32336049","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/51b Consultation (Exact Copy OF Kris' Answers).png","x":3930,"y":-768,"width":394,"height":400},
-		{"id":"d4170938b780c877","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/43b Consultation.png","x":3469,"y":-710,"width":400,"height":353},
-		{"id":"6209d85d71601b7f","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/43b Consultation TItle.png","x":3469,"y":-768,"width":160,"height":36},
 		{"id":"ed3bf27c60c0acb7","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/38B Consultation.png","x":3110,"y":-798,"width":311,"height":400},
-		{"id":"24647c6e6e9fd403","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/37b Consultation (Frisk).png","x":2690,"y":-798,"width":400,"height":240},
-		{"id":"a2df8d3b37d941de","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/36b Consultation.png","x":2270,"y":-798,"width":400,"height":227},
 		{"id":"3a044a206d691298","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/29b Consultation (Deltarune, None,  Red, Heart, Pain, Wonder, No, Instantly, No, Delusion, Kris, Kris, No).jpg","x":620,"y":-802,"width":399,"height":339},
 		{"id":"bfcee8dba21e08b1","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/31b Consultation (Susie, Violet Euhedral, Recognizes Susie, Hurt By Susie).png","x":1860,"y":-798,"width":400,"height":387},
 		{"id":"1b102b7c6e327185","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/Unknown's Consultation, Honesty.png","x":1060,"y":-805,"width":773,"height":400,"color":"6"},
@@ -45,19 +57,7 @@
 		{"id":"07298d386d7c0d3d","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/14b Consultation (Noelle).png","x":-2610,"y":-794,"width":400,"height":302},
 		{"id":"52c1c8d4c9e8c880","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/13B Consultation.png","x":-2990,"y":-797,"width":363,"height":308},
 		{"id":"8f45620fad58f601","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/raf Consultation (B).png","x":-3410,"y":-797,"width":400,"height":273},
-		{"id":"23efeeff0deef446","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/10b Consultation (Gaster).png","x":-3850,"y":-800,"width":400,"height":308},
-		{"id":"b7d31ae54cc1bf66","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/74b.png","x":6720,"y":-820,"width":378,"height":400},
-		{
-			"id":"3ce2b5cd8d8170b8",
-			"type":"text",
-			"text":"WHAT DOES THIS ONE MEAN.\n\nWhat's gonna be in 75b??? 73b??? IN THIS RANGE, ACTUALLY.",
-			"styleAttributes":{},
-			"x":6598,
-			"y":-380,
-			"width":500,
-			"height":100,
-			"color":"1"
-		}
+		{"id":"23efeeff0deef446","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/10b Consultation (Gaster).png","x":-3850,"y":-800,"width":400,"height":308}
 	],
 	"edges":[
 		{
