@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+                "file": "Conspiracy Board/Canvases/Kris.canvas",
                 "viewState": {
-                  "x": 7245,
-                  "y": -1860,
-                  "zoom": -3.336373222232959
+                  "x": -1250.4097089893046,
+                  "y": -1780.916932528263,
+                  "zoom": 0.21715831902391008
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Conspiracy Board"
+              "title": "Kris"
             }
           }
         ]
@@ -189,17 +189,17 @@
   },
   "active": "2e03ee4f7e5c44b2",
   "lastOpenFiles": [
+    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+    "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
     "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
     "Conspiracy Board/Canvases/Consultations/Consultations.canvas",
     "Conspiracy Board/Canvases/Consultations/Round 1.canvas",
-    "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
     "Conspiracy Board/Canvases/Alvin, The Booms, And The Church.canvas",
-    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
     "Conspiracy Board/Canvases/Kris.canvas",
     "Conspiracy Board/Canvases/Kris' Timeline.canvas",
     "Conspiracy Board/Canvases/Onyx's Timeline.canvas",
     "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
-    "Conspiracy Board/Events/Media/Consultations/Round 2/74b.png",
+    "Conspiracy Board/Events/Media/Consultations/Round 2/74b (Phi).png",
     "Conspiracy Board/Events/Media/Consultations/Round 1/YEOO Consultation A1.png",
     "Conspiracy Board/Events/Media/Consultations/Data/Shape Distribution.png",
     "Conspiracy Board/Events/Media/Consultations/Data",

@@ -5,8 +5,6 @@
 		{"id":"ca57fc9001860b76","type":"group","x":-1400,"y":-758,"width":1280,"height":489,"color":"3","label":"Kris D'vina"},
 		{"id":"032c908ecc2b0664","type":"group","x":-1890,"y":-760,"width":450,"height":260,"color":"1","label":"The Ongoing Kristery"},
 		{"id":"464c0d71bd14601b","type":"file","file":"Conspiracy Board/Events/Media/Can anyone try to recognize December.png","x":-1581,"y":-1900,"width":400,"height":91},
-		{"id":"e11a876cd4ff3cab","type":"file","file":"Conspiracy Board/Events/Media/Multiple Krises One.png","x":-1870,"y":-728,"width":400,"height":57,"color":"4"},
-		{"id":"1e6c8dc4942df8bd","type":"file","file":"Conspiracy Board/Events/Media/Multiple Krises Two.png","x":-1870,"y":-643,"width":400,"height":133,"color":"4"},
 		{"id":"590b49b53bd54b06","type":"file","file":"Conspiracy Board/Events/Kris' Birth.md","x":-2010,"y":-2038,"width":400,"height":443,"color":"1"},
 		{
 			"id":"c7bc4975dcff77f5",
@@ -30,6 +28,31 @@
 			"height":86,
 			"color":"1"
 		},
+		{
+			"id":"5794380380c64dd9",
+			"type":"text",
+			"text":"Who is Kris referring to here?",
+			"styleAttributes":{},
+			"x":-370,
+			"y":-2040,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"ef2f038956ba6b40",
+			"type":"text",
+			"text":"This is overtly a joke; but shows us they've got a sense of humor.",
+			"styleAttributes":{},
+			"x":-1291,
+			"y":-926,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 1/Kris consultation A.png","x":-1563,"y":-1567,"width":360,"height":623},
+		{"id":"e11a876cd4ff3cab","type":"file","file":"Conspiracy Board/Events/Media/Multiple Krises One.png","x":-1870,"y":-728,"width":400,"height":57,"color":"4"},
+		{"id":"1e6c8dc4942df8bd","type":"file","file":"Conspiracy Board/Events/Media/Multiple Krises Two.png","x":-1870,"y":-643,"width":400,"height":133,"color":"4"},
 		{"id":"89457a68dbf51514","type":"file","file":"Conspiracy Board/Events/Media/Important Person's Shirt B.png","x":-682,"y":-1582,"width":226,"height":29,"color":"4"},
 		{
 			"id":"b3654c65c5c0c62e",
@@ -125,18 +148,6 @@
 			"height":335,
 			"color":"4"
 		},
-		{"id":"51936bfcb827ae16","type":"file","file":"Conspiracy Board/Events/Media/Lake.png","x":846,"y":-758,"width":400,"height":300},
-		{
-			"id":"cdd97f21dcd7af7a",
-			"type":"text",
-			"text":"§ It’s just within reach. If you just wiggle your hand… \n§ …if you could only move your hand like so…",
-			"styleAttributes":{},
-			"x":916,
-			"y":-419,
-			"width":260,
-			"height":120,
-			"color":"4"
-		},
 		{
 			"id":"a8bdf4bd0eb8bf69",
 			"type":"text",
@@ -158,6 +169,29 @@
 			"y":-1692,
 			"width":260,
 			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"6d8fb99d379b2691",
+			"type":"text",
+			"text":"From one of the Excalidraw boards.",
+			"styleAttributes":{},
+			"x":-440,
+			"y":-1263,
+			"width":260,
+			"height":72,
+			"color":"1"
+		},
+		{"id":"51936bfcb827ae16","type":"file","file":"Conspiracy Board/Events/Media/Lake.png","x":846,"y":-758,"width":400,"height":300},
+		{
+			"id":"cdd97f21dcd7af7a",
+			"type":"text",
+			"text":"§ It’s just within reach. If you just wiggle your hand… \n§ …if you could only move your hand like so…",
+			"styleAttributes":{},
+			"x":916,
+			"y":-419,
+			"width":260,
+			"height":120,
 			"color":"4"
 		},
 		{"id":"39072fe0f939818b","type":"file","file":"Conspiracy Board/Events/Media/Kris' consultation screenshot (lq).png","x":-1140,"y":-2020,"width":400,"height":364},
@@ -184,41 +218,7 @@
 			"height":90,
 			"color":"4"
 		},
-		{
-			"id":"5794380380c64dd9",
-			"type":"text",
-			"text":"Who is Kris referring to here?",
-			"styleAttributes":{},
-			"x":-370,
-			"y":-2040,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{"id":"f93d53cd8f88775e","type":"file","file":"Conspiracy Board/Events/Media/Oh, the poor children!.png","x":-1580,"y":-1760,"width":398,"height":54,"color":"4"},
-		{
-			"id":"ef2f038956ba6b40",
-			"type":"text",
-			"text":"This is overtly a joke; but shows us they've got a sense of humor.",
-			"styleAttributes":{},
-			"x":-1291,
-			"y":-926,
-			"width":260,
-			"height":100,
-			"color":"1"
-		},
-		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 1/Kris consultation A.png","x":-1563,"y":-1567,"width":360,"height":623},
-		{
-			"id":"6d8fb99d379b2691",
-			"type":"text",
-			"text":"From one of the Excalidraw boards.",
-			"styleAttributes":{},
-			"x":-440,
-			"y":-1263,
-			"width":260,
-			"height":72,
-			"color":"1"
-		}
+		{"id":"f93d53cd8f88775e","type":"file","file":"Conspiracy Board/Events/Media/Oh, the poor children!.png","x":-1580,"y":-1760,"width":398,"height":54,"color":"4"}
 	],
 	"edges":[
 		{
