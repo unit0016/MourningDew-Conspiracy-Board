@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"db8a1ac6541f9911","type":"group","x":-8760,"y":-2000,"width":17900,"height":4000,"color":"6","label":"PENNY, The Device, Misc. Metacommunications, Et Al"},
+		{"id":"db8a1ac6541f9911","type":"group","x":-8760,"y":-2000,"width":17750,"height":4000,"color":"6","label":"PENNY, The Device, Misc. Metacommunications, Et Al"},
 		{"id":"62218c39015a4aee","type":"link","url":"https://mourningdew.phinarina.xyz/G7DVlrUSVH244QLHOOQ/","x":-5830,"y":-1786,"width":140,"height":200},
 		{
 			"id":"8829d2dd08755bf7",
