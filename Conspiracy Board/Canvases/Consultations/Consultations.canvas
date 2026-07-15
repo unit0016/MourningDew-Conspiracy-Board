@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"03b6b8b33db715d7","type":"file","file":"Conspiracy Board/Canvases/Consultations/Round 1.canvas","portal":true,"x":-120,"y":-220,"width":9300,"height":1140},
-		{"id":"84e8f087b67a439e","type":"file","file":"Conspiracy Board/Canvases/Consultations/Round 2.canvas","portal":true,"x":-120,"y":940,"width":12810,"height":1780}
+		{"id":"84e8f087b67a439e","type":"file","file":"Conspiracy Board/Canvases/Consultations/Round 2.canvas","portal":true,"x":-120,"y":940,"width":13210,"height":1780}
 	],
 	"edges":[],
 	"metadata":{

@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"db8a1ac6541f9911","type":"group","x":-8760,"y":-2000,"width":17400,"height":4000,"color":"6","label":"PENNY, The Device, Misc. Metacommunications, Et Al"},
+		{"id":"db8a1ac6541f9911","type":"group","x":-8760,"y":-2000,"width":17900,"height":4000,"color":"6","label":"PENNY, The Device, Misc. Metacommunications, Et Al"},
 		{"id":"62218c39015a4aee","type":"link","url":"https://mourningdew.phinarina.xyz/G7DVlrUSVH244QLHOOQ/","x":-5830,"y":-1786,"width":140,"height":200},
 		{
 			"id":"8829d2dd08755bf7",
@@ -13,6 +13,18 @@
 			"height":120,
 			"color":"1"
 		},
+		{"id":"4fa038861e37ca58","type":"file","file":"Conspiracy Board/Events/Media/Unknown drawning.png","x":-5616,"y":-1770,"width":660,"height":559},
+		{
+			"id":"9f36125e5cd98876",
+			"type":"text",
+			"text":"Thank you.\nYour names were many.\nYou took many forms.\n\nYour choices mattered.\n\nFurther communication\nWill not resemble this.\n\nUntil next time,\n... You recieved a score of \"\".",
+			"styleAttributes":{},
+			"x":-5513,
+			"y":1160,
+			"width":253,
+			"height":300,
+			"color":"4"
+		},
 		{
 			"id":"b449b77bc2e32e28",
 			"type":"text",
@@ -24,8 +36,33 @@
 			"height":60,
 			"color":"1"
 		},
-		{"id":"4fa038861e37ca58","type":"file","file":"Conspiracy Board/Events/Media/Unknown drawning.png","x":-5616,"y":-1770,"width":660,"height":559},
 		{"id":"f526101511aeaf4d","type":"file","file":"Conspiracy Board/Events/Media/Penny Thank You.png","x":-6300,"y":-1752,"width":400,"height":132},
+		{"id":"51624c48cf2c9dc2","type":"link","url":"https://mourningdew.phinarina.xyz/interview/","x":-7420,"y":-1770,"width":1080,"height":3720},
+		{"id":"b78303993d679cc0","type":"file","file":"Conspiracy Board/Canvases/Consultations/Consultations.canvas","portal":true,"x":-4320,"y":-1980,"width":13310,"height":3040},
+		{
+			"id":"324bb4dc29af9ba8",
+			"type":"text",
+			"text":"This has also been referred to as 'Therapy' and 'THERAPY' independently.",
+			"styleAttributes":{},
+			"x":-5520,
+			"y":-860,
+			"width":260,
+			"height":90,
+			"color":"1"
+		},
+		{"id":"c47b0c8c39901c06","type":"file","file":"Conspiracy Board/Events/Media/Unknown PHOTON Drawing.png","x":-5520,"y":-1168,"width":399,"height":254},
+		{
+			"id":"7ac378a61eff195a",
+			"type":"text",
+			"text":"'An interesting coincidence.' was the phrase used to describe being named after a character in DELTARUNE proper. Why do these two keep that?",
+			"styleAttributes":{},
+			"x":-6220,
+			"y":180,
+			"width":260,
+			"height":189,
+			"color":"1"
+		},
+		{"id":"98146ea1c57989fe","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Data/Shape Distribution.png","x":-5220,"y":1480,"width":400,"height":299,"color":"4"},
 		{"id":"f9b21a6d466c0f72","type":"link","url":"https://mourningdew.phinarina.xyz/interview2/","x":-8720,"y":-674,"width":880,"height":1528},
 		{
 			"id":"f894064b2c7da9d6",
@@ -39,17 +76,6 @@
 			"color":"1"
 		},
 		{
-			"id":"9f36125e5cd98876",
-			"type":"text",
-			"text":"Thank you.\nYour names were many.\nYou took many forms.\n\nYour choices mattered.\n\nFurther communication\nWill not resemble this.\n\nUntil next time,\n... You recieved a score of \"\".",
-			"styleAttributes":{},
-			"x":-5513,
-			"y":1160,
-			"width":253,
-			"height":300,
-			"color":"4"
-		},
-		{
 			"id":"6b9963ffce8097f9",
 			"type":"text",
 			"text":"Alphys being referred to as a 'stagehand' and this thought experiment - are the dark worlds we'll explore effectively plays enacting the events of prophecy beat for beat?",
@@ -60,21 +86,52 @@
 			"height":120,
 			"color":"1"
 		},
-		{"id":"51624c48cf2c9dc2","type":"link","url":"https://mourningdew.phinarina.xyz/interview/","x":-7420,"y":-1770,"width":1080,"height":3720},
-		{"id":"b78303993d679cc0","type":"file","file":"Conspiracy Board/Canvases/Consultations/Consultations.canvas","portal":true,"x":-4320,"y":-1980,"width":12910,"height":3040},
 		{"id":"53fbf6834fcce54e","type":"file","file":"Conspiracy Board/Events/Consultation/Score Calculation.md","x":-4760,"y":240,"width":400,"height":1070,"color":"4"},
-		{"id":"52590532278f3784","type":"file","file":"Conspiracy Board/Events/Media/PENNY Account.png","x":-5932,"y":-1168,"width":372,"height":400,"color":"4"},
 		{
-			"id":"f9d1be7af2a65fe4",
+			"id":"d16b9ba317b166d9",
 			"type":"text",
-			"text":"Notably not the full (unused) full verse as in DELTARUNE, 'Coldwater fell from top of sky.'",
+			"text":"Kris ostensibly made one of these questions, and considering the timeline of how this interview played out - I have reason to believe it's the last, calling back to the 'Thank you.' ARG along with the emails we've received thusfar.\n\nIn that ARG, you received \"So, she never stopped smiling.\" as a response for inputting 0-10 Seconds as an answer.\n\nKris' consultation notably stated they were hurt by Noelle.\n\n...What's up with all of this?",
 			"styleAttributes":{},
-			"x":-5932,
-			"y":-1426,
-			"width":260,
-			"height":115,
+			"x":-7760,
+			"y":-160,
+			"width":280,
+			"height":460,
 			"color":"1"
 		},
+		{
+			"id":"8a800f6b6c569f87",
+			"type":"text",
+			"text":"What's so dangerous about bringing up the good doctor's henchsquad?",
+			"styleAttributes":{},
+			"x":-6220,
+			"y":740,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{
+			"id":"627a458a1c0b6456",
+			"type":"text",
+			"text":"This is most likely supposed to depict Monster Kid?",
+			"styleAttributes":{},
+			"x":-6220,
+			"y":460,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"6a00e877b6c835f3",
+			"type":"text",
+			"text":"Undyne's probably in with the church, with that sort of text.",
+			"styleAttributes":{},
+			"x":-6220,
+			"y":600,
+			"width":260,
+			"height":80,
+			"color":"1"
+		},
+		{"id":"52590532278f3784","type":"file","file":"Conspiracy Board/Events/Media/PENNY Account.png","x":-5932,"y":-1168,"width":372,"height":400,"color":"4"},
 		{
 			"id":"5375edfca7f8f7f9",
 			"type":"text",
@@ -109,17 +166,6 @@
 			"color":"1"
 		},
 		{
-			"id":"d16b9ba317b166d9",
-			"type":"text",
-			"text":"Kris ostensibly made one of these questions, and considering the timeline of how this interview played out - I have reason to believe it's the last, calling back to the 'Thank you.' ARG along with the emails we've received thusfar.\n\nIn that ARG, you received \"So, she never stopped smiling.\" as a response for inputting 0-10 Seconds as an answer.\n\nKris' consultation notably stated they were hurt by Noelle.\n\n...What's up with all of this?",
-			"styleAttributes":{},
-			"x":-7760,
-			"y":-160,
-			"width":280,
-			"height":460,
-			"color":"1"
-		},
-		{
 			"id":"7d1bd5baa6cfea25",
 			"type":"text",
 			"text":"It's important they allow us to do this; right now?",
@@ -143,8 +189,6 @@
 			"height":60,
 			"color":"4"
 		},
-		{"id":"bddd4a6edbd18681","type":"file","file":"Conspiracy Board/Events/Media/Yo Dawg, I Heard You Like DELTA RUNE, So I Put A DELTA RUNE inside your ANGEL.png","x":-6300,"y":-780,"width":175,"height":108,"color":"4"},
-		{"id":"472e37d17cf7ecd5","type":"file","file":"Conspiracy Board/Events/Media/Penny.png","x":-6300,"y":-1211,"width":327,"height":400,"color":"4"},
 		{
 			"id":"11bee713a8762eb2",
 			"type":"text",
@@ -156,64 +200,20 @@
 			"height":240,
 			"color":"4"
 		},
-		{
-			"id":"324bb4dc29af9ba8",
-			"type":"text",
-			"text":"This has also been referred to as 'Therapy' and 'THERAPY' independently.",
-			"styleAttributes":{},
-			"x":-5520,
-			"y":-860,
-			"width":260,
-			"height":90,
-			"color":"1"
-		},
-		{"id":"c47b0c8c39901c06","type":"file","file":"Conspiracy Board/Events/Media/Unknown PHOTON Drawing.png","x":-5520,"y":-1168,"width":399,"height":254},
 		{"id":"a9cd1e5a7742dd1d","type":"file","file":"Conspiracy Board/Events/Consultation/CONSULTATION.md","x":-5946,"y":-688,"width":1126,"height":1798,"color":"4"},
 		{
-			"id":"8a800f6b6c569f87",
+			"id":"f9d1be7af2a65fe4",
 			"type":"text",
-			"text":"What's so dangerous about bringing up the good doctor's henchsquad?",
+			"text":"Notably not the full (unused) full verse as in DELTARUNE, 'Coldwater fell from top of sky.'",
 			"styleAttributes":{},
-			"x":-6220,
-			"y":740,
+			"x":-5932,
+			"y":-1426,
 			"width":260,
-			"height":100,
+			"height":115,
 			"color":"1"
 		},
-		{
-			"id":"627a458a1c0b6456",
-			"type":"text",
-			"text":"This is most likely supposed to depict Monster Kid?",
-			"styleAttributes":{},
-			"x":-6220,
-			"y":460,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"6a00e877b6c835f3",
-			"type":"text",
-			"text":"Undyne's probably in with the church, with that sort of text.",
-			"styleAttributes":{},
-			"x":-6220,
-			"y":600,
-			"width":260,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"7ac378a61eff195a",
-			"type":"text",
-			"text":"'An interesting coincidence.' was the phrase used to describe being named after a character in DELTARUNE proper. Why do these two keep that?",
-			"styleAttributes":{},
-			"x":-6220,
-			"y":180,
-			"width":260,
-			"height":189,
-			"color":"1"
-		},
-		{"id":"98146ea1c57989fe","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Data/Shape Distribution.png","x":-5220,"y":1480,"width":400,"height":299,"color":"4"}
+		{"id":"bddd4a6edbd18681","type":"file","file":"Conspiracy Board/Events/Media/Yo Dawg, I Heard You Like DELTA RUNE, So I Put A DELTA RUNE inside your ANGEL.png","x":-6300,"y":-780,"width":175,"height":108,"color":"4"},
+		{"id":"472e37d17cf7ecd5","type":"file","file":"Conspiracy Board/Events/Media/Penny.png","x":-6300,"y":-1211,"width":327,"height":400,"color":"4"}
 	],
 	"edges":[
 		{
