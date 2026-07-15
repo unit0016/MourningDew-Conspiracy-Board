@@ -15,9 +15,9 @@
               "state": {
                 "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
                 "viewState": {
-                  "x": 3032.377503836634,
-                  "y": -3617.849122824089,
-                  "zoom": -0.9999999999999996
+                  "x": 2251.632976198873,
+                  "y": -2908.8913975414303,
+                  "zoom": 1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -189,6 +189,7 @@
   },
   "active": "2e03ee4f7e5c44b2",
   "lastOpenFiles": [
+    "Conspiracy Board/Events/Media/CONSULTATION Color Distribution.png",
     "Conspiracy Board/Events/Consultation",
     "Conspiracy Board/Events/Consultation/Score Calculation.md",
     "Conspiracy Board/Canvases/Conspiracy Board.canvas",
