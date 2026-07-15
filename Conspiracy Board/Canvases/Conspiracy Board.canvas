@@ -10,7 +10,7 @@
 			"x":-560,
 			"y":-2120,
 			"width":3340,
-			"height":1740,
+			"height":1940,
 			"interdimensionalEdges":[
 				{
 					"id":"1440d32da27701ca",
@@ -25,7 +25,7 @@
 				},
 				{
 					"id":"03079f220128a8d7",
-					"styleAttributes":{"pathfindingMethod":"square"},
+					"styleAttributes":{"pathfindingMethod":"a-star"},
 					"toFloating":false,
 					"fromFloating":false,
 					"fromNode":"d32f71f20909c917",
@@ -36,13 +36,15 @@
 				}
 			]
 		},
+		{"id":"b28bf6d6365eda54","type":"file","file":"Conspiracy Board/Canvases/Onyx's Timeline.canvas","portal":true,"x":-600,"y":1300,"width":876,"height":600},
+		{"id":"e65c4ac87700c850","type":"file","file":"Conspiracy Board/Canvases/Player Timeline.canvas","portal":true,"x":-600,"y":1940,"width":1220,"height":580},
 		{
 			"id":"3d076ed772c22024",
 			"type":"file",
 			"file":"Conspiracy Board/Canvases/Pearl's Timeline.canvas",
 			"portal":true,
 			"x":-1360,
-			"y":-300,
+			"y":-100,
 			"width":4500,
 			"height":1360,
 			"interdimensionalEdges":[
@@ -59,15 +61,13 @@
 				}
 			]
 		},
-		{"id":"b28bf6d6365eda54","type":"file","file":"Conspiracy Board/Canvases/Onyx's Timeline.canvas","portal":true,"x":-600,"y":1100,"width":876,"height":600},
-		{"id":"e65c4ac87700c850","type":"file","file":"Conspiracy Board/Canvases/Player Timeline.canvas","portal":true,"x":-600,"y":1740,"width":1220,"height":580},
 		{
 			"id":"d32f71f20909c917",
 			"type":"text",
 			"text":"Kris' appearance",
 			"styleAttributes":{},
-			"x":1600,
-			"y":-380,
+			"x":1530,
+			"y":-180,
 			"width":260,
 			"height":80,
 			"color":"4"
