@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"1f774d4bdbaee632","type":"group","x":-660,"y":-300,"width":1080,"height":600,"color":"#00ff7b","label":"Alvin, The Booms, And The Church"},
+		{"id":"77f43fb4d7fc5a31","type":"file","file":"Conspiracy Board/Events/Media/PENNY recants the death of Gerson Boom.png","x":-390,"y":-257,"width":780,"height":515,"color":"4"},
+		{"id":"643e9adbd5e6015c","type":"file","file":"Conspiracy Board/Events/Media/Alvin Mark.png","x":-620,"y":-105,"width":113,"height":212}
+	],
+	"edges":[
+		{
+			"id":"dd99925db1417f15",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"643e9adbd5e6015c",
+			"fromSide":"right",
+			"toNode":"77f43fb4d7fc5a31",
+			"toSide":"left",
+			"color":"4"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

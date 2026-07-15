@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"0cb3c72f22994a3d","type":"file","file":"Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas","portal":true,"x":-1600,"y":-6240,"width":17130,"height":4100},
-		{"id":"290cc972a3536e6d","type":"file","file":"Conspiracy Board/Canvases/Pre-Game Timeline.canvas","portal":true,"x":-1600,"y":-1040,"width":1000,"height":480},
 		{
 			"id":"772b59ba0a4cdc62",
 			"type":"file",
@@ -10,7 +9,7 @@
 			"x":-560,
 			"y":-2120,
 			"width":3340,
-			"height":1940,
+			"height":1980,
 			"interdimensionalEdges":[
 				{
 					"id":"1440d32da27701ca",
@@ -71,7 +70,8 @@
 			"width":260,
 			"height":80,
 			"color":"4"
-		}
+		},
+		{"id":"290cc972a3536e6d","type":"file","file":"Conspiracy Board/Canvases/Pre-Game Timeline.canvas","portal":true,"x":-2360,"y":-2120,"width":1730,"height":870}
 	],
 	"edges":[],
 	"metadata":{

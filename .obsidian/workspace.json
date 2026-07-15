@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Conspiracy Board/Canvases/Kris.canvas",
+                "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
                 "viewState": {
-                  "x": 96.15377078134208,
-                  "y": -819.5134985139523,
-                  "zoom": -1.7518147853554653
+                  "x": -960.8772498906656,
+                  "y": -1692.8505693444652,
+                  "zoom": -1.3363732222329587
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Kris"
+              "title": "Conspiracy Board"
             }
           }
         ]
@@ -189,18 +189,20 @@
   },
   "active": "3fd9b6108a2422bd",
   "lastOpenFiles": [
+    "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
+    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+    "Conspiracy Board/Canvases/Alvin, The Booms, And The Church.canvas",
+    "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
+    "Conspiracy Board/Canvases/Kris.canvas",
+    "Conspiracy Board/Events/Media/PENNY recants the death of Gerson Boom.png",
     "Conspiracy Board/Events/Media/Kris hints at kris_dvina_kris Page.png",
     "Conspiracy Board/Canvases/Kris' Timeline.canvas",
-    "Conspiracy Board/Canvases/Kris.canvas",
     "Conspiracy Board/Canvases/Onyx's Timeline.canvas",
     "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
-    "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
     "Conspiracy Board/Canvases/Player Timeline.canvas",
     "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
     "Conspiracy Board/Canvases/Consultations/Round 1.canvas",
-    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
     "Conspiracy Board/Events/Media/Penny.png",
-    "Conspiracy Board/Theorycrafting/Synchrono Cyclica/They Just Like Us FR Theory.canvas",
     "Conspiracy Board/Theorycrafting/Synchrono Cyclica",
     "Conspiracy Board/Theorycrafting",
     "Conspiracy Board/Events/Media/Multiple Krises Two.png",
@@ -222,13 +224,11 @@
     "Conspiracy Board/Events/Kris' birth.md",
     "Conspiracy Board/Events/CONSULTATION.md",
     "Conspiracy Board/Events/Media/Scores.png",
-    "Conspiracy Board/Events/Media/Consultations/56b Consultation.png",
     "Conspiracy Board/Canvases/Kris.md",
     "Conspiracy Board/Canvases/Untitled.md",
     "Conspiracy Board/Canvases/Consultations/R.md",
     "Conspiracy Board/Canvases/Consultations",
     "Conspiracy Board/Canvases",
-    "Conspiracy Board/Events/Media/Consultations/70b Consultation.png",
     "Conspiracy Board/Events/Media/Consultations",
     "Timeline/Events/Untitled.md",
     "Conspiracy Board/Events/Media",
