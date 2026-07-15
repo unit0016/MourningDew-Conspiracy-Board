@@ -5,15 +5,27 @@
 		{"id":"032c908ecc2b0664","type":"group","x":-1890,"y":-760,"width":450,"height":260,"color":"1","label":"The Ongoing Kristery"},
 		{"id":"ca57fc9001860b76","type":"group","x":-1400,"y":-760,"width":430,"height":260,"color":"3","label":"Kris D'vina"},
 		{
-			"id":"bfdfcd8b4ce75220",
+			"id":"5794380380c64dd9",
 			"type":"text",
-			"text":"*You don't like looking at this sort of thing.\n§ Wait, what was that *?\n                                                                -Kris \\[Blotched out with Black Ink\\]\n                                                                \n",
+			"text":"Who is Kris referring to here?",
+			"styleAttributes":{},
+			"x":-370,
+			"y":-2040,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"51936bfcb827ae16","type":"file","file":"Conspiracy Board/Events/Media/Lake.png","x":-945,"y":-757,"width":400,"height":300},
+		{
+			"id":"6901ca51ee43da5e",
+			"type":"text",
+			"text":"In reference to a 'Green Diamond' in someone's Consultation.",
 			"styleAttributes":{},
 			"x":-730,
-			"y":-1152,
-			"width":530,
-			"height":90,
-			"color":"4"
+			"y":-1242,
+			"width":400,
+			"height":60,
+			"color":"1"
 		},
 		{
 			"id":"113bbd93683bf04b",
@@ -24,17 +36,6 @@
 			"y":-1018,
 			"width":260,
 			"height":192,
-			"color":"4"
-		},
-		{
-			"id":"c3da14ca338f91ef",
-			"type":"text",
-			"text":"§ Sup, Pearl?",
-			"styleAttributes":{},
-			"x":-730,
-			"y":-982,
-			"width":260,
-			"height":60,
 			"color":"4"
 		},
 		{
@@ -51,9 +52,57 @@
 		{"id":"515d1db5d1f1856a","type":"file","file":"Conspiracy Board/Events/Media/Kris Account.png","x":-1580,"y":-2020,"width":399,"height":82},
 		{"id":"464c0d71bd14601b","type":"file","file":"Conspiracy Board/Events/Media/Can anyone try to recognize December.png","x":-1581,"y":-1900,"width":400,"height":91},
 		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation A.png","x":-1590,"y":-1656,"width":360,"height":623},
+		{
+			"id":"372f865e71172971",
+			"type":"text",
+			"text":"This is clearly one of the Krises narrating, but I hesitate to say it's D'vina due to the photograph. As for what they're looking for, I'm even more in the dark.",
+			"styleAttributes":{},
+			"x":-1305,
+			"y":-438,
+			"width":360,
+			"height":140,
+			"color":"1"
+		},
+		{"id":"39072fe0f939818b","type":"file","file":"Conspiracy Board/Events/Media/Kris' consultation screenshot (lq).png","x":-1140,"y":-2020,"width":400,"height":364},
+		{"id":"3d1900dbef0db239","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation B.png","x":-1186,"y":-1493,"width":441,"height":460},
+		{
+			"id":"bfdfcd8b4ce75220",
+			"type":"text",
+			"text":"*You don't like looking at this sort of thing.\n§ Wait, what was that *?\n                                                                -Kris \\[Blotched out with Black Ink\\]\n                                                                \n",
+			"styleAttributes":{},
+			"x":-730,
+			"y":-1152,
+			"width":530,
+			"height":90,
+			"color":"4"
+		},
+		{
+			"id":"c3da14ca338f91ef",
+			"type":"text",
+			"text":"§ Sup, Pearl?",
+			"styleAttributes":{},
+			"x":-730,
+			"y":-982,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
 		{"id":"e11a876cd4ff3cab","type":"file","file":"Conspiracy Board/Events/Media/Multiple Krises One.png","x":-1870,"y":-728,"width":400,"height":57,"color":"4"},
 		{"id":"1e6c8dc4942df8bd","type":"file","file":"Conspiracy Board/Events/Media/Multiple Krises Two.png","x":-1870,"y":-643,"width":400,"height":133,"color":"4"},
 		{"id":"89b7808dd1b175dd","type":"file","file":"Conspiracy Board/Events/Media/Important Person's Shirt A.png","x":-710,"y":-2020,"width":283,"height":400,"color":"4"},
+		{"id":"2457d1d6d96692c9","type":"file","file":"Conspiracy Board/Events/Media/Kris Sick B.png","x":-1380,"y":-680,"width":177,"height":98,"color":"4"},
+		{
+			"id":"ef2f038956ba6b40",
+			"type":"text",
+			"text":"This is overtly a joke; but shows us they've got a sense of humor.",
+			"styleAttributes":{},
+			"x":-1300,
+			"y":-972,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{"id":"658ace554eec80e4","type":"file","file":"Conspiracy Board/Events/Media/Kris Sick.png","x":-1149,"y":-680,"width":164,"height":145,"color":"4"},
 		{
 			"id":"97e71e7fd7fb6144",
 			"type":"file",
@@ -101,17 +150,6 @@
 			"color":"4"
 		},
 		{
-			"id":"5794380380c64dd9",
-			"type":"text",
-			"text":"Who is Kris referring to here?",
-			"styleAttributes":{},
-			"x":-370,
-			"y":-2040,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
-		{
 			"id":"cdd97f21dcd7af7a",
 			"type":"text",
 			"text":"§ It’s just within reach. If you just wiggle your hand… \n§ …if you could only move your hand like so…",
@@ -122,7 +160,6 @@
 			"height":120,
 			"color":"4"
 		},
-		{"id":"2457d1d6d96692c9","type":"file","file":"Conspiracy Board/Events/Media/Kris Sick B.png","x":-1380,"y":-680,"width":177,"height":98,"color":"4"},
 		{
 			"id":"c57de21c45f8e167",
 			"type":"text",
@@ -155,44 +192,7 @@
 			"width":260,
 			"height":100,
 			"color":"1"
-		},
-		{
-			"id":"372f865e71172971",
-			"type":"text",
-			"text":"This is clearly one of the Krises narrating, but I hesitate to say it's D'vina due to the photograph. As for what they're looking for, I'm even more in the dark.",
-			"styleAttributes":{},
-			"x":-1305,
-			"y":-438,
-			"width":360,
-			"height":140,
-			"color":"1"
-		},
-		{"id":"51936bfcb827ae16","type":"file","file":"Conspiracy Board/Events/Media/Lake.png","x":-945,"y":-757,"width":400,"height":300},
-		{"id":"39072fe0f939818b","type":"file","file":"Conspiracy Board/Events/Media/Kris' consultation screenshot (lq).png","x":-1140,"y":-2020,"width":400,"height":364},
-		{"id":"3d1900dbef0db239","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation B.png","x":-1186,"y":-1493,"width":441,"height":460},
-		{
-			"id":"ef2f038956ba6b40",
-			"type":"text",
-			"text":"This is overtly a joke; but shows us they've got a sense of humor.",
-			"styleAttributes":{},
-			"x":-1300,
-			"y":-972,
-			"width":260,
-			"height":100,
-			"color":"1"
-		},
-		{
-			"id":"6901ca51ee43da5e",
-			"type":"text",
-			"text":"In reference to a 'Green Diamond' in someone's Consultation.",
-			"styleAttributes":{},
-			"x":-730,
-			"y":-1242,
-			"width":400,
-			"height":60,
-			"color":"1"
-		},
-		{"id":"658ace554eec80e4","type":"file","file":"Conspiracy Board/Events/Media/Kris Sick.png","x":-1149,"y":-680,"width":164,"height":145,"color":"4"}
+		}
 	],
 	"edges":[
 		{

@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
+                "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
                 "viewState": {
-                  "x": 4078.1227675974933,
-                  "y": -220.07049940565696,
-                  "zoom": -1.9999999999999996
+                  "x": 1511.3609351714013,
+                  "y": -870.6993486984824,
+                  "zoom": -2.3333333333333326
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Round 2"
+              "title": "Conspiracy Board"
             }
           }
         ]
@@ -189,11 +189,11 @@
   },
   "active": "3fd9b6108a2422bd",
   "lastOpenFiles": [
-    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
     "Conspiracy Board/Canvases/Kris.canvas",
+    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+    "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
     "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
     "Conspiracy Board/Canvases/Consultations/Round 1.canvas",
-    "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
     "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
     "Conspiracy Board/Events/Media/Penny.png",
     "Conspiracy Board/Theorycrafting/Synchrono Cyclica/They Just Like Us FR Theory.canvas",
