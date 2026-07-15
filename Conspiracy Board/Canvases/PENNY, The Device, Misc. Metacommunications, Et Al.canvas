@@ -1,6 +1,68 @@
 {
 	"nodes":[
 		{"id":"db8a1ac6541f9911","type":"group","x":-8760,"y":-2000,"width":17400,"height":4000,"color":"6","label":"PENNY, The Device, Misc. Metacommunications, Et Al"},
+		{"id":"62218c39015a4aee","type":"link","url":"https://mourningdew.phinarina.xyz/G7DVlrUSVH244QLHOOQ/","x":-5830,"y":-1786,"width":140,"height":200},
+		{
+			"id":"8829d2dd08755bf7",
+			"type":"text",
+			"text":"Kris has been depicted wearing a sweater emblazed with the DELTA RUNE; angel crest right on the chest like whoever - whatever, this is. Is it a standardized uniform for the town, or...?",
+			"styleAttributes":{},
+			"x":-5506,
+			"y":-1960,
+			"width":440,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"b449b77bc2e32e28",
+			"type":"text",
+			"text":"Apparently a red herring.",
+			"styleAttributes":{},
+			"x":-5890,
+			"y":-1890,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"4fa038861e37ca58","type":"file","file":"Conspiracy Board/Events/Media/Unknown drawning.png","x":-5616,"y":-1770,"width":660,"height":559},
+		{"id":"f526101511aeaf4d","type":"file","file":"Conspiracy Board/Events/Media/Penny Thank You.png","x":-6300,"y":-1752,"width":400,"height":132},
+		{"id":"f9b21a6d466c0f72","type":"link","url":"https://mourningdew.phinarina.xyz/interview2/","x":-8720,"y":-674,"width":880,"height":1528},
+		{
+			"id":"f894064b2c7da9d6",
+			"type":"text",
+			"text":"THERAPY is notably capitalized here. 'More of a life'... has some implications I can't extrapolate too well.",
+			"styleAttributes":{},
+			"x":-7760,
+			"y":-300,
+			"width":280,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"9f36125e5cd98876",
+			"type":"text",
+			"text":"Thank you.\nYour names were many.\nYou took many forms.\n\nYour choices mattered.\n\nFurther communication\nWill not resemble this.\n\nUntil next time,\n... You recieved a score of \"\".",
+			"styleAttributes":{},
+			"x":-5513,
+			"y":1160,
+			"width":253,
+			"height":300,
+			"color":"4"
+		},
+		{
+			"id":"6b9963ffce8097f9",
+			"type":"text",
+			"text":"Alphys being referred to as a 'stagehand' and this thought experiment - are the dark worlds we'll explore effectively plays enacting the events of prophecy beat for beat?",
+			"styleAttributes":{},
+			"x":-6160,
+			"y":1160,
+			"width":400,
+			"height":120,
+			"color":"1"
+		},
+		{"id":"51624c48cf2c9dc2","type":"link","url":"https://mourningdew.phinarina.xyz/interview/","x":-7420,"y":-1770,"width":1080,"height":3720},
+		{"id":"b78303993d679cc0","type":"file","file":"Conspiracy Board/Canvases/Consultations/Consultations.canvas","portal":true,"x":-4320,"y":-1980,"width":12910,"height":3040},
+		{"id":"53fbf6834fcce54e","type":"file","file":"Conspiracy Board/Events/Consultation/Score Calculation.md","x":-4760,"y":240,"width":400,"height":1070,"color":"4"},
 		{"id":"52590532278f3784","type":"file","file":"Conspiracy Board/Events/Media/PENNY Account.png","x":-5932,"y":-1168,"width":372,"height":400,"color":"4"},
 		{
 			"id":"f9d1be7af2a65fe4",
@@ -14,98 +76,26 @@
 			"color":"1"
 		},
 		{
-			"id":"61a9e2a856680a6b",
+			"id":"5375edfca7f8f7f9",
 			"type":"text",
-			"text":"Coldwater fell from the sky.",
+			"text":"Vigenère cipher as far as we know, no known key",
 			"styleAttributes":{},
-			"x":-5932,
-			"y":-1531,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{"id":"62218c39015a4aee","type":"link","url":"https://mourningdew.phinarina.xyz/G7DVlrUSVH244QLHOOQ/","x":-5830,"y":-1786,"width":140,"height":200},
-		{"id":"a9cd1e5a7742dd1d","type":"file","file":"Conspiracy Board/Events/Consultation/CONSULTATION.md","x":-5946,"y":-688,"width":1126,"height":1798,"color":"4"},
-		{"id":"472e37d17cf7ecd5","type":"file","file":"Conspiracy Board/Events/Media/Penny.png","x":-6300,"y":-1211,"width":327,"height":400,"color":"4"},
-		{"id":"bddd4a6edbd18681","type":"file","file":"Conspiracy Board/Events/Media/Yo Dawg, I Heard You Like DELTA RUNE, So I Put A DELTA RUNE inside your ANGEL.png","x":-6300,"y":-780,"width":175,"height":108,"color":"4"},
-		{
-			"id":"9f36125e5cd98876",
-			"type":"text",
-			"text":"Thank you.\nYour names were many.\nYou took many forms.\n\nYour choices mattered.\n\nFurther communication\nWill not resemble this.\n\nUntil next time,\n... You recieved a score of \"\".",
-			"styleAttributes":{},
-			"x":-5513,
-			"y":1160,
-			"width":260,
-			"height":300,
-			"color":"4"
-		},
-		{
-			"id":"8a800f6b6c569f87",
-			"type":"text",
-			"text":"What's so dangerous about bringing up the good doctor's henchsquad?",
-			"styleAttributes":{},
-			"x":-6220,
-			"y":740,
-			"width":260,
-			"height":100,
-			"color":"1"
-		},
-		{
-			"id":"627a458a1c0b6456",
-			"type":"text",
-			"text":"This is most likely supposed to depict Monster Kid?",
-			"styleAttributes":{},
-			"x":-6220,
-			"y":460,
+			"x":-4900,
+			"y":-860,
 			"width":260,
 			"height":60,
 			"color":"1"
 		},
-		{"id":"f526101511aeaf4d","type":"file","file":"Conspiracy Board/Events/Media/Penny Thank You.png","x":-6300,"y":-1752,"width":400,"height":132},
 		{
-			"id":"11bee713a8762eb2",
+			"id":"43037e2fe5d8c1ce",
 			"type":"text",
-			"text":"We've all seen the happiest outcomes. Nobody can fix the device, no matter how hard we all tried. No one can\n\nBut, maybe in order to fix something, you have to break it first?",
+			"text":"A prim and proper boy. \nA crying, crying girl. \\[**ziexxbinselpqfeeagvmbpgmtxkbaqk**\\] \nA crying, crying girl.",
 			"styleAttributes":{},
-			"x":-6300,
-			"y":-1531,
-			"width":260,
-			"height":240,
-			"color":"4"
-		},
-		{
-			"id":"6a00e877b6c835f3",
-			"type":"text",
-			"text":"Undyne's probably in with the church, with that sort of text.",
-			"styleAttributes":{},
-			"x":-6220,
-			"y":600,
-			"width":260,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"7ac378a61eff195a",
-			"type":"text",
-			"text":"'An interesting coincidence.' was the phrase used to describe being named after a character in DELTARUNE proper. Why do these two keep that?",
-			"styleAttributes":{},
-			"x":-6220,
-			"y":180,
-			"width":260,
-			"height":189,
-			"color":"1"
-		},
-		{"id":"51624c48cf2c9dc2","type":"link","url":"https://mourningdew.phinarina.xyz/interview/","x":-7420,"y":-1770,"width":1080,"height":3720},
-		{
-			"id":"6b9963ffce8097f9",
-			"type":"text",
-			"text":"Alphys being referred to as a 'stagehand' and this thought experiment - are the dark worlds we'll explore effectively plays enacting the events of prophecy beat for beat?",
-			"styleAttributes":{},
-			"x":-6160,
-			"y":1160,
+			"x":-4900,
+			"y":-1054,
 			"width":400,
-			"height":120,
-			"color":"1"
+			"height":140,
+			"color":"4"
 		},
 		{
 			"id":"ce3787f86dbdd1c1",
@@ -140,63 +130,31 @@
 			"height":60,
 			"color":"1"
 		},
+		{"id":"5fc7776a59eb984c","type":"file","file":"Conspiracy Board/Events/Media/Indoctrination.png","x":-6148,"y":1320,"width":376,"height":400,"color":"4"},
+		{"id":"c416b9365beefed5","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Data/Color Distribution.png","x":-5220,"y":1170,"width":400,"height":280,"color":"4"},
 		{
-			"id":"5375edfca7f8f7f9",
+			"id":"61a9e2a856680a6b",
 			"type":"text",
-			"text":"Vigenère cipher as far as we know, no known key",
+			"text":"Coldwater fell from the sky.",
 			"styleAttributes":{},
-			"x":-4900,
-			"y":-860,
+			"x":-5932,
+			"y":-1531,
 			"width":260,
 			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"43037e2fe5d8c1ce",
-			"type":"text",
-			"text":"A prim and proper boy. \nA crying, crying girl. \\[**ziexxbinselpqfeeagvmbpgmtxkbaqk**\\] \nA crying, crying girl.",
-			"styleAttributes":{},
-			"x":-4900,
-			"y":-1054,
-			"width":400,
-			"height":140,
 			"color":"4"
 		},
+		{"id":"bddd4a6edbd18681","type":"file","file":"Conspiracy Board/Events/Media/Yo Dawg, I Heard You Like DELTA RUNE, So I Put A DELTA RUNE inside your ANGEL.png","x":-6300,"y":-780,"width":175,"height":108,"color":"4"},
+		{"id":"472e37d17cf7ecd5","type":"file","file":"Conspiracy Board/Events/Media/Penny.png","x":-6300,"y":-1211,"width":327,"height":400,"color":"4"},
 		{
-			"id":"f894064b2c7da9d6",
+			"id":"11bee713a8762eb2",
 			"type":"text",
-			"text":"THERAPY is notably capitalized here. 'More of a life'... has some implications I can't extrapolate too well.",
+			"text":"We've all seen the happiest outcomes. Nobody can fix the device, no matter how hard we all tried. No one can\n\nBut, maybe in order to fix something, you have to break it first?",
 			"styleAttributes":{},
-			"x":-7760,
-			"y":-300,
-			"width":280,
-			"height":120,
-			"color":"1"
-		},
-		{"id":"f9b21a6d466c0f72","type":"link","url":"https://mourningdew.phinarina.xyz/interview2/","x":-8720,"y":-674,"width":880,"height":1528},
-		{"id":"5fc7776a59eb984c","type":"file","file":"Conspiracy Board/Events/Media/Indoctrination.png","x":-6148,"y":1320,"width":376,"height":400,"color":"4"},
-		{
-			"id":"8829d2dd08755bf7",
-			"type":"text",
-			"text":"Kris has been depicted wearing a sweater emblazed with the DELTA RUNE; angel crest right on the chest like whoever - whatever, this is. Is it a standardized uniform for the town, or...?",
-			"styleAttributes":{},
-			"x":-5506,
-			"y":-1960,
-			"width":440,
-			"height":120,
-			"color":"1"
-		},
-		{"id":"b78303993d679cc0","type":"file","file":"Conspiracy Board/Canvases/Consultations/Consultations.canvas","portal":true,"x":-4320,"y":-1980,"width":12910,"height":3040},
-		{
-			"id":"b449b77bc2e32e28",
-			"type":"text",
-			"text":"Apparently a red herring.",
-			"styleAttributes":{},
-			"x":-5890,
-			"y":-1890,
+			"x":-6300,
+			"y":-1531,
 			"width":260,
-			"height":60,
-			"color":"1"
+			"height":240,
+			"color":"4"
 		},
 		{
 			"id":"324bb4dc29af9ba8",
@@ -209,8 +167,53 @@
 			"height":90,
 			"color":"1"
 		},
-		{"id":"4fa038861e37ca58","type":"file","file":"Conspiracy Board/Events/Media/Unknown drawning.png","x":-5616,"y":-1770,"width":660,"height":559},
-		{"id":"c47b0c8c39901c06","type":"file","file":"Conspiracy Board/Events/Media/Unknown PHOTON Drawing.png","x":-5520,"y":-1168,"width":399,"height":254}
+		{"id":"c47b0c8c39901c06","type":"file","file":"Conspiracy Board/Events/Media/Unknown PHOTON Drawing.png","x":-5520,"y":-1168,"width":399,"height":254},
+		{"id":"a9cd1e5a7742dd1d","type":"file","file":"Conspiracy Board/Events/Consultation/CONSULTATION.md","x":-5946,"y":-688,"width":1126,"height":1798,"color":"4"},
+		{
+			"id":"8a800f6b6c569f87",
+			"type":"text",
+			"text":"What's so dangerous about bringing up the good doctor's henchsquad?",
+			"styleAttributes":{},
+			"x":-6220,
+			"y":740,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{
+			"id":"627a458a1c0b6456",
+			"type":"text",
+			"text":"This is most likely supposed to depict Monster Kid?",
+			"styleAttributes":{},
+			"x":-6220,
+			"y":460,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"6a00e877b6c835f3",
+			"type":"text",
+			"text":"Undyne's probably in with the church, with that sort of text.",
+			"styleAttributes":{},
+			"x":-6220,
+			"y":600,
+			"width":260,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"7ac378a61eff195a",
+			"type":"text",
+			"text":"'An interesting coincidence.' was the phrase used to describe being named after a character in DELTARUNE proper. Why do these two keep that?",
+			"styleAttributes":{},
+			"x":-6220,
+			"y":180,
+			"width":260,
+			"height":189,
+			"color":"1"
+		},
+		{"id":"98146ea1c57989fe","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Data/Shape Distribution.png","x":-5220,"y":1480,"width":400,"height":299,"color":"4"}
 	],
 	"edges":[
 		{
@@ -374,6 +377,37 @@
 			"toNode":"6b9963ffce8097f9",
 			"toSide":"bottom",
 			"color":"1"
+		},
+		{
+			"id":"7f375eab0d0ef6cc",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"a9cd1e5a7742dd1d",
+			"fromSide":"right",
+			"toNode":"53fbf6834fcce54e",
+			"toSide":"left",
+			"color":"4"
+		},
+		{
+			"id":"7497404864147690",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"9f36125e5cd98876",
+			"fromSide":"right",
+			"toNode":"c416b9365beefed5",
+			"toSide":"left",
+			"color":"4"
+		},
+		{
+			"id":"9f329a20c7902206",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c416b9365beefed5",
+			"fromSide":"bottom",
+			"toNode":"98146ea1c57989fe",
+			"toSide":"top",
+			"color":"4"
 		}
 	],
 	"metadata":{
