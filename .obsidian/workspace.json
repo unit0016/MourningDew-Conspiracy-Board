@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Conspiracy Board/Canvases/Kris.canvas",
+                "file": "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
                 "viewState": {
-                  "x": -505.72004796836256,
-                  "y": -1148.701981397548,
-                  "zoom": -1.333333333333333
+                  "x": 4078.1227675974933,
+                  "y": -220.07049940565696,
+                  "zoom": -1.9999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Kris"
+              "title": "Round 2"
             }
           }
         ]
@@ -192,6 +192,8 @@
     "Conspiracy Board/Canvases/Conspiracy Board.canvas",
     "Conspiracy Board/Canvases/Kris.canvas",
     "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
+    "Conspiracy Board/Canvases/Consultations/Round 1.canvas",
+    "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
     "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
     "Conspiracy Board/Events/Media/Penny.png",
     "Conspiracy Board/Theorycrafting/Synchrono Cyclica/They Just Like Us FR Theory.canvas",
@@ -203,7 +205,6 @@
     "Conspiracy Board/Canvases/Kris' Timeline.canvas",
     "Conspiracy Board/Events/Media/Kris Sick B.png",
     "Conspiracy Board/Events/Media/Yo Dawg, I Heard You Like DELTA RUNE, So I Put A DELTA RUNE inside your ANGEL.png",
-    "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
     "Conspiracy Board/Canvases/Player Timeline.canvas",
     "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
     "Conspiracy Board/Events/Media/Kris.png",

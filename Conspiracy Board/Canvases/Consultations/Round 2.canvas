@@ -23,12 +23,12 @@
 		{
 			"id":"ffdbcc3624ebb419",
 			"type":"text",
-			"text":"Very notably uses asterisks instead of section signs here.",
+			"text":"Very notably uses asterisks instead of section signs here, uncharacteristic of both Krises we know about.",
 			"styleAttributes":{},
 			"x":3997,
 			"y":-320,
 			"width":260,
-			"height":60,
+			"height":120,
 			"color":"1"
 		},
 		{"id":"8f45620fad58f601","type":"file","file":"Conspiracy Board/Events/Media/Consultations/raf Consultation (B).png","x":-3410,"y":-797,"width":400,"height":273},
@@ -36,7 +36,7 @@
 		{"id":"ea864cb189fe1709","type":"file","file":"Conspiracy Board/Events/Media/Consultations/17b Consultation.png","x":-2190,"y":-794,"width":420,"height":303},
 		{"id":"07298d386d7c0d3d","type":"file","file":"Conspiracy Board/Events/Media/Consultations/14b Consultation (Noelle).png","x":-2610,"y":-794,"width":400,"height":302},
 		{"id":"52c1c8d4c9e8c880","type":"file","file":"Conspiracy Board/Events/Media/Consultations/13B Consultation.png","x":-2990,"y":-797,"width":363,"height":308},
-		{"id":"ee21d6861c7c7894","type":"file","file":"Conspiracy Board/Events/Media/Consultations/23b Consultation.png","x":-630,"y":-785,"width":400,"height":383},
+		{"id":"ee21d6861c7c7894","type":"file","file":"Conspiracy Board/Events/Media/Consultations/23b Consultation (GASTER).png","x":-630,"y":-785,"width":400,"height":383},
 		{"id":"d4678d702e3d0566","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Kris consultation B.png","x":-1030,"y":-794,"width":383,"height":400},
 		{"id":"e78c8ece32336049","type":"file","file":"Conspiracy Board/Events/Media/Consultations/51b Consultation (Exact Copy OF Kris' Answers).png","x":3930,"y":-768,"width":394,"height":400},
 		{"id":"7931e90b01cf879d","type":"file","file":"Conspiracy Board/Events/Media/Consultations/21b Consultation.png","x":-1410,"y":-793,"width":348,"height":400},
