@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ea4ae9a125e03a45","type":"group","x":-340,"y":-140,"width":460,"height":160,"color":"#0033ff","label":"The Prophecy"},
+		{"id":"8a4c17bb5a00abb3","type":"file","file":"Conspiracy Board/Events/Media/The Prophecy/BELOW THE WAKE AND WATERS ERUPT OBSIDIAN SPIRES.png","x":-320,"y":-100,"width":400,"height":107,"color":"4"}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -73,7 +73,7 @@
 		},
 		{"id":"2bda60756b3302c0","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/Pointed Object Ban.png","x":895,"y":-2420,"width":802,"height":60,"color":"4"},
 		{"id":"6ed02d780f31b077","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/Pointed Object Ban B.png","x":959,"y":-2340,"width":674,"height":60,"color":"4"},
-		{"id":"108065c1eb4dc319","type":"file","file":"Conspiracy Board/Canvases/The Church.canvas","portal":true,"x":-1960,"y":-2120,"width":1360,"height":960}
+		{"id":"108065c1eb4dc319","type":"file","file":"Conspiracy Board/Canvases/The Church.canvas","portal":true,"x":-2320,"y":-2120,"width":1740,"height":960}
 	],
 	"edges":[
 		{
