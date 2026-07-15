@@ -71,9 +71,23 @@
 			"height":80,
 			"color":"4"
 		},
-		{"id":"290cc972a3536e6d","type":"file","file":"Conspiracy Board/Canvases/Pre-Game Timeline.canvas","portal":true,"x":-2360,"y":-2120,"width":1730,"height":870}
+		{"id":"2bda60756b3302c0","type":"file","file":"Conspiracy Board/Events/Media/Pointed Object Ban.png","x":895,"y":-2420,"width":802,"height":60,"color":"4"},
+		{"id":"6ed02d780f31b077","type":"file","file":"Conspiracy Board/Events/Media/Pointed Object Ban B.png","x":959,"y":-2340,"width":674,"height":60,"color":"4"},
+		{"id":"108065c1eb4dc319","type":"file","file":"Conspiracy Board/Canvases/Alvin, The Booms, And The Church.canvas","portal":true,"x":-1720,"y":-2120,"width":1180,"height":700}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"c0a2248d0573d987",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"2bda60756b3302c0",
+			"fromSide":"bottom",
+			"toNode":"6ed02d780f31b077",
+			"toSide":"top",
+			"color":"4"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
