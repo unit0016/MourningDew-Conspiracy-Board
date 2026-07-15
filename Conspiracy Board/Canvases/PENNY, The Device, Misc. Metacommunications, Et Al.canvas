@@ -214,7 +214,18 @@
 		{"id":"472e37d17cf7ecd5","type":"file","file":"Conspiracy Board/Events/Media/Penny.png","x":-6300,"y":-1211,"width":327,"height":400,"color":"4"},
 		{"id":"5fc7776a59eb984c","type":"file","file":"Conspiracy Board/Events/Media/Indoctrination.png","x":-6148,"y":1320,"width":376,"height":400,"color":"4"},
 		{"id":"a9cd1e5a7742dd1d","type":"file","file":"Conspiracy Board/Events/Consultation/CONSULTATION.md","x":-5946,"y":-688,"width":1126,"height":1798,"color":"4"},
-		{"id":"03344a91cc6b6ba6","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Data/Recognition Distribution.png","x":-4780,"y":1480,"width":486,"height":299,"color":"4"}
+		{"id":"03344a91cc6b6ba6","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Data/Recognition Distribution.png","x":-4780,"y":1480,"width":486,"height":299,"color":"4"},
+		{
+			"id":"99473371695fabd3",
+			"type":"text",
+			"text":"'Susie' and 'SUSIE' - This is probably a data entry thing, but...",
+			"styleAttributes":{},
+			"x":-4690,
+			"y":1340,
+			"width":307,
+			"height":90,
+			"color":"1"
+		}
 	],
 	"edges":[
 		{
@@ -419,6 +430,17 @@
 			"toNode":"03344a91cc6b6ba6",
 			"toSide":"left",
 			"color":"4"
+		},
+		{
+			"id":"1f8f1952013e4d79",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"99473371695fabd3",
+			"fromSide":"bottom",
+			"toNode":"03344a91cc6b6ba6",
+			"toSide":"top",
+			"color":"1"
 		}
 	],
 	"metadata":{
