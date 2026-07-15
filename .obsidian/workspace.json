@@ -15,9 +15,9 @@
               "state": {
                 "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
                 "viewState": {
-                  "x": -960.8772498906656,
-                  "y": -1692.8505693444652,
-                  "zoom": -1.3363732222329587
+                  "x": 2016.5461147750195,
+                  "y": -3148.3858862931506,
+                  "zoom": -0.3363732222329589
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -189,10 +189,12 @@
   },
   "active": "3fd9b6108a2422bd",
   "lastOpenFiles": [
-    "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
-    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
-    "Conspiracy Board/Canvases/Alvin, The Booms, And The Church.canvas",
     "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
+    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+    "Conspiracy Board/Events/Media/2026-07-13 17-19-49.mp4",
+    "Conspiracy Board/Events/Media/Indoctrination.png",
+    "Conspiracy Board/Canvases/Pre-Game Timeline.canvas",
+    "Conspiracy Board/Canvases/Alvin, The Booms, And The Church.canvas",
     "Conspiracy Board/Canvases/Kris.canvas",
     "Conspiracy Board/Events/Media/PENNY recants the death of Gerson Boom.png",
     "Conspiracy Board/Events/Media/Kris hints at kris_dvina_kris Page.png",
@@ -201,7 +203,6 @@
     "Conspiracy Board/Canvases/Pearl's Timeline.canvas",
     "Conspiracy Board/Canvases/Player Timeline.canvas",
     "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
-    "Conspiracy Board/Canvases/Consultations/Round 1.canvas",
     "Conspiracy Board/Events/Media/Penny.png",
     "Conspiracy Board/Theorycrafting/Synchrono Cyclica",
     "Conspiracy Board/Theorycrafting",
@@ -223,7 +224,6 @@
     "Conspiracy Board/Events/Media/Consultations/Brickman Consultation.md",
     "Conspiracy Board/Events/Kris' birth.md",
     "Conspiracy Board/Events/CONSULTATION.md",
-    "Conspiracy Board/Events/Media/Scores.png",
     "Conspiracy Board/Canvases/Kris.md",
     "Conspiracy Board/Canvases/Untitled.md",
     "Conspiracy Board/Canvases/Consultations/R.md",
