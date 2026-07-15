@@ -4,7 +4,7 @@
 		{"id":"1baa5f3a197de85c","type":"group","x":-2020,"y":-2060,"width":3310,"height":1260,"color":"3","label":"krisdreemurrkris"},
 		{"id":"ca57fc9001860b76","type":"group","x":-1400,"y":-758,"width":1280,"height":489,"color":"3","label":"Kris D'vina"},
 		{"id":"032c908ecc2b0664","type":"group","x":-1890,"y":-760,"width":450,"height":260,"color":"1","label":"The Ongoing Kristery"},
-		{"id":"464c0d71bd14601b","type":"file","file":"Conspiracy Board/Events/Media/Can anyone try to recognize December.png","x":-1581,"y":-1900,"width":400,"height":91},
+		{"id":"464c0d71bd14601b","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Can anyone try to recognize December.png","x":-1581,"y":-1900,"width":400,"height":91},
 		{"id":"590b49b53bd54b06","type":"file","file":"Conspiracy Board/Events/Kris' Birth.md","x":-2010,"y":-2038,"width":400,"height":443,"color":"1"},
 		{
 			"id":"c7bc4975dcff77f5",
@@ -53,7 +53,7 @@
 		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 1/Kris consultation A.png","x":-1563,"y":-1567,"width":360,"height":623},
 		{"id":"e11a876cd4ff3cab","type":"file","file":"Conspiracy Board/Events/Media/Multiple Krises One.png","x":-1870,"y":-728,"width":400,"height":57,"color":"4"},
 		{"id":"1e6c8dc4942df8bd","type":"file","file":"Conspiracy Board/Events/Media/Multiple Krises Two.png","x":-1870,"y":-643,"width":400,"height":133,"color":"4"},
-		{"id":"89457a68dbf51514","type":"file","file":"Conspiracy Board/Events/Media/Important Person's Shirt B.png","x":-682,"y":-1582,"width":226,"height":29,"color":"4"},
+		{"id":"89457a68dbf51514","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Important Person's Shirt B.png","x":-682,"y":-1582,"width":226,"height":29,"color":"4"},
 		{
 			"id":"b3654c65c5c0c62e",
 			"type":"text",
@@ -91,8 +91,8 @@
 			"height":60,
 			"color":"4"
 		},
-		{"id":"89b7808dd1b175dd","type":"file","file":"Conspiracy Board/Events/Media/Important Person's Shirt A.png","x":-710,"y":-2020,"width":283,"height":400,"color":"4"},
-		{"id":"b637d816cea66643","type":"file","file":"Conspiracy Board/Events/Media/Kris hints at kris_dvina_kris Page.png","x":-580,"y":-1095,"width":400,"height":269,"color":"4"},
+		{"id":"89b7808dd1b175dd","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Important Person's Shirt A.png","x":-710,"y":-2020,"width":283,"height":400,"color":"4"},
+		{"id":"b637d816cea66643","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Kris hints at kris_dvina_kris Page.png","x":-580,"y":-1095,"width":400,"height":269,"color":"4"},
 		{
 			"id":"97e71e7fd7fb6144",
 			"type":"file",
@@ -195,7 +195,7 @@
 			"color":"4"
 		},
 		{"id":"39072fe0f939818b","type":"file","file":"Conspiracy Board/Events/Media/Kris' consultation screenshot (lq).png","x":-1140,"y":-2020,"width":400,"height":364},
-		{"id":"515d1db5d1f1856a","type":"file","file":"Conspiracy Board/Events/Media/Kris Account.png","x":-1580,"y":-2020,"width":399,"height":82},
+		{"id":"515d1db5d1f1856a","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Kris Account.png","x":-1580,"y":-2020,"width":399,"height":82},
 		{
 			"id":"6901ca51ee43da5e",
 			"type":"text",
