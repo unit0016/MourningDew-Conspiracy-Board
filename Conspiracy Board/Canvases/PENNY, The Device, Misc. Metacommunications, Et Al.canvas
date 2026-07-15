@@ -225,7 +225,8 @@
 			"width":307,
 			"height":90,
 			"color":"1"
-		}
+		},
+		{"id":"827cfee5f08bc1ba","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Data/Wronged Distribution.png","x":-4260,"y":1480,"width":481,"height":299,"color":"4"}
 	],
 	"edges":[
 		{
@@ -441,6 +442,16 @@
 			"toNode":"03344a91cc6b6ba6",
 			"toSide":"top",
 			"color":"1"
+		},
+		{
+			"id":"69a02f072eba2c41",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"03344a91cc6b6ba6",
+			"fromSide":"right",
+			"toNode":"827cfee5f08bc1ba",
+			"toSide":"left",
+			"color":"4"
 		}
 	],
 	"metadata":{
