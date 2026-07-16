@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"41bf0559ddb48e46","type":"group","x":-1460,"y":-440,"width":1820,"height":780,"color":"6","label":"Pearl's Place"},
+		{"id":"e5600039095dd927","type":"link","url":"https://pearlsplace.straw.page/","x":-1440,"y":-400,"width":720,"height":709},
+		{"id":"e2abe9748f15c43d","type":"link","url":"https://pearlsplace.straw.page/consultation","x":-680,"y":-248,"width":1000,"height":405}
+	],
+	"edges":[
+		{
+			"id":"b84ebe9ab94b33f9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"e5600039095dd927",
+			"fromSide":"right",
+			"toNode":"e2abe9748f15c43d",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

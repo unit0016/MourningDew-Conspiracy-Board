@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"9eaca08b0116ce7d","type":"group","x":-1440,"y":-280,"width":4880,"height":1480,"color":"5","label":"Pearl"},
+		{"id":"9eaca08b0116ce7d","type":"group","x":-2640,"y":-280,"width":6080,"height":1480,"color":"5","label":"Pearl"},
+		{"id":"610f289ac4eae3d2","type":"link","url":"https://youtube.com/embed/zWoeJ8WQn8I","x":-1000,"y":710,"width":640,"height":360},
 		{
 			"id":"23a323d3c0ad8c99",
 			"type":"file",
@@ -35,15 +36,14 @@
 				}
 			]
 		},
-		{"id":"610f289ac4eae3d2","type":"link","url":"https://youtube.com/embed/zWoeJ8WQn8I","x":-1060,"y":428,"width":640,"height":360},
-		{"id":"b758c97600e248c8","type":"link","url":"https://pearlsplace.straw.page/","x":-1420,"y":-230,"width":720,"height":618},
+		{"id":"013b4593fd4f1059","type":"file","file":"Conspiracy Board/Canvases/Pearl/Blog/Pearl's Place.canvas","portal":true,"x":-2600,"y":-240,"width":1920,"height":880},
 		{
 			"id":"58e2fe8fbfc11934",
 			"type":"text",
 			"text":"pearl is an\n`G7DVlrUSVH244QLHOOQ`\nby the way",
 			"styleAttributes":{},
-			"x":-680,
-			"y":271,
+			"x":-620,
+			"y":272,
 			"width":260,
 			"height":117,
 			"color":"4"
