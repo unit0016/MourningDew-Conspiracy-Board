@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"baaf34371950abf1","type":"group","x":-40,"y":-240,"width":460,"height":320,"color":"#ff8800","label":"Unknown Playthrough"},
+		{"id":"6075874929f6ac24","type":"file","file":"Conspiracy Board/Events/Media/You both know this is wrong..png","x":-20,"y":-220,"width":400,"height":158,"color":"4"},
+		{
+			"id":"4edbd7cdf8f2078f",
+			"type":"file",
+			"file":"Conspiracy Board/Events/Media/Kris/Kris D'vina/Kris eye flash is BACK PEAK PEAK PEAK.png",
+			"styleAttributes":{"border":"invisible"},
+			"x":-20,
+			"y":-40,
+			"width":60,
+			"height":98,
+			"color":"4"
+		}
+	],
+	"edges":[
+		{
+			"id":"f3c99fd01a0ea305",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"6075874929f6ac24",
+			"fromSide":"bottom",
+			"toNode":"4edbd7cdf8f2078f",
+			"toSide":"top",
+			"color":"4"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

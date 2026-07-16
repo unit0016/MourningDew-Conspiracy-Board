@@ -7,7 +7,8 @@
 		{"id":"c0485c1ab78738ab","type":"file","file":"Conspiracy Board/Canvases/Pearl/Pearl.canvas","portal":true,"x":-1580,"y":880,"width":6180,"height":1580},
 		{"id":"b28bf6d6365eda54","type":"file","file":"Conspiracy Board/Canvases/Onyx's Timeline.canvas","portal":true,"x":-1560,"y":2520,"width":876,"height":600},
 		{"id":"e65c4ac87700c850","type":"file","file":"Conspiracy Board/Canvases/Player Timeline.canvas","portal":true,"x":-1560,"y":3200,"width":1220,"height":580},
-		{"id":"108065c1eb4dc319","type":"file","file":"Conspiracy Board/Canvases/The Church/The Church.canvas","portal":true,"x":-2320,"y":-2120,"width":1740,"height":960}
+		{"id":"108065c1eb4dc319","type":"file","file":"Conspiracy Board/Canvases/The Church/The Church.canvas","portal":true,"x":-2320,"y":-2120,"width":1740,"height":960},
+		{"id":"db3773c3dec7c03d","type":"file","file":"Conspiracy Board/Canvases/Unknown Playthrough.canvas","portal":true,"x":-1160,"y":-1120,"width":560,"height":420}
 	],
 	"edges":[
 		{
