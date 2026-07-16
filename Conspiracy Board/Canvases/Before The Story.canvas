@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"e638080a1cf2b7a4","type":"group","x":-360,"y":-160,"width":680,"height":680,"color":"#424242","label":"Before The Story"},
+		{
+			"id":"3861e88b24161df2",
+			"type":"text",
+			"text":"§ Ha... Kris...! \n§ We've been spending all morning blowing up these inflatable SUSIEs for you. \n§ We know they're your favorite, so feel free to grab as many as you like! \n§ (It's a white balloon dog with \"SUSIE\" written on it in white marker.) \n§ (Because they're both monochrome, it's hard to see if anything is there at all...)",
+			"styleAttributes":{},
+			"x":-340,
+			"y":-140,
+			"width":460,
+			"height":260,
+			"color":"4"
+		},
+		{"id":"f8ab7ca5b72967f6","type":"link","url":"https://www.youtube.com/embed/CPE424-XHc8","x":-340,"y":140,"width":640,"height":360}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
