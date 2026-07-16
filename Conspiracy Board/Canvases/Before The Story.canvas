@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"e638080a1cf2b7a4","type":"group","x":-360,"y":-160,"width":680,"height":680,"color":"#424242","label":"Before The Story"},
+		{"id":"e638080a1cf2b7a4","type":"group","x":-360,"y":-160,"width":860,"height":1220,"color":"#424242","label":"Before The Story"},
+		{"id":"3188278527eae13a","type":"group","x":-340,"y":540,"width":800,"height":500,"color":"1","label":"Video Description"},
 		{
 			"id":"3861e88b24161df2",
 			"type":"text",
@@ -12,9 +13,137 @@
 			"height":260,
 			"color":"4"
 		},
-		{"id":"f8ab7ca5b72967f6","type":"link","url":"https://www.youtube.com/embed/CPE424-XHc8","x":-340,"y":140,"width":640,"height":360}
+		{"id":"f8ab7ca5b72967f6","type":"link","url":"https://www.youtube.com/embed/CPE424-XHc8","x":-340,"y":140,"width":640,"height":360,"color":"4"},
+		{
+			"id":"af7cee3c4d33a3f3",
+			"type":"text",
+			"text":"\\[Z\\]",
+			"styleAttributes":{},
+			"x":-110,
+			"y":620,
+			"width":70,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a17d8c0a09633d9f",
+			"type":"text",
+			"text":"\"ARE YOU THERE? ARE WE CONNECTED?\"",
+			"styleAttributes":{},
+			"x":-320,
+			"y":600,
+			"width":180,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"5bd109efa7530cc5",
+			"type":"text",
+			"text":"Direct allusion to the opening of DELTARUNE proper... are we gonna learn why things are how they are with the good doctor?",
+			"styleAttributes":{},
+			"x":-320,
+			"y":760,
+			"width":180,
+			"height":240,
+			"color":"1"
+		},
+		{
+			"id":"e130eaef234603ec",
+			"type":"text",
+			"text":"The usage of subsection signs and the \\[Z\\] prompt everywhere; mimicking the dialogue in-engine... not to totally Ares Toraneros everwhere, but is MourningDew going to have something similar to Earthbound: Halloween Hack / \"Press The B Button, Varik?\" going on?",
+			"styleAttributes":{},
+			"x":-110,
+			"y":720,
+			"width":250,
+			"height":300,
+			"color":"1"
+		},
+		{
+			"id":"0446e3e2196830e6",
+			"type":"text",
+			"text":"\"There is a story passed down by our people. Before time began, before space existed, There was nothing, a dark void but one day, a light appeared and with it, Life\"",
+			"styleAttributes":{},
+			"x":170,
+			"y":600,
+			"width":260,
+			"height":180,
+			"color":"4"
+		},
+		{
+			"id":"274846211335aa57",
+			"type":"text",
+			"text":"Reads like a sermon.",
+			"styleAttributes":{},
+			"x":215,
+			"y":810,
+			"width":170,
+			"height":60,
+			"color":"1"
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"8fb2ca8fbe7fef10",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f8ab7ca5b72967f6",
+			"fromSide":"bottom",
+			"toNode":"a17d8c0a09633d9f",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"76c1487c67e2a143",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"f8ab7ca5b72967f6",
+			"fromSide":"bottom",
+			"toNode":"0446e3e2196830e6",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"b97a4bfb614c8e67",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"f8ab7ca5b72967f6",
+			"fromSide":"bottom",
+			"toNode":"af7cee3c4d33a3f3",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"198e0871e4ed5894",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5bd109efa7530cc5",
+			"fromSide":"top",
+			"toNode":"a17d8c0a09633d9f",
+			"toSide":"bottom"
+		},
+		{
+			"id":"d3abed099595b705",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"af7cee3c4d33a3f3",
+			"fromSide":"bottom",
+			"toNode":"e130eaef234603ec",
+			"toSide":"top",
+			"color":"1"
+		},
+		{
+			"id":"11053b2f85cdb390",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"0446e3e2196830e6",
+			"fromSide":"bottom",
+			"toNode":"274846211335aa57",
+			"toSide":"top",
+			"color":"1"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
