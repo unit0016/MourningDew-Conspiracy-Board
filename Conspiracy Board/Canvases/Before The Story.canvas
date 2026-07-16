@@ -79,6 +79,17 @@
 			"width":170,
 			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"92f6168cedbd9f89",
+			"type":"text",
+			"text":"Formatted in the same was as the SUSIEs Pearl received, but...",
+			"styleAttributes":{},
+			"x":200,
+			"y":-80,
+			"width":260,
+			"height":100,
+			"color":"1"
 		}
 	],
 	"edges":[
@@ -141,6 +152,17 @@
 			"fromSide":"bottom",
 			"toNode":"274846211335aa57",
 			"toSide":"top",
+			"color":"1"
+		},
+		{
+			"id":"bef228974325d8db",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"92f6168cedbd9f89",
+			"fromSide":"left",
+			"toNode":"3861e88b24161df2",
+			"toSide":"right",
 			"color":"1"
 		}
 	],
