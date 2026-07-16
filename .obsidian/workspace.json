@@ -15,9 +15,9 @@
               "state": {
                 "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
                 "viewState": {
-                  "x": 4868.185940096466,
-                  "y": -2959.921840688997,
-                  "zoom": -3.333333333333333
+                  "x": 7275,
+                  "y": -1230,
+                  "zoom": -3.5302529558269944
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -189,10 +189,12 @@
   },
   "active": "2e03ee4f7e5c44b2",
   "lastOpenFiles": [
-    "Conspiracy Board/Canvases/The Prophecy.canvas",
+    "Conspiracy Board/Canvases/Kris/Kris.canvas",
+    "Conspiracy Board/Canvases/The Church",
+    "Conspiracy Board/Canvases/Kris",
+    "Conspiracy Board/Canvases/Kris/Before The Story.canvas",
     "Conspiracy Board/Canvases/Conspiracy Board.canvas",
-    "Conspiracy Board/Canvases/Before The Story.canvas",
-    "Conspiracy Board/Canvases/Kris.canvas",
+    "Conspiracy Board/Canvases/The Church/The Prophecy.canvas",
     "Conspiracy Board/Canvases/Pearl/Pearl.canvas",
     "Conspiracy Board/Canvases/Pearl/Pearl's Timeline.canvas",
     "Conspiracy Board/Canvases/Pearl/Blog/Pearl's Place.canvas",
@@ -203,7 +205,6 @@
     "Conspiracy Board/Events/Media/Consultations/Scores.png",
     "Conspiracy Board/Canvases/Consultations/Round 2.canvas",
     "Conspiracy Board/Events/Media/Consultations/Round 2/75b (SUSIE).png",
-    "Conspiracy Board/Canvases/Kris' Timeline.canvas",
     "Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Kris Channel Description 2.png",
     "Conspiracy Board/Events/Media/The Prophecy",
     "Conspiracy Board/Events/Media/The Prophecy/BELOW THE WAKE AND WATERS ERUPT OBSIDIAN SPIRES.png",
@@ -219,8 +220,6 @@
     "Conspiracy Board/Events/Media/PENNY, The Device",
     "Conspiracy Board/Events/Media/Metacommunication/Discord Hints",
     "Conspiracy Board/Events/Media/Metacommunication/Excalidraw Drawings",
-    "Conspiracy Board/Events/Media/Metacommunication",
-    "Conspiracy Board/Events/Media/OOC Development Snippets/2026-07-13 17-19-49.mp4",
     "Conspiracy Board/Events/Consultation/CONSULTATION.md",
     "Conspiracy Board/Events/Consultation/Score Calculation.md",
     "Conspiracy Board/Events/Media/Consultations/Round 1/Photon Consultation.md",

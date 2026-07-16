@@ -38,17 +38,6 @@
 			"color":"4"
 		},
 		{
-			"id":"5bd109efa7530cc5",
-			"type":"text",
-			"text":"Direct allusion to the opening of DELTARUNE proper... are we gonna learn why things are how they are with the good doctor?",
-			"styleAttributes":{},
-			"x":-320,
-			"y":760,
-			"width":180,
-			"height":240,
-			"color":"1"
-		},
-		{
 			"id":"e130eaef234603ec",
 			"type":"text",
 			"text":"The usage of subsection signs and the \\[Z\\] prompt everywhere; mimicking the dialogue in-engine... not to totally Ares Toraneros everwhere, but is MourningDew going to have something similar to Earthbound: Halloween Hack / \"Press The B Button, Varik?\" going on?",
@@ -86,16 +75,38 @@
 			"color":"1"
 		},
 		{
+			"id":"195539eaaececc25",
+			"type":"text",
+			"text":"Note: All text from the character speaking to Kris here was entirely in Red.",
+			"styleAttributes":{},
+			"x":540,
+			"y":-220,
+			"width":320,
+			"height":90,
+			"color":"2"
+		},
+		{
+			"id":"5bd109efa7530cc5",
+			"type":"text",
+			"text":"Direct allusion to the opening of DELTARUNE proper... are we gonna learn why things are how they are with the good doctor?",
+			"styleAttributes":{},
+			"x":-320,
+			"y":760,
+			"width":180,
+			"height":240,
+			"color":"1"
+		},
+		{
 			"id":"274846211335aa57",
 			"type":"text",
-			"text":"Reads like a sermon.",
+			"text":"Reads like a sermon. Probably Alvin's church in MOURNINGDEW.",
 			"styleAttributes":{
 				"shape":null
 			},
 			"x":215,
 			"y":810,
 			"width":170,
-			"height":60,
+			"height":150,
 			"color":"1"
 		},
 		{
@@ -176,6 +187,17 @@
 			"color":"4"
 		},
 		{
+			"id":"883789d707b54639",
+			"type":"text",
+			"text":"\\* You got the **SunCrystal**.",
+			"styleAttributes":{},
+			"x":540,
+			"y":1200,
+			"width":320,
+			"height":60,
+			"color":"4"
+		},
+		{
 			"id":"47f3d55ef1dc1f87",
 			"type":"text",
 			"text":"\\* I get it. You've come back to my knees, begging for help.",
@@ -215,17 +237,6 @@
 			"styleAttributes":{},
 			"x":540,
 			"y":720,
-			"width":320,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"6cd5c9a8fff8f266",
-			"type":"text",
-			"text":"\\* Kris... oh Kris...\n\\* You're lost, aren't you?",
-			"styleAttributes":{},
-			"x":540,
-			"y":-30,
 			"width":320,
 			"height":60,
 			"color":"4"
@@ -277,6 +288,28 @@
 			"color":"4"
 		},
 		{
+			"id":"6912a7429a11bde4",
+			"type":"text",
+			"text":"\\* But, almost as if it was never there at all,",
+			"styleAttributes":{},
+			"x":540,
+			"y":1280,
+			"width":320,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"6cd5c9a8fff8f266",
+			"type":"text",
+			"text":"\\* Kris... oh Kris...\n\\* You're lost, aren't you?",
+			"styleAttributes":{},
+			"x":540,
+			"y":-30,
+			"width":320,
+			"height":60,
+			"color":"4"
+		},
+		{
 			"id":"2009a75c3a725d37",
 			"type":"text",
 			"text":"Whoever this is has very similar mannerisms to (and directly quotes) ERAM.",
@@ -297,28 +330,6 @@
 			"width":250,
 			"height":140,
 			"color":"1"
-		},
-		{
-			"id":"883789d707b54639",
-			"type":"text",
-			"text":"\\* You got the **SunCrystal**.",
-			"styleAttributes":{},
-			"x":540,
-			"y":1200,
-			"width":320,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"6912a7429a11bde4",
-			"type":"text",
-			"text":"\\* But, almost as if it was never there at all,",
-			"styleAttributes":{},
-			"x":540,
-			"y":1280,
-			"width":320,
-			"height":60,
-			"color":"4"
 		},
 		{
 			"id":"5f5052a2f7c3f7a1",
@@ -387,6 +398,17 @@
 			"color":"4"
 		},
 		{
+			"id":"0fd40d65714cebf3",
+			"type":"text",
+			"text":"This inversion on the Forgotten Man is deeply sad; honestly, and speaks a lot to Dreemurr's character.",
+			"styleAttributes":{},
+			"x":890,
+			"y":-140,
+			"width":260,
+			"height":120,
+			"color":"1"
+		},
+		{
 			"id":"c0b63f67ea24604d",
 			"type":"text",
 			"text":"Is this the Demon Kris & Catti summoned prior to Dess' disappearance in DELTARUNE proper? If so... my sympathies.",
@@ -407,28 +429,6 @@
 			"width":280,
 			"height":280,
 			"color":"1"
-		},
-		{
-			"id":"0fd40d65714cebf3",
-			"type":"text",
-			"text":"This inversion on the Forgotten Man is deeply sad; honestly, and speaks a lot to Dreemurr's character.",
-			"styleAttributes":{},
-			"x":890,
-			"y":-140,
-			"width":260,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"195539eaaececc25",
-			"type":"text",
-			"text":"Note: All text from the character speaking to Kris here was entirely in Red.",
-			"styleAttributes":{},
-			"x":540,
-			"y":-220,
-			"width":320,
-			"height":90,
-			"color":"2"
 		}
 	],
 	"edges":[

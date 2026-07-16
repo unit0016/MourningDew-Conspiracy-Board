@@ -6,7 +6,7 @@
 		{"id":"643e9adbd5e6015c","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Alvin Mark.png","x":-620,"y":-105,"width":113,"height":212},
 		{"id":"2264d5ca8d6be585","type":"link","url":"https://mourningdew.phinarina.xyz/beard/","x":-121,"y":300,"width":511,"height":230},
 		{"id":"5e1a0ef02dad962f","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/The Seven Flowers.png","x":-797,"y":300,"width":637,"height":230},
-		{"id":"2d561e13f0ba70e2","type":"file","file":"Conspiracy Board/Canvases/The Prophecy.canvas","portal":true,"x":-1200,"y":-260,"width":560,"height":260}
+		{"id":"2d561e13f0ba70e2","type":"file","file":"Conspiracy Board/Canvases/The Church/The Prophecy.canvas","portal":true,"x":-1200,"y":-260,"width":560,"height":260}
 	],
 	"edges":[
 		{
