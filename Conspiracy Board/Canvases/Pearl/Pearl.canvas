@@ -1,0 +1,57 @@
+{
+	"nodes":[
+		{"id":"9eaca08b0116ce7d","type":"group","x":-1440,"y":-280,"width":4880,"height":1480,"color":"5","label":"Pearl"},
+		{
+			"id":"23a323d3c0ad8c99",
+			"type":"file",
+			"file":"Conspiracy Board/Canvases/Pearl/Pearl's Timeline.canvas",
+			"portal":true,
+			"x":-340,
+			"y":-240,
+			"width":3720,
+			"height":1360,
+			"interdimensionalEdges":[
+				{
+					"id":"5c1edbafe7c7d8a7",
+					"styleAttributes":{},
+					"toFloating":false,
+					"fromFloating":false,
+					"fromNode":"610f289ac4eae3d2",
+					"fromSide":"right",
+					"toNode":"acportal||23a323d3c0ad8c99||8c06115a8eea2837",
+					"toSide":"left",
+					"color":"4"
+				},
+				{
+					"id":"0c6a2f85f3eb7560",
+					"styleAttributes":{"pathfindingMethod":"square"},
+					"toFloating":false,
+					"fromFloating":false,
+					"fromNode":"acportal||23a323d3c0ad8c99||8c06115a8eea2837",
+					"fromSide":"left",
+					"toNode":"58e2fe8fbfc11934",
+					"toSide":"right",
+					"color":"4"
+				}
+			]
+		},
+		{"id":"610f289ac4eae3d2","type":"link","url":"https://youtube.com/embed/zWoeJ8WQn8I","x":-1060,"y":428,"width":640,"height":360},
+		{"id":"b758c97600e248c8","type":"link","url":"https://pearlsplace.straw.page/","x":-1420,"y":-230,"width":720,"height":618},
+		{
+			"id":"58e2fe8fbfc11934",
+			"type":"text",
+			"text":"pearl is an\n`G7DVlrUSVH244QLHOOQ`\nby the way",
+			"styleAttributes":{},
+			"x":-680,
+			"y":271,
+			"width":260,
+			"height":117,
+			"color":"4"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
