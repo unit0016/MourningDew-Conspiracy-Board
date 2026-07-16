@@ -1,17 +1,71 @@
 {
 	"nodes":[
-		{"id":"3bbf5bd423f74cc2","type":"group","x":-340,"y":-300,"width":1120,"height":600,"color":"#ffffff","label":"Kris' Timeline (White Upside-Down Heart)"},
+		{"id":"3bbf5bd423f74cc2","type":"group","x":-340,"y":-300,"width":1380,"height":600,"color":"#ffffff","label":"Kris' Timeline (White Upside-Down Heart)"},
 		{"id":"5bc16a3b376fe0ba","type":"file","file":"Conspiracy Board/Events/The ANGEL (Kris) Arrives.md","x":-124,"y":-180,"width":400,"height":400,"color":"#ffffff"},
-		{"id":"fd63b395d603d0e0","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Kris Channel Description 2.png","x":360,"y":-160,"width":260,"height":68,"color":"6"}
+		{
+			"id":"02502e3c253425e8",
+			"type":"text",
+			"text":"§ (There's a pencil in your brother's\nshirt pocket, next to the yellow line...)",
+			"styleAttributes":{},
+			"x":735,
+			"y":-125,
+			"width":260,
+			"height":136,
+			"color":"6"
+		},
+		{
+			"id":"9a3a3164666c7c64",
+			"type":"text",
+			"text":"Presumably a second shirt here?",
+			"styleAttributes":{},
+			"x":735,
+			"y":54,
+			"width":260,
+			"height":77,
+			"color":"1"
+		},
+		{
+			"id":"c03dd5342e161014",
+			"type":"text",
+			"text":"§ (Just out of view, \n§ Just perfectly out of view, \n§ Was a closet \n§ You don't remember being there.) \n§ As if they were your own, your hands moved to open the door... \n§ (It's one of your brother's old shirts.) \n§ These clothes have no power over you anymore. \n§ Sickly purple and green\n\n(*Kris' original Youtube Channel Description.*)",
+			"styleAttributes":{},
+			"x":360,
+			"y":-125,
+			"width":340,
+			"height":345,
+			"color":"6"
+		},
+		{"id":"fd63b395d603d0e0","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Kris Channel Description 2.png","x":400,"y":-240,"width":260,"height":68,"color":"6"}
 	],
 	"edges":[
 		{
-			"id":"3701ac695559dba4",
+			"id":"edeb0a4496ec0e07",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"9a3a3164666c7c64",
+			"fromSide":"top",
+			"toNode":"02502e3c253425e8",
+			"toSide":"bottom",
+			"color":"1"
+		},
+		{
+			"id":"9b6adeb468552bbd",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"c03dd5342e161014",
+			"fromSide":"right",
+			"toNode":"02502e3c253425e8",
+			"toSide":"left"
+		},
+		{
+			"id":"54eaf080ea2966c2",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"5bc16a3b376fe0ba",
 			"fromSide":"right",
-			"toNode":"fd63b395d603d0e0",
+			"toNode":"c03dd5342e161014",
 			"toSide":"left"
 		}
 	],
