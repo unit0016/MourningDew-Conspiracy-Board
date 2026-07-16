@@ -2,12 +2,50 @@
 	"nodes":[
 		{"id":"4f7f6507edd4eceb","type":"group","x":-2040,"y":-2120,"width":4100,"height":1880,"color":"4","label":"The Kris Krises"},
 		{"id":"1baa5f3a197de85c","type":"group","x":-2020,"y":-2060,"width":4040,"height":1260,"color":"3","label":"krisdreemurrkris"},
-		{"id":"ca57fc9001860b76","type":"group","x":-1400,"y":-758,"width":1280,"height":489,"color":"3","label":"Kris D'vina"},
-		{"id":"032c908ecc2b0664","type":"group","x":-1890,"y":-760,"width":450,"height":260,"color":"1","label":"The Ongoing Kristery"},
+		{"id":"ca57fc9001860b76","type":"group","x":-1540,"y":-760,"width":860,"height":489,"color":"3","label":"Kris D'vina"},
+		{"id":"032c908ecc2b0664","type":"group","x":-2020,"y":-760,"width":450,"height":260,"color":"1","label":"The Ongoing Kristery"},
 		{"id":"464c0d71bd14601b","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Can anyone try to recognize December.png","x":-1581,"y":-1900,"width":400,"height":91},
 		{"id":"590b49b53bd54b06","type":"file","file":"Conspiracy Board/Events/Kris' Birth.md","x":-2010,"y":-2038,"width":400,"height":443,"color":"1"},
+		{
+			"id":"e5c1fe638191dfb1",
+			"type":"text",
+			"text":"'That night in the woods' can't have happened in a world where Dess was never lost. What does referring to it here mean??",
+			"styleAttributes":{},
+			"x":-1581,
+			"y":-1681,
+			"width":400,
+			"height":86,
+			"color":"1"
+		},
+		{"id":"89b7808dd1b175dd","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Important Person's Shirt A.png","x":-710,"y":-2020,"width":283,"height":400,"color":"4"},
 		{"id":"515d1db5d1f1856a","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Kris Account.png","x":-1580,"y":-2020,"width":399,"height":82},
 		{"id":"f93d53cd8f88775e","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/Oh, the poor children!.png","x":-1580,"y":-1760,"width":398,"height":54,"color":"4"},
+		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 1/Kris consultation A.png","x":-1563,"y":-1567,"width":360,"height":623},
+		{"id":"89457a68dbf51514","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Important Person's Shirt B.png","x":-682,"y":-1582,"width":226,"height":29,"color":"4"},
+		{
+			"id":"b3654c65c5c0c62e",
+			"type":"text",
+			"text":"Clearly as capable of modifying the game for different answers as we are.",
+			"styleAttributes":{},
+			"x":-1070,
+			"y":-1632,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{"id":"3d1900dbef0db239","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/Kris consultation B.png","x":-1186,"y":-1493,"width":441,"height":460},
+		{
+			"id":"c3da14ca338f91ef",
+			"type":"text",
+			"text":"§ Sup, Pearl?",
+			"styleAttributes":{},
+			"x":-721,
+			"y":-1203,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{"id":"39072fe0f939818b","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Kris' consultation screenshot (lq).png","x":-1140,"y":-2020,"width":400,"height":364},
 		{"id":"51936bfcb827ae16","type":"file","file":"Conspiracy Board/Events/Media/Kris/Lake.png","x":1336,"y":-758,"width":400,"height":300},
 		{
 			"id":"372f865e71172971",
@@ -43,44 +81,6 @@
 			"color":"1"
 		},
 		{
-			"id":"e5c1fe638191dfb1",
-			"type":"text",
-			"text":"'That night in the woods' can't have happened in a world where Dess was never lost. What does referring to it here mean??",
-			"styleAttributes":{},
-			"x":-1581,
-			"y":-1681,
-			"width":400,
-			"height":86,
-			"color":"1"
-		},
-		{"id":"e11a876cd4ff3cab","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/Multiple Krises One.png","x":-1870,"y":-728,"width":400,"height":57,"color":"4"},
-		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 1/Kris consultation A.png","x":-1563,"y":-1567,"width":360,"height":623},
-		{"id":"1e6c8dc4942df8bd","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/Multiple Krises Two.png","x":-1870,"y":-643,"width":400,"height":133,"color":"4"},
-		{"id":"89457a68dbf51514","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Important Person's Shirt B.png","x":-682,"y":-1582,"width":226,"height":29,"color":"4"},
-		{
-			"id":"b3654c65c5c0c62e",
-			"type":"text",
-			"text":"Clearly as capable of modifying the game for different answers as we are.",
-			"styleAttributes":{},
-			"x":-1070,
-			"y":-1632,
-			"width":260,
-			"height":100,
-			"color":"1"
-		},
-		{"id":"3d1900dbef0db239","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/Kris consultation B.png","x":-1186,"y":-1493,"width":441,"height":460},
-		{
-			"id":"c3da14ca338f91ef",
-			"type":"text",
-			"text":"§ Sup, Pearl?",
-			"styleAttributes":{},
-			"x":-721,
-			"y":-1203,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"ef2f038956ba6b40",
 			"type":"text",
 			"text":"This is overtly a joke; but shows us they've got a sense of humor.",
@@ -91,8 +91,6 @@
 			"height":100,
 			"color":"1"
 		},
-		{"id":"2457d1d6d96692c9","type":"file","file":"Conspiracy Board/Events/Media/Kris/Kris D'vina/Kris Sick B.png","x":-1380,"y":-650,"width":177,"height":98,"color":"4"},
-		{"id":"658ace554eec80e4","type":"file","file":"Conspiracy Board/Events/Media/Kris/Kris D'vina/Kris Sick.png","x":-1149,"y":-650,"width":164,"height":145,"color":"4"},
 		{
 			"id":"5794380380c64dd9",
 			"type":"text",
@@ -104,7 +102,6 @@
 			"height":60,
 			"color":"1"
 		},
-		{"id":"9e879d06ff347355","type":"link","url":"https://mourningdew.phinarina.xyz/kris_dvina_kris/","x":-945,"y":-729,"width":365,"height":439},
 		{
 			"id":"113bbd93683bf04b",
 			"type":"text",
@@ -139,7 +136,6 @@
 			"height":72,
 			"color":"1"
 		},
-		{"id":"39072fe0f939818b","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Kris' consultation screenshot (lq).png","x":-1140,"y":-2020,"width":400,"height":364},
 		{
 			"id":"97e71e7fd7fb6144",
 			"type":"file",
@@ -184,7 +180,6 @@
 			"height":100,
 			"color":"4"
 		},
-		{"id":"89b7808dd1b175dd","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Important Person's Shirt A.png","x":-710,"y":-2020,"width":283,"height":400,"color":"4"},
 		{
 			"id":"a8bdf4bd0eb8bf69",
 			"type":"text",
@@ -218,7 +213,12 @@
 			"width":530,
 			"height":90,
 			"color":"4"
-		}
+		},
+		{"id":"e11a876cd4ff3cab","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/Multiple Krises One.png","x":-2000,"y":-728,"width":400,"height":57,"color":"4"},
+		{"id":"1e6c8dc4942df8bd","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/Multiple Krises Two.png","x":-2000,"y":-643,"width":400,"height":133,"color":"4"},
+		{"id":"2457d1d6d96692c9","type":"file","file":"Conspiracy Board/Events/Media/Kris/Kris D'vina/Kris Sick B.png","x":-1520,"y":-652,"width":177,"height":98,"color":"4"},
+		{"id":"658ace554eec80e4","type":"file","file":"Conspiracy Board/Events/Media/Kris/Kris D'vina/Kris Sick.png","x":-1289,"y":-652,"width":164,"height":145,"color":"4"},
+		{"id":"9e879d06ff347355","type":"link","url":"https://mourningdew.phinarina.xyz/kris_dvina_kris/","x":-1085,"y":-731,"width":365,"height":439}
 	],
 	"edges":[
 		{
