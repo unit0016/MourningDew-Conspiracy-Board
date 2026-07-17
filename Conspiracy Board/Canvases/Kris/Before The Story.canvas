@@ -16,17 +16,6 @@
 		},
 		{"id":"f8ab7ca5b72967f6","type":"link","url":"https://www.youtube.com/embed/CPE424-XHc8","x":-340,"y":140,"width":640,"height":360,"color":"4"},
 		{
-			"id":"af7cee3c4d33a3f3",
-			"type":"text",
-			"text":"\\[Z\\]",
-			"styleAttributes":{},
-			"x":-110,
-			"y":620,
-			"width":70,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"a17d8c0a09633d9f",
 			"type":"text",
 			"text":"\"ARE YOU THERE? ARE WE CONNECTED?\"",
@@ -35,30 +24,6 @@
 			"y":600,
 			"width":180,
 			"height":100,
-			"color":"4"
-		},
-		{
-			"id":"e130eaef234603ec",
-			"type":"text",
-			"text":"The usage of subsection signs and the \\[Z\\] prompt everywhere; mimicking the dialogue in-engine... not to totally Ares Toraneros everwhere, but is MourningDew going to have something similar to Earthbound: Halloween Hack / \"Press The B Button, Varik?\" going on?",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":-110,
-			"y":720,
-			"width":250,
-			"height":300,
-			"color":"1"
-		},
-		{
-			"id":"0446e3e2196830e6",
-			"type":"text",
-			"text":"\"There is a story passed down by our people. Before time began, before space existed, There was nothing, a dark void but one day, a light appeared and with it, Life\"",
-			"styleAttributes":{},
-			"x":170,
-			"y":600,
-			"width":260,
-			"height":180,
 			"color":"4"
 		},
 		{
@@ -84,6 +49,74 @@
 			"width":320,
 			"height":90,
 			"color":"2"
+		},
+		{
+			"id":"0fd40d65714cebf3",
+			"type":"text",
+			"text":"This inversion on the Forgotten Man is deeply sad; honestly, and speaks a lot to Dreemurr's character.",
+			"styleAttributes":{},
+			"x":890,
+			"y":-140,
+			"width":260,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"c0b63f67ea24604d",
+			"type":"text",
+			"text":"Is this the Demon Kris & Catti summoned prior to Dess' disappearance in DELTARUNE proper? If so... my sympathies.",
+			"styleAttributes":{},
+			"x":900,
+			"y":435,
+			"width":280,
+			"height":130,
+			"color":"1"
+		},
+		{
+			"id":"40d5da8f7b7b3ff4",
+			"type":"text",
+			"text":"A lot of subtext in DR feels like it's building up to the fact Kris valiantly *does not* view themself as a hero in spite of their role in the prophecy; down to their outfit being a reference to Brandish's MC - someone very much in the same mindset.\nWith that in mind, this feels mocking.",
+			"styleAttributes":{},
+			"x":900,
+			"y":140,
+			"width":280,
+			"height":280,
+			"color":"1"
+		},
+		{
+			"id":"af7cee3c4d33a3f3",
+			"type":"text",
+			"text":"\\[Z\\]",
+			"styleAttributes":{},
+			"x":-110,
+			"y":620,
+			"width":70,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"e130eaef234603ec",
+			"type":"text",
+			"text":"The usage of subsection signs and the \\[Z\\] prompt everywhere; mimicking the dialogue in-engine... not to totally Ares Toraneros everwhere, but is MourningDew going to have something similar to Earthbound: Halloween Hack / \"Press The B Button, Varik?\" going on?",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":-110,
+			"y":720,
+			"width":250,
+			"height":300,
+			"color":"1"
+		},
+		{
+			"id":"0446e3e2196830e6",
+			"type":"text",
+			"text":"\"There is a story passed down by our people. Before time began, before space existed, There was nothing, a dark void but one day, a light appeared and with it, Life\"",
+			"styleAttributes":{},
+			"x":170,
+			"y":600,
+			"width":260,
+			"height":180,
+			"color":"4"
 		},
 		{
 			"id":"5bd109efa7530cc5",
@@ -112,12 +145,12 @@
 		{
 			"id":"031ea7637f7ef484",
 			"type":"text",
-			"text":"This feels post weird route to me, a feeling further cemented by allusions to the lake; Dreemurr being hurt by Noelle, the purgatory-esque nature of the situation Dreemurr is apparently in here - and the Thank You ARG in multiple places, the latest being:  \"*So, Did you like it?*\" - Something so *close* to \"So, what did you think?\" regarding the Thank You survey it's driving me up the WALL. ***If that is the case***, Kris is based as hell for staring into the same void that drove Noelle to the point she was at and going; \"No, this was important to me regardless of everything.\" If I'm correct; You are SEEN rn my they, and you're real as hell for it. *...Regardless;* there's more to remark on asides.\n\nDreemurr now being a construct inside the device like the current theory around PENNY is sits as the most likely candidate for explaining what's up with them, regardless of that photo that was somehow taken by the lake; as it'd mean there is a likely pathway through the SunCrystals by which they could feasibly achieve their goals if whoever this mystery character is won't yank it out from under them. ~~I will keep nursing \"they just like us fr\" theory because it's really, really funny to me; though.~~",
+			"text":"This feels post weird route to me, a feeling further cemented by allusions to the lake; Dreemurr being hurt by Noelle, the purgatory-esque nature of the situation Dreemurr is apparently in here - and the Thank You ARG in multiple places, the latest being:  \"*So, Did you like it?*\" - Something so *close* to \"So, what did you think?\" regarding the Thank You survey it's driving me up the WALL. ***If that is the case***, Kris is based as hell for staring into the same void that drove Noelle to the point she was at and going; \"No, this was important to me regardless of everything.\" If I'm correct; You are SEEN rn my they, and you're real as hell for it. *...Regardless;* there's more to remark on asides.\n\nInitially, my theory was that Dreemurr was now a construct inside the device ala the current theory around PENNY - as it'd mean there is a likely pathway through the SunCrystals by which they could feasibly achieve their goals in 'setting things right' if whoever this mystery character is won't yank it out from under them.\n\n*However.* There has been some legitimization of \"they just like us fr theory\"; see the orange connection - so until we have more information... we are how we are for now.\n",
 			"styleAttributes":{},
 			"x":-340,
 			"y":1055,
 			"width":800,
-			"height":350,
+			"height":385,
 			"color":"1"
 		},
 		{
@@ -132,6 +165,28 @@
 			"color":"4"
 		},
 		{
+			"id":"324363e3e9407d0c",
+			"type":"text",
+			"text":"\\* ...There's a light up ahead.",
+			"styleAttributes":{},
+			"x":540,
+			"y":565,
+			"width":320,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"d01da01c709b02d3",
+			"type":"text",
+			"text":"\\* Tell me something, Kris.",
+			"styleAttributes":{},
+			"x":540,
+			"y":640,
+			"width":320,
+			"height":60,
+			"color":"4"
+		},
+		{
 			"id":"62ac89a9a7f5812f",
 			"type":"text",
 			"text":"\\* There's nothing left for us here.",
@@ -141,17 +196,6 @@
 			"width":320,
 			"height":60,
 			"color":"4"
-		},
-		{
-			"id":"7263ad912dbb308f",
-			"type":"text",
-			"text":"Allusions to *Chara*; of all characters?",
-			"styleAttributes":{},
-			"x":920,
-			"y":1040,
-			"width":250,
-			"height":60,
-			"color":"1"
 		},
 		{
 			"id":"76c730ae36f6efdc",
@@ -209,28 +253,6 @@
 			"color":"4"
 		},
 		{
-			"id":"324363e3e9407d0c",
-			"type":"text",
-			"text":"\\* ...There's a light up ahead.",
-			"styleAttributes":{},
-			"x":540,
-			"y":565,
-			"width":320,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"d01da01c709b02d3",
-			"type":"text",
-			"text":"\\* Tell me something, Kris.",
-			"styleAttributes":{},
-			"x":540,
-			"y":640,
-			"width":320,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"4678b3201a33238c",
 			"type":"text",
 			"text":"\\* Do you honestly think that you can change fate...?",
@@ -266,6 +288,28 @@
 			"color":"4"
 		},
 		{
+			"id":"6912a7429a11bde4",
+			"type":"text",
+			"text":"\\* But, almost as if it was never there at all,",
+			"styleAttributes":{},
+			"x":540,
+			"y":1280,
+			"width":320,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"7263ad912dbb308f",
+			"type":"text",
+			"text":"Allusions to *Chara*; of all characters?",
+			"styleAttributes":{},
+			"x":920,
+			"y":1040,
+			"width":250,
+			"height":60,
+			"color":"1"
+		},
+		{
 			"id":"05d0ca46690a8d3c",
 			"type":"text",
 			"text":"\\* To be cast into the dark, forgotten for all of eternity...",
@@ -285,17 +329,6 @@
 			"y":260,
 			"width":320,
 			"height":80,
-			"color":"4"
-		},
-		{
-			"id":"6912a7429a11bde4",
-			"type":"text",
-			"text":"\\* But, almost as if it was never there at all,",
-			"styleAttributes":{},
-			"x":540,
-			"y":1280,
-			"width":320,
-			"height":60,
 			"color":"4"
 		},
 		{
@@ -365,6 +398,17 @@
 			"color":"4"
 		},
 		{
+			"id":"ce6a8daabf0d21c2",
+			"type":"text",
+			"text":"\\* It was a new light unlike any other.",
+			"styleAttributes":{},
+			"x":540,
+			"y":1530,
+			"width":320,
+			"height":60,
+			"color":"4"
+		},
+		{
 			"id":"cb0c5fc986c31f02",
 			"type":"text",
 			"text":"Seems Dreemurr still has motive to look for Crystals of some sort. The more things change...",
@@ -386,50 +430,7 @@
 			"height":250,
 			"color":"1"
 		},
-		{
-			"id":"ce6a8daabf0d21c2",
-			"type":"text",
-			"text":"\\* It was a new light unlike any other.",
-			"styleAttributes":{},
-			"x":540,
-			"y":1530,
-			"width":320,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"0fd40d65714cebf3",
-			"type":"text",
-			"text":"This inversion on the Forgotten Man is deeply sad; honestly, and speaks a lot to Dreemurr's character.",
-			"styleAttributes":{},
-			"x":890,
-			"y":-140,
-			"width":260,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"c0b63f67ea24604d",
-			"type":"text",
-			"text":"Is this the Demon Kris & Catti summoned prior to Dess' disappearance in DELTARUNE proper? If so... my sympathies.",
-			"styleAttributes":{},
-			"x":900,
-			"y":435,
-			"width":280,
-			"height":130,
-			"color":"1"
-		},
-		{
-			"id":"40d5da8f7b7b3ff4",
-			"type":"text",
-			"text":"A lot of subtext in DR feels like it's building up to the fact Kris valiantly *does not* view themself as a hero in spite of their role in the prophecy; down to their outfit being a reference to Brandish's MC - someone very much in the same mindset.\nWith that in mind, this feels mocking.",
-			"styleAttributes":{},
-			"x":900,
-			"y":140,
-			"width":280,
-			"height":280,
-			"color":"1"
-		}
+		{"id":"115a57b3079aaaf2","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/they just like us fr theory gets some grounding.png","x":-340,"y":1460,"width":535,"height":159,"color":"2"}
 	],
 	"edges":[
 		{
@@ -878,6 +879,16 @@
 			"toNode":"85d360418ed1d777",
 			"toSide":"right",
 			"color":"1"
+		},
+		{
+			"id":"c02734625ad6c876",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"031ea7637f7ef484",
+			"fromSide":"bottom",
+			"toNode":"115a57b3079aaaf2",
+			"toSide":"top",
+			"color":"2"
 		}
 	],
 	"metadata":{
