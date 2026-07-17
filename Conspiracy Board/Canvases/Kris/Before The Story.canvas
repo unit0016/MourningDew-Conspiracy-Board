@@ -121,12 +121,12 @@
 		{
 			"id":"5bd109efa7530cc5",
 			"type":"text",
-			"text":"Direct allusion to the opening of DELTARUNE proper... are we gonna learn why things are how they are with the good doctor?",
+			"text":"Direct allusion to the opening of DELTARUNE proper.",
 			"styleAttributes":{},
 			"x":-320,
 			"y":760,
 			"width":180,
-			"height":240,
+			"height":120,
 			"color":"1"
 		},
 		{
@@ -844,6 +844,7 @@
 			"id":"ff8b968e6eeb8ecc",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"ce6a8daabf0d21c2",
 			"fromSide":"left",
 			"toNode":"0446e3e2196830e6",
