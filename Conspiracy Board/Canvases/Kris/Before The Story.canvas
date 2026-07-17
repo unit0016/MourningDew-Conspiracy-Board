@@ -4,53 +4,6 @@
 		{"id":"0c1dae134b93d7bb","type":"group","x":520,"y":-240,"width":680,"height":1860,"color":"1","label":"Transcription"},
 		{"id":"3188278527eae13a","type":"group","x":-340,"y":540,"width":800,"height":500,"color":"1","label":"Video Description"},
 		{
-			"id":"3861e88b24161df2",
-			"type":"text",
-			"text":"§ Ha... Kris...! \n§ We've been spending all morning blowing up these inflatable SUSIEs for you. \n§ We know they're your favorite, so feel free to grab as many as you like! \n§ (It's a white balloon dog with \"SUSIE\" written on it in white marker.) \n§ (Because they're both monochrome, it's hard to see if anything is there at all...)",
-			"styleAttributes":{},
-			"x":-340,
-			"y":-140,
-			"width":460,
-			"height":260,
-			"color":"4"
-		},
-		{"id":"f8ab7ca5b72967f6","type":"link","url":"https://www.youtube.com/embed/CPE424-XHc8","x":-340,"y":140,"width":640,"height":360,"color":"4"},
-		{
-			"id":"a17d8c0a09633d9f",
-			"type":"text",
-			"text":"\"ARE YOU THERE? ARE WE CONNECTED?\"",
-			"styleAttributes":{},
-			"x":-320,
-			"y":600,
-			"width":180,
-			"height":100,
-			"color":"4"
-		},
-		{
-			"id":"92f6168cedbd9f89",
-			"type":"text",
-			"text":"Formatted in the same way as the SUSIEs Pearl received, but...",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":200,
-			"y":-80,
-			"width":260,
-			"height":100,
-			"color":"1"
-		},
-		{
-			"id":"195539eaaececc25",
-			"type":"text",
-			"text":"Note: All text from the character speaking to Kris here was entirely in Red.",
-			"styleAttributes":{},
-			"x":540,
-			"y":-220,
-			"width":320,
-			"height":90,
-			"color":"2"
-		},
-		{
 			"id":"0fd40d65714cebf3",
 			"type":"text",
 			"text":"This inversion on the Forgotten Man is deeply sad; honestly, and speaks a lot to Dreemurr's character.",
@@ -140,17 +93,6 @@
 			"y":810,
 			"width":170,
 			"height":150,
-			"color":"1"
-		},
-		{
-			"id":"031ea7637f7ef484",
-			"type":"text",
-			"text":"This feels post weird route to me, a feeling further cemented by allusions to the lake; Dreemurr being hurt by Noelle, the purgatory-esque nature of the situation Dreemurr is apparently in here - and the Thank You ARG in multiple places, the latest being:  \"*So, Did you like it?*\" - Something so *close* to \"So, what did you think?\" regarding the Thank You survey it's driving me up the WALL. ***If that is the case***, Kris is based as hell for staring into the same void that drove Noelle to the point she was at and going; \"No, this was important to me regardless of everything.\" If I'm correct; You are SEEN rn my they, and you're real as hell for it. *...Regardless;* there's more to remark on asides.\n\nInitially, my theory was that Dreemurr was now a construct inside the device ala the current theory around PENNY - as it'd mean there is a likely pathway through the SunCrystals by which they could feasibly achieve their goals in 'setting things right' if whoever this mystery character is won't yank it out from under them.\n\n*However.* There has been some legitimization of \"they just like us fr theory\"; see the orange connection - so until we have more information... we are how we are for now.\n",
-			"styleAttributes":{},
-			"x":-340,
-			"y":1055,
-			"width":800,
-			"height":385,
 			"color":"1"
 		},
 		{
@@ -428,6 +370,64 @@
 			"y":1280,
 			"width":260,
 			"height":250,
+			"color":"1"
+		},
+		{
+			"id":"3861e88b24161df2",
+			"type":"text",
+			"text":"§ Ha... Kris...! \n§ We've been spending all morning blowing up these inflatable SUSIEs for you. \n§ We know they're your favorite, so feel free to grab as many as you like! \n§ (It's a white balloon dog with \"SUSIE\" written on it in white marker.) \n§ (Because they're both monochrome, it's hard to see if anything is there at all...)",
+			"styleAttributes":{},
+			"x":-340,
+			"y":-140,
+			"width":460,
+			"height":260,
+			"color":"4"
+		},
+		{"id":"f8ab7ca5b72967f6","type":"link","url":"https://www.youtube.com/embed/CPE424-XHc8","x":-340,"y":140,"width":640,"height":360,"color":"4"},
+		{
+			"id":"a17d8c0a09633d9f",
+			"type":"text",
+			"text":"\"ARE YOU THERE? ARE WE CONNECTED?\"",
+			"styleAttributes":{},
+			"x":-320,
+			"y":600,
+			"width":180,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"92f6168cedbd9f89",
+			"type":"text",
+			"text":"Formatted in the same way as the SUSIEs Pearl received, but...",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":200,
+			"y":-80,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{
+			"id":"195539eaaececc25",
+			"type":"text",
+			"text":"Note: All text from the character speaking to Kris here was entirely in Red.",
+			"styleAttributes":{},
+			"x":540,
+			"y":-220,
+			"width":320,
+			"height":90,
+			"color":"2"
+		},
+		{
+			"id":"031ea7637f7ef484",
+			"type":"text",
+			"text":"This feels post weird route to me, a feeling further cemented by allusions to the lake; Dreemurr being hurt by Noelle, the purgatory-esque nature of the situation Dreemurr is apparently in here - and the Thank You ARG in multiple places, the latest being:  \"*So, Did you like it?*\" - Something so *close* to \"So, what did you think?\" regarding the Thank You survey it's driving me up the WALL. ***If that is the case***, Kris is based as hell for staring into the same void that drove Noelle to the point she was at and going; \"No, this was important to me regardless of everything.\" If I'm correct; You are SEEN rn my they, and you're real as hell for it. *...Regardless;* there's more to remark on asides.\n\nInitially, my theory was that Dreemurr was now a construct inside the device ala the current theory around PENNY - as it'd mean there is a likely pathway through the SunCrystals by which they could feasibly achieve their goals in 'setting things right' if whoever this mystery character is won't yank it out from under them.\n\n*However.* There has been some legitimization of \"they just like us fr theory\"; see the orange connection - so until we have more information... we are how we are for now.\n",
+			"styleAttributes":{},
+			"x":-340,
+			"y":1055,
+			"width":800,
+			"height":385,
 			"color":"1"
 		},
 		{"id":"115a57b3079aaaf2","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/they just like us fr theory gets some grounding.png","x":-340,"y":1460,"width":535,"height":159,"color":"2"}

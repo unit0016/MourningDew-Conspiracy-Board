@@ -1,6 +1,18 @@
 {
 	"nodes":[
 		{"id":"db8a1ac6541f9911","type":"group","x":-8760,"y":-2000,"width":18370,"height":4000,"color":"6","label":"PENNY, The Device, Misc. Metacommunications, Et Al"},
+		{"id":"52590532278f3784","type":"file","file":"Conspiracy Board/Events/Media/PENNY, The Device/PENNY/PENNY Account.png","x":-5932,"y":-1168,"width":372,"height":400,"color":"4"},
+		{
+			"id":"43037e2fe5d8c1ce",
+			"type":"text",
+			"text":"A prim and proper boy. \nA crying, crying girl. \\[**ziexxbinselpqfeeagvmbpgmtxkbaqk**\\] \nA crying, crying girl.",
+			"styleAttributes":{},
+			"x":-4900,
+			"y":-1054,
+			"width":400,
+			"height":140,
+			"color":"4"
+		},
 		{
 			"id":"11bee713a8762eb2",
 			"type":"text",
@@ -37,18 +49,6 @@
 			"height":60,
 			"color":"1"
 		},
-		{"id":"f9b21a6d466c0f72","type":"link","url":"https://mourningdew.phinarina.xyz/interview2/","x":-8720,"y":-674,"width":880,"height":1528},
-		{
-			"id":"f894064b2c7da9d6",
-			"type":"text",
-			"text":"THERAPY is notably capitalized here. 'More of a life'... has some implications I can't extrapolate too well.",
-			"styleAttributes":{},
-			"x":-7760,
-			"y":-300,
-			"width":280,
-			"height":120,
-			"color":"1"
-		},
 		{
 			"id":"f9d1be7af2a65fe4",
 			"type":"text",
@@ -58,6 +58,17 @@
 			"y":-1526,
 			"width":260,
 			"height":115,
+			"color":"1"
+		},
+		{
+			"id":"b449b77bc2e32e28",
+			"type":"text",
+			"text":"Apparently a red herring.",
+			"styleAttributes":{},
+			"x":-5820,
+			"y":-1960,
+			"width":260,
+			"height":60,
 			"color":"1"
 		},
 		{
@@ -72,18 +83,11 @@
 			"color":"1"
 		},
 		{"id":"51624c48cf2c9dc2","type":"link","url":"https://mourningdew.phinarina.xyz/interview/","x":-7420,"y":-1770,"width":1080,"height":3720},
-		{
-			"id":"b449b77bc2e32e28",
-			"type":"text",
-			"text":"Apparently a red herring.",
-			"styleAttributes":{},
-			"x":-5820,
-			"y":-1960,
-			"width":260,
-			"height":60,
-			"color":"1"
-		},
 		{"id":"62218c39015a4aee","type":"link","url":"https://mourningdew.phinarina.xyz/G7DVlrUSVH244QLHOOQ/","x":-5760,"y":-1840,"width":140,"height":200},
+		{"id":"b78303993d679cc0","type":"file","file":"Conspiracy Board/Canvases/Consultations/Consultations.canvas","portal":true,"x":-4320,"y":-1980,"width":13930,"height":3040},
+		{"id":"98146ea1c57989fe","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Data/Shape Distribution.png","x":-5220,"y":1480,"width":400,"height":299,"color":"4"},
+		{"id":"03344a91cc6b6ba6","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Data/Recognition Distribution.png","x":-4780,"y":1480,"width":486,"height":299,"color":"4"},
+		{"id":"c47b0c8c39901c06","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Excalidraw Drawings/Unknown PHOTON Drawing.png","x":-5520,"y":-1168,"width":399,"height":254},
 		{"id":"5fc7776a59eb984c","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/Indoctrination.png","x":-6148,"y":1320,"width":376,"height":400,"color":"4"},
 		{
 			"id":"d16b9ba317b166d9",
@@ -118,23 +122,8 @@
 			"height":60,
 			"color":"1"
 		},
-		{"id":"bddd4a6edbd18681","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Concept Art/Yo Dawg, I Heard You Like DELTA RUNE, So I Put A DELTA RUNE inside your ANGEL.png","x":-6300,"y":-780,"width":175,"height":108,"color":"4"},
-		{"id":"b78303993d679cc0","type":"file","file":"Conspiracy Board/Canvases/Consultations/Consultations.canvas","portal":true,"x":-4320,"y":-1980,"width":13930,"height":3040},
 		{"id":"775c91187afc1bbb","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Data/Validity Distribution.png","x":-3740,"y":1480,"width":486,"height":299,"color":"4"},
-		{"id":"98146ea1c57989fe","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Data/Shape Distribution.png","x":-5220,"y":1480,"width":400,"height":299,"color":"4"},
-		{"id":"03344a91cc6b6ba6","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Data/Recognition Distribution.png","x":-4780,"y":1480,"width":486,"height":299,"color":"4"},
 		{"id":"827cfee5f08bc1ba","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Data/Wronged Distribution.png","x":-4260,"y":1480,"width":481,"height":299,"color":"4"},
-		{
-			"id":"99473371695fabd3",
-			"type":"text",
-			"text":"'Susie' and 'SUSIE' - This is probably a data entry thing, but...",
-			"styleAttributes":{},
-			"x":-4690,
-			"y":1340,
-			"width":307,
-			"height":90,
-			"color":"1"
-		},
 		{
 			"id":"7ac378a61eff195a",
 			"type":"text",
@@ -179,7 +168,30 @@
 			"height":80,
 			"color":"1"
 		},
-		{"id":"c47b0c8c39901c06","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Excalidraw Drawings/Unknown PHOTON Drawing.png","x":-5520,"y":-1168,"width":399,"height":254},
+		{"id":"f9b21a6d466c0f72","type":"link","url":"https://mourningdew.phinarina.xyz/interview2/","x":-8720,"y":-674,"width":880,"height":1528},
+		{
+			"id":"f894064b2c7da9d6",
+			"type":"text",
+			"text":"THERAPY is notably capitalized here. 'More of a life'... has some implications I can't extrapolate too well.",
+			"styleAttributes":{},
+			"x":-7760,
+			"y":-300,
+			"width":280,
+			"height":120,
+			"color":"1"
+		},
+		{"id":"bddd4a6edbd18681","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Concept Art/Yo Dawg, I Heard You Like DELTA RUNE, So I Put A DELTA RUNE inside your ANGEL.png","x":-6300,"y":-780,"width":175,"height":108,"color":"4"},
+		{
+			"id":"99473371695fabd3",
+			"type":"text",
+			"text":"'Susie' and 'SUSIE' - This is probably a data entry thing, but...",
+			"styleAttributes":{},
+			"x":-4690,
+			"y":1340,
+			"width":307,
+			"height":90,
+			"color":"1"
+		},
 		{
 			"id":"324bb4dc29af9ba8",
 			"type":"text",
@@ -213,20 +225,8 @@
 			"height":300,
 			"color":"4"
 		},
-		{"id":"52590532278f3784","type":"file","file":"Conspiracy Board/Events/Media/PENNY, The Device/PENNY/PENNY Account.png","x":-5932,"y":-1168,"width":372,"height":400,"color":"4"},
 		{"id":"a9cd1e5a7742dd1d","type":"file","file":"Conspiracy Board/Events/Consultation/CONSULTATION.md","x":-5946,"y":-688,"width":1126,"height":1798,"color":"4"},
 		{"id":"53fbf6834fcce54e","type":"file","file":"Conspiracy Board/Events/Consultation/Score Calculation.md","x":-4760,"y":240,"width":400,"height":1070,"color":"4"},
-		{
-			"id":"43037e2fe5d8c1ce",
-			"type":"text",
-			"text":"A prim and proper boy. \nA crying, crying girl. \\[**ziexxbinselpqfeeagvmbpgmtxkbaqk**\\] \nA crying, crying girl.",
-			"styleAttributes":{},
-			"x":-4900,
-			"y":-1054,
-			"width":400,
-			"height":140,
-			"color":"4"
-		},
 		{"id":"c416b9365beefed5","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Data/Color Distribution.png","x":-5220,"y":1170,"width":400,"height":280,"color":"4"},
 		{
 			"id":"6b9963ffce8097f9",

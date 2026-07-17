@@ -5,6 +5,52 @@
 		{"id":"6310de5433ed8bab","type":"file","file":"Conspiracy Board/Events/Media/Kris/Kris D'vina/Kris Room - Note Text B (Writing).png","x":-1374,"y":-468,"width":150,"height":180,"color":"6"},
 		{"id":"a6622f3f853df246","type":"text","text":"§ Pearl...?\r\n§ Are you awake?\r\n§ Kris, honey, you better not be making it sleep in...\r\n§ The Festival is starting, you know!","x":-740,"y":-442,"width":440,"height":129,"color":"6"},
 		{
+			"id":"981061223cd2c93d",
+			"type":"text",
+			"text":"See Consultation 26B for context as to why this was posted",
+			"styleAttributes":{},
+			"x":-1374,
+			"y":510,
+			"width":260,
+			"height":80,
+			"color":"1"
+		},
+		{"id":"7a7921107501bb8d","type":"text","text":"§ (You couldn't seem to put the words together to explain what tragedy is...) \n§ (...almost like you didn't know them.)","x":-934,"y":334,"width":400,"height":88,"color":"4"},
+		{
+			"id":"cdaf96c6014347d7",
+			"type":"text",
+			"text":"'Home' leitmotif is used in Kris' room, but they've been referred to with the last name D'vina. Not sure who's speaking here.",
+			"styleAttributes":{},
+			"x":-700,
+			"y":-270,
+			"width":260,
+			"height":140,
+			"color":"1"
+		},
+		{"id":"76898b0295853c4e","type":"text","text":"§ Fahaha, \"tuhragehdee\"? \n§ That's such a silly word! I've never heard of it...","x":-1374,"y":334,"width":400,"height":88,"color":"4"},
+		{
+			"id":"5695985007f38b9a",
+			"type":"text",
+			"text":"§ ...Thank you. \n§ - Kris \n§ (...) \nTear up the note 🩵 Fold the note up neatly",
+			"styleAttributes":{},
+			"x":0,
+			"y":-437,
+			"width":360,
+			"height":120,
+			"color":"6"
+		},
+		{
+			"id":"d34682739d48a972",
+			"type":"text",
+			"text":"§ Why did we name our town DELTA RUNE?\n§ Well, it was already said that it was going to be named that...\n§ We don't... actually know what it means.",
+			"styleAttributes":{},
+			"x":1440,
+			"y":222,
+			"width":260,
+			"height":200,
+			"color":"6"
+		},
+		{
 			"id":"495018499f948d32",
 			"type":"text",
 			"text":"Monster Kid, Kris, & Pearl here at some point along this timeline",
@@ -27,28 +73,6 @@
 			"color":"1"
 		},
 		{
-			"id":"981061223cd2c93d",
-			"type":"text",
-			"text":"See Consultation 26B for context as to why this was posted",
-			"styleAttributes":{},
-			"x":-1374,
-			"y":510,
-			"width":260,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"2532aff31e801c2e",
-			"type":"text",
-			"text":"§ A-alright everyone! Today's lesson is very special... \n§ Today, we're going on a field trip! \n§ J-just follow me and Pearl... \n§ And... Pearl. You can RUN with \\[X\\], if you didn't know.",
-			"styleAttributes":{},
-			"x":1720,
-			"y":258,
-			"width":420,
-			"height":164,
-			"color":"6"
-		},
-		{
 			"id":"fb986b1502f5c688",
 			"type":"text",
 			"text":"Considering how fervently the town is seemingly indoctrinated into this interpretation of the mythos - is information about the Final Tragedy suppressed to the point that tragedy is an 'un-word'?",
@@ -59,18 +83,6 @@
 			"height":140,
 			"color":"1"
 		},
-		{
-			"id":"a07f6bb57f7b6997",
-			"type":"text",
-			"text":"It's been revealed Carol & Rudy've been unpersoned with the transition of the town from Hometown into DELTA RUNE. Dess left Noelle once she was able to take care of herself, ostensibly - notably \"not being lost\". See the history of the booms for further extrapolation on this. As for why Noelle's never stopped smiling...?",
-			"styleAttributes":{},
-			"x":180,
-			"y":450,
-			"width":530,
-			"height":160,
-			"color":"1"
-		},
-		{"id":"7a7921107501bb8d","type":"text","text":"§ (You couldn't seem to put the words together to explain what tragedy is...) \n§ (...almost like you didn't know them.)","x":-934,"y":334,"width":400,"height":88,"color":"4"},
 		{
 			"id":"a1e5dc2eee53b3a9",
 			"type":"text",
@@ -83,30 +95,7 @@
 			"color":"6"
 		},
 		{"id":"9dd786a73b55fefd","type":"text","text":"§ Yo, we got approval from the Council! Let's do it...! \n§ I'm so glad we've got our Needles... \n§ Just stab the earth, and...","x":-1334,"y":130,"width":320,"height":132,"color":"6"},
-		{
-			"id":"cdaf96c6014347d7",
-			"type":"text",
-			"text":"'Home' leitmotif is used in Kris' room, but they've been referred to with the last name D'vina. Not sure who's speaking here.",
-			"styleAttributes":{},
-			"x":-700,
-			"y":-270,
-			"width":260,
-			"height":140,
-			"color":"1"
-		},
 		{"id":"35f9f93bf52a3c6d","type":"file","file":"Conspiracy Board/Events/Media/Kris/Kris D'vina/Kris Room - Note Text A.png","x":-260,"y":-396,"width":220,"height":38,"color":"6"},
-		{
-			"id":"8fc58a85d5a5d837",
-			"type":"text",
-			"text":"§ What must it be like to be Noelle? \n§ She's got no family, but always has a smile on her face. \n§ I wonder how she does it...?",
-			"styleAttributes":{},
-			"x":-200,
-			"y":290,
-			"width":300,
-			"height":132,
-			"color":"6"
-		},
-		{"id":"76898b0295853c4e","type":"text","text":"§ Fahaha, \"tuhragehdee\"? \n§ That's such a silly word! I've never heard of it...","x":-1374,"y":334,"width":400,"height":88,"color":"4"},
 		{
 			"id":"d795bf2ab163b1c9",
 			"type":"text",
@@ -116,17 +105,6 @@
 			"y":-407,
 			"width":480,
 			"height":60,
-			"color":"6"
-		},
-		{
-			"id":"d4afa6ad2bd88683",
-			"type":"text",
-			"text":"§ Pearl... \n§ Don't go in there, okay? \n§ The Holidays, they... \n§ ... \n§ Just don't.",
-			"styleAttributes":{},
-			"x":150,
-			"y":286,
-			"width":260,
-			"height":140,
 			"color":"6"
 		},
 		{"id":"2555a8032d472768","type":"text","text":"§ (In fact, you don't actually know what it means, either.)","x":-474,"y":348,"width":250,"height":60,"color":"4"},
@@ -151,17 +129,6 @@
 			"width":260,
 			"height":180,
 			"color":"4"
-		},
-		{
-			"id":"7a156310954b30de",
-			"type":"text",
-			"text":"§ Ha... Pearl...! § We've been spending all morning blowing up these inflatable SUSIEs for you. \n§ We know they're your favorite, so feel free to grab as many as you like!",
-			"styleAttributes":{},
-			"x":-440,
-			"y":166,
-			"width":720,
-			"height":60,
-			"color":"6"
 		},
 		{
 			"id":"51bb30ca2325081a",
@@ -242,17 +209,6 @@
 		},
 		{"id":"b006c064f25ebb03","type":"file","file":"Conspiracy Board/Events/Media/OOC Development Snippets/2026-07-13 17-19-49.mp4","x":390,"y":-210,"width":500,"height":281,"color":"6"},
 		{
-			"id":"5695985007f38b9a",
-			"type":"text",
-			"text":"§ ...Thank you. \n§ - Kris \n§ (...) \nTear up the note 🩵 Fold the note up neatly",
-			"styleAttributes":{},
-			"x":0,
-			"y":-437,
-			"width":360,
-			"height":120,
-			"color":"6"
-		},
-		{
 			"id":"5810a7ff33c81b80",
 			"type":"text",
 			"text":"Alphys speaking, most likely. As for how she knows your keybinds...? That's a wilder mystery.",
@@ -275,6 +231,61 @@
 			"color":"1"
 		},
 		{
+			"id":"2532aff31e801c2e",
+			"type":"text",
+			"text":"§ A-alright everyone! Today's lesson is very special... \n§ Today, we're going on a field trip! \n§ J-just follow me and Pearl... \n§ And... Pearl. You can RUN with \\[X\\], if you didn't know.",
+			"styleAttributes":{},
+			"x":1720,
+			"y":258,
+			"width":420,
+			"height":164,
+			"color":"6"
+		},
+		{
+			"id":"a07f6bb57f7b6997",
+			"type":"text",
+			"text":"It's been revealed Carol & Rudy've been unpersoned with the transition of the town from Hometown into DELTA RUNE. Dess left Noelle once she was able to take care of herself, ostensibly - notably \"not being lost\". See the history of the booms for further extrapolation on this. As for why Noelle's never stopped smiling...?",
+			"styleAttributes":{},
+			"x":180,
+			"y":450,
+			"width":530,
+			"height":160,
+			"color":"1"
+		},
+		{
+			"id":"8fc58a85d5a5d837",
+			"type":"text",
+			"text":"§ What must it be like to be Noelle? \n§ She's got no family, but always has a smile on her face. \n§ I wonder how she does it...?",
+			"styleAttributes":{},
+			"x":-200,
+			"y":290,
+			"width":300,
+			"height":132,
+			"color":"6"
+		},
+		{
+			"id":"d4afa6ad2bd88683",
+			"type":"text",
+			"text":"§ Pearl... \n§ Don't go in there, okay? \n§ The Holidays, they... \n§ ... \n§ Just don't.",
+			"styleAttributes":{},
+			"x":150,
+			"y":286,
+			"width":260,
+			"height":140,
+			"color":"6"
+		},
+		{
+			"id":"7a156310954b30de",
+			"type":"text",
+			"text":"§ Ha... Pearl...! § We've been spending all morning blowing up these inflatable SUSIEs for you. \n§ We know they're your favorite, so feel free to grab as many as you like!",
+			"styleAttributes":{},
+			"x":-440,
+			"y":166,
+			"width":720,
+			"height":60,
+			"color":"6"
+		},
+		{
 			"id":"2d8d14b283091691",
 			"type":"text",
 			"text":"The symbology of the DELTA RUNE is still rather omnipresent - how is it referred to now?",
@@ -295,17 +306,6 @@
 			"width":260,
 			"height":100,
 			"color":"4"
-		},
-		{
-			"id":"d34682739d48a972",
-			"type":"text",
-			"text":"§ Why did we name our town DELTA RUNE?\n§ Well, it was already said that it was going to be named that...\n§ We don't... actually know what it means.",
-			"styleAttributes":{},
-			"x":1440,
-			"y":222,
-			"width":260,
-			"height":200,
-			"color":"6"
 		},
 		{
 			"id":"5c1dfc65bd80868d",
