@@ -1,5 +1,4 @@
-The form for your entry. Can be entered either in-game or at [this form](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfE4D6EKC67v3tRgKKmfMwB2EjoxGy89AUl2kjPgbxq1j9-BQ/formResponse); depending on whether you wish to color inside the lines, or...
-There have been two rounds with a scoring system.
+The form for your entry. While Consultations were being accepted, yours could've been entered either in-game or at [this form](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfE4D6EKC67v3tRgKKmfMwB2EjoxGy89AUl2kjPgbxq1j9-BQ/formResponse); depending on whether you wished to color inside the lines, or... There have been two rounds with a scoring system.
 
 ![[Scores.png]]
 
