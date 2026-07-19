@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"c7551adb75b5304f","type":"group","x":-280,"y":-340,"width":560,"height":490,"color":"#ff00dd","label":"Susie"},
+		{"id":"408f39e05e488bea","type":"file","file":"Conspiracy Board/Events/Media/Susie/Susie's Goodbyes.png","x":-200,"y":-110,"width":400,"height":230,"color":"#ff00f7"},
+		{
+			"id":"711a39e1e6250674",
+			"type":"text",
+			"text":"Very... muddy and complicated set of feelings Susie'll probably be broilling in as the game starts, won't she? Shipped off to an isolated cult town by your parents isn't typically a very happy story setup, and considering her inevitable status as a hero... she might, rather ironically, take to the cult's view of things quickly.\nThat is absolutely not a good thing.",
+			"styleAttributes":{},
+			"x":-260,
+			"y":-320,
+			"width":520,
+			"height":180,
+			"color":"1"
+		}
+	],
+	"edges":[
+		{
+			"id":"86e48ed41f4a202d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"711a39e1e6250674",
+			"fromSide":"bottom",
+			"toNode":"408f39e05e488bea",
+			"toSide":"top",
+			"color":"1"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"5b340c25ebcedbb3","type":"group","x":-340,"y":-200,"width":2460,"height":1000,"color":"2","label":"DELTA RUNE (Formerly Hometown)"},
+		{"id":"b77b628236839ded","type":"file","file":"Conspiracy Board/Canvases/The Town Of DELTA RUNE/The Church/The Church.canvas","portal":true,"x":360,"y":-180,"width":1740,"height":960},
+		{"id":"ae7181d2ad01b66f","type":"file","file":"Conspiracy Board/Canvases/The Town Of DELTA RUNE/Susie.canvas","portal":true,"x":-320,"y":-180,"width":660,"height":590}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
