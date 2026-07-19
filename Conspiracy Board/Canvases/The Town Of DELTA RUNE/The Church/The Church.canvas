@@ -1,18 +1,18 @@
 {
 	"nodes":[
-		{"id":"1f774d4bdbaee632","type":"group","x":-1220,"y":-300,"width":1640,"height":860,"color":"#00ff7b","label":"The Church"},
-		{"id":"42592cb0d8ebf590","type":"group","x":-820,"y":280,"width":680,"height":260,"color":"3","label":"The Seven Flowers"},
+		{"id":"1f774d4bdbaee632","type":"group","x":-1000,"y":-300,"width":1420,"height":860,"color":"#00ff7b","label":"The Church"},
+		{"id":"42592cb0d8ebf590","type":"group","x":-300,"y":280,"width":680,"height":260,"color":"3","label":"The Seven Flowers"},
 		{"id":"77f43fb4d7fc5a31","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/PENNY recants the death of Gerson Boom.png","x":-390,"y":-257,"width":780,"height":515,"color":"4"},
-		{"id":"643e9adbd5e6015c","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Alvin Mark.png","x":-620,"y":-105,"width":113,"height":212},
-		{"id":"2264d5ca8d6be585","type":"link","url":"https://mourningdew.phinarina.xyz/beard/","x":-121,"y":300,"width":511,"height":230},
-		{"id":"5e1a0ef02dad962f","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/The Seven Flowers.png","x":-797,"y":300,"width":637,"height":230},
-		{"id":"2d561e13f0ba70e2","type":"file","file":"Conspiracy Board/Canvases/The Town Of DELTA RUNE/The Church/The Prophecy.canvas","portal":true,"x":-1200,"y":-260,"width":560,"height":260}
+		{"id":"5e1a0ef02dad962f","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/The Seven Flowers.png","x":-277,"y":300,"width":637,"height":230},
+		{"id":"643e9adbd5e6015c","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Alvin Mark.png","x":-540,"y":318,"width":113,"height":212},
+		{"id":"2d561e13f0ba70e2","type":"file","file":"Conspiracy Board/Canvases/The Town Of DELTA RUNE/The Church/The Prophecy.canvas","portal":true,"x":-980,"y":-260,"width":560,"height":260}
 	],
 	"edges":[
 		{
 			"id":"dd99925db1417f15",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"643e9adbd5e6015c",
 			"fromSide":"right",
 			"toNode":"77f43fb4d7fc5a31",
