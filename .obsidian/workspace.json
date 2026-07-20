@@ -15,9 +15,9 @@
               "state": {
                 "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
                 "viewState": {
-                  "x": -1545.7258425385908,
-                  "y": -1239.7826937138375,
-                  "zoom": -0.8462042109320906
+                  "x": 3919.698433615079,
+                  "y": -3551.0608611964335,
+                  "zoom": -2.666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -189,6 +189,9 @@
   },
   "active": "2e03ee4f7e5c44b2",
   "lastOpenFiles": [
+    "Conspiracy Board/Canvases/Consultations/Round 1.canvas",
+    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+    "Conspiracy Board/Events/Media/Consultations/Round 1/Jegneg Consultation.png",
     "Conspiracy Board/Canvases/Consultations/Consultations.canvas",
     "Conspiracy Board/Canvases/The Town Of DELTA RUNE/A Town Called DELTA RUNE.canvas",
     "Conspiracy Board/Events/Media/DELTA RUNE/Milk Looker Dialogue.jpg",
@@ -196,8 +199,6 @@
     "Conspiracy Board/Events/Media/DELTA RUNE/The Cattenheimers",
     "Conspiracy Board/Events/Media/DELTA RUNE",
     "Conspiracy Board/Events/Media/DELTA RUNE/The Cattenheimers/Catti Dialogue.jpg",
-    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
-    "Conspiracy Board/Canvases/Consultations/Round 1.canvas",
     "Conspiracy Board/Events/Media/Consultations/Round 1/van Consultation.png",
     "Conspiracy Board/Canvases/The Town Of DELTA RUNE/The Church/The Church.canvas",
     "Conspiracy Board/Canvases/The Town Of DELTA RUNE/The Church/The Prophecy.canvas",
@@ -217,7 +218,6 @@
     "Conspiracy Board/Canvases/Pearl",
     "Conspiracy Board/Events/Media/Consultations/Scores.png",
     "Conspiracy Board/Events/Media/Consultations/Round 2/75b (SUSIE).png",
-    "Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Kris Channel Description 2.png",
     "Conspiracy Board/Events/Media/The Prophecy",
     "Conspiracy Board/Events/Kris' Birth.md",
     "Conspiracy Board/Events/Consultation/CONSULTATION.md",
