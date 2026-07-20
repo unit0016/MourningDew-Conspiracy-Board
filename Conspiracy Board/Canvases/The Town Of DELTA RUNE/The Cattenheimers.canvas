@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"58c52f5c80bba9d9","type":"group","x":-520,"y":-180,"width":440,"height":160,"color":"#e100ff","label":"Catti"},
+		{"id":"0918a15ceb13cca4","type":"file","file":"Conspiracy Board/Events/Media/DELTA RUNE/The Cattenheimers/Catti Dialogue.jpg","x":-500,"y":-160,"width":400,"height":120,"color":"#c800ff"}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

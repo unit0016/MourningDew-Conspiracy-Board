@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"c7551adb75b5304f","type":"group","x":-280,"y":-340,"width":560,"height":490,"color":"#ff00dd","label":"Susie"},
-		{"id":"408f39e05e488bea","type":"file","file":"Conspiracy Board/Events/Media/Susie/Susie's Goodbyes.png","x":-200,"y":-110,"width":400,"height":230,"color":"#ff00f7"},
+		{"id":"408f39e05e488bea","type":"file","file":"Conspiracy Board/Events/Media/DELTA RUNE/Susie/Susie's Goodbyes.png","x":-200,"y":-110,"width":400,"height":230,"color":"#ff00f7"},
 		{
 			"id":"711a39e1e6250674",
 			"type":"text",
