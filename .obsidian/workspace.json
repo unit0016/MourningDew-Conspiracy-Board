@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+                "file": "Conspiracy Board/Canvases/Kris/Kris.canvas",
                 "viewState": {
-                  "x": 3919.698433615079,
-                  "y": -3551.0608611964335,
-                  "zoom": -2.666666666666666
+                  "x": -963.8336352460362,
+                  "y": -2711.542339992968,
+                  "zoom": -0.34719390202196027
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Conspiracy Board"
+              "title": "Kris"
             }
           }
         ]
@@ -189,8 +189,12 @@
   },
   "active": "2e03ee4f7e5c44b2",
   "lastOpenFiles": [
-    "Conspiracy Board/Canvases/Consultations/Round 1.canvas",
+    "Conspiracy Board/Canvases/Kris/Kris' Timeline.canvas",
+    "Conspiracy Board/Canvases/Kris/Before The Story.canvas",
+    "Conspiracy Board/Canvases/Kris/Kris.canvas",
     "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+    "Conspiracy Board/Canvases/Onyx's Timeline.canvas",
+    "Conspiracy Board/Canvases/Consultations/Round 1.canvas",
     "Conspiracy Board/Events/Media/Consultations/Round 1/Jegneg Consultation.png",
     "Conspiracy Board/Canvases/Consultations/Consultations.canvas",
     "Conspiracy Board/Canvases/The Town Of DELTA RUNE/A Town Called DELTA RUNE.canvas",
@@ -203,12 +207,9 @@
     "Conspiracy Board/Canvases/The Town Of DELTA RUNE/The Church/The Church.canvas",
     "Conspiracy Board/Canvases/The Town Of DELTA RUNE/The Church/The Prophecy.canvas",
     "Conspiracy Board/Events/Media/Kris/Kris D'vina/Kris eye flash is BACK PEAK PEAK PEAK.png",
-    "Conspiracy Board/Canvases/PENNY, The Device, Misc. Metacommunications, Et Al.canvas",
     "Conspiracy Board/Canvases/The Town Of DELTA RUNE",
-    "Conspiracy Board/Canvases/The Town Of DELTA RUNE/Susie.canvas",
     "Conspiracy Board/Events/Media/DELTA RUNE/Susie",
     "Conspiracy Board/Events/Media/DELTA RUNE/Susie/Susie's Goodbyes.png",
-    "Conspiracy Board/Canvases/Kris/Kris.canvas",
     "Conspiracy Board/Events/Media/Kris/krisdreemurrkris/they just like us fr theory gets some grounding.png",
     "Conspiracy Board/Events/Media/Unknown",
     "Conspiracy Board/Events/Media/You both know this is wrong..png",

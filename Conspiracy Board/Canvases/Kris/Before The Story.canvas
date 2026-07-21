@@ -4,39 +4,6 @@
 		{"id":"0c1dae134b93d7bb","type":"group","x":520,"y":-240,"width":680,"height":1860,"color":"1","label":"Transcription"},
 		{"id":"3188278527eae13a","type":"group","x":-340,"y":540,"width":800,"height":500,"color":"1","label":"Video Description"},
 		{
-			"id":"0fd40d65714cebf3",
-			"type":"text",
-			"text":"This inversion on the Forgotten Man is deeply sad; honestly, and speaks a lot to Dreemurr's character.",
-			"styleAttributes":{},
-			"x":890,
-			"y":-140,
-			"width":260,
-			"height":120,
-			"color":"1"
-		},
-		{
-			"id":"c0b63f67ea24604d",
-			"type":"text",
-			"text":"Is this the Demon Kris & Catti summoned prior to Dess' disappearance in DELTARUNE proper? If so... my sympathies.",
-			"styleAttributes":{},
-			"x":900,
-			"y":435,
-			"width":280,
-			"height":130,
-			"color":"1"
-		},
-		{
-			"id":"40d5da8f7b7b3ff4",
-			"type":"text",
-			"text":"A lot of subtext in DR feels like it's building up to the fact Kris valiantly *does not* view themself as a hero in spite of their role in the prophecy; down to their outfit being a reference to Brandish's MC - someone very much in the same mindset.\nWith that in mind, this feels mocking.",
-			"styleAttributes":{},
-			"x":900,
-			"y":140,
-			"width":280,
-			"height":280,
-			"color":"1"
-		},
-		{
 			"id":"af7cee3c4d33a3f3",
 			"type":"text",
 			"text":"\\[Z\\]",
@@ -79,6 +46,63 @@
 			"x":-320,
 			"y":760,
 			"width":180,
+			"height":120,
+			"color":"1"
+		},
+		{
+			"id":"43b8e12dedb54f6d",
+			"type":"text",
+			"text":"\\* No light to guide you the way?",
+			"styleAttributes":{},
+			"x":540,
+			"y":60,
+			"width":320,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"3861e88b24161df2",
+			"type":"text",
+			"text":"§ Ha... Kris...! \n§ We've been spending all morning blowing up these inflatable SUSIEs for you. \n§ We know they're your favorite, so feel free to grab as many as you like! \n§ (It's a white balloon dog with \"SUSIE\" written on it in white marker.) \n§ (Because they're both monochrome, it's hard to see if anything is there at all...)\n\n*Kris' second channel description(?)*",
+			"styleAttributes":{},
+			"x":-340,
+			"y":-175,
+			"width":460,
+			"height":295,
+			"color":"4"
+		},
+		{
+			"id":"92f6168cedbd9f89",
+			"type":"text",
+			"text":"Formatted in the same way as the SUSIEs Pearl received, but...",
+			"styleAttributes":{
+				"shape":null
+			},
+			"x":200,
+			"y":-80,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{
+			"id":"195539eaaececc25",
+			"type":"text",
+			"text":"Note: All text from the character speaking to Kris here was entirely in Red.",
+			"styleAttributes":{},
+			"x":540,
+			"y":-220,
+			"width":320,
+			"height":90,
+			"color":"2"
+		},
+		{
+			"id":"0fd40d65714cebf3",
+			"type":"text",
+			"text":"This inversion on the Forgotten Man is deeply sad; honestly, and speaks a lot to Dreemurr's character.",
+			"styleAttributes":{},
+			"x":890,
+			"y":-140,
+			"width":260,
 			"height":120,
 			"color":"1"
 		},
@@ -140,17 +164,6 @@
 			"color":"4"
 		},
 		{
-			"id":"76c730ae36f6efdc",
-			"type":"text",
-			"text":"\\* Let us discard this pointless world, and move on to the next.",
-			"styleAttributes":{},
-			"x":540,
-			"y":1120,
-			"width":320,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"dfe663718f26a252",
 			"type":"text",
 			"text":"\\* You can set things right?",
@@ -173,15 +186,48 @@
 			"color":"4"
 		},
 		{
-			"id":"883789d707b54639",
+			"id":"4678b3201a33238c",
 			"type":"text",
-			"text":"\\* You got the **SunCrystal**.",
+			"text":"\\* Do you honestly think that you can change fate...?",
 			"styleAttributes":{},
 			"x":540,
-			"y":1200,
+			"y":720,
 			"width":320,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"a17d8c0a09633d9f",
+			"type":"text",
+			"text":"\"ARE YOU THERE? ARE WE CONNECTED?\"",
+			"styleAttributes":{},
+			"x":-320,
+			"y":600,
+			"width":180,
+			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"c0b63f67ea24604d",
+			"type":"text",
+			"text":"Is this the Demon Kris & Catti summoned prior to Dess' disappearance in DELTARUNE proper? If so... my sympathies.",
+			"styleAttributes":{},
+			"x":900,
+			"y":435,
+			"width":280,
+			"height":130,
+			"color":"1"
+		},
+		{
+			"id":"40d5da8f7b7b3ff4",
+			"type":"text",
+			"text":"A lot of subtext in DR feels like it's building up to the fact Kris valiantly *does not* view themself as a hero in spite of their role in the prophecy; down to their outfit being a reference to Brandish's MC - someone very much in the same mindset.\nWith that in mind, this feels mocking.",
+			"styleAttributes":{},
+			"x":900,
+			"y":140,
+			"width":280,
+			"height":280,
+			"color":"1"
 		},
 		{
 			"id":"47f3d55ef1dc1f87",
@@ -195,28 +241,6 @@
 			"color":"4"
 		},
 		{
-			"id":"4678b3201a33238c",
-			"type":"text",
-			"text":"\\* Do you honestly think that you can change fate...?",
-			"styleAttributes":{},
-			"x":540,
-			"y":720,
-			"width":320,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"43b8e12dedb54f6d",
-			"type":"text",
-			"text":"\\* No light to guide you the way?",
-			"styleAttributes":{},
-			"x":540,
-			"y":60,
-			"width":320,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"2bc5ac7b8d294915",
 			"type":"text",
 			"text":"\\* Don't give me that look.\n\\* Nobody can find you here.\n\\* You're lucky you have me!",
@@ -227,17 +251,6 @@
 			"y":140,
 			"width":320,
 			"height":100,
-			"color":"4"
-		},
-		{
-			"id":"6912a7429a11bde4",
-			"type":"text",
-			"text":"\\* But, almost as if it was never there at all,",
-			"styleAttributes":{},
-			"x":540,
-			"y":1280,
-			"width":320,
-			"height":60,
 			"color":"4"
 		},
 		{
@@ -296,6 +309,50 @@
 			"color":"1"
 		},
 		{
+			"id":"85d360418ed1d777",
+			"type":"text",
+			"text":"Missing the youthful days. \\[Kris' Title\\]",
+			"styleAttributes":{},
+			"x":540,
+			"y":-110,
+			"width":320,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"76c730ae36f6efdc",
+			"type":"text",
+			"text":"\\* Let us discard this pointless world, and move on to the next.",
+			"styleAttributes":{},
+			"x":540,
+			"y":1120,
+			"width":320,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"883789d707b54639",
+			"type":"text",
+			"text":"\\* You got the **SunCrystal**.",
+			"styleAttributes":{},
+			"x":540,
+			"y":1200,
+			"width":320,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"6912a7429a11bde4",
+			"type":"text",
+			"text":"\\* But, almost as if it was never there at all,",
+			"styleAttributes":{},
+			"x":540,
+			"y":1280,
+			"width":320,
+			"height":60,
+			"color":"4"
+		},
+		{
 			"id":"7581bafbdac31330",
 			"type":"text",
 			"text":"This is effectively calling out their motivations for why they're going outside the lines.",
@@ -313,17 +370,6 @@
 			"styleAttributes":{},
 			"x":540,
 			"y":1360,
-			"width":320,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"85d360418ed1d777",
-			"type":"text",
-			"text":"Missing the youthful days. \\[Kris' Title\\]",
-			"styleAttributes":{},
-			"x":540,
-			"y":-110,
 			"width":320,
 			"height":60,
 			"color":"4"
@@ -372,53 +418,7 @@
 			"height":250,
 			"color":"1"
 		},
-		{
-			"id":"3861e88b24161df2",
-			"type":"text",
-			"text":"§ Ha... Kris...! \n§ We've been spending all morning blowing up these inflatable SUSIEs for you. \n§ We know they're your favorite, so feel free to grab as many as you like! \n§ (It's a white balloon dog with \"SUSIE\" written on it in white marker.) \n§ (Because they're both monochrome, it's hard to see if anything is there at all...)",
-			"styleAttributes":{},
-			"x":-340,
-			"y":-140,
-			"width":460,
-			"height":260,
-			"color":"4"
-		},
 		{"id":"f8ab7ca5b72967f6","type":"link","url":"https://www.youtube.com/embed/CPE424-XHc8","x":-340,"y":140,"width":640,"height":360,"color":"4"},
-		{
-			"id":"a17d8c0a09633d9f",
-			"type":"text",
-			"text":"\"ARE YOU THERE? ARE WE CONNECTED?\"",
-			"styleAttributes":{},
-			"x":-320,
-			"y":600,
-			"width":180,
-			"height":100,
-			"color":"4"
-		},
-		{
-			"id":"92f6168cedbd9f89",
-			"type":"text",
-			"text":"Formatted in the same way as the SUSIEs Pearl received, but...",
-			"styleAttributes":{
-				"shape":null
-			},
-			"x":200,
-			"y":-80,
-			"width":260,
-			"height":100,
-			"color":"1"
-		},
-		{
-			"id":"195539eaaececc25",
-			"type":"text",
-			"text":"Note: All text from the character speaking to Kris here was entirely in Red.",
-			"styleAttributes":{},
-			"x":540,
-			"y":-220,
-			"width":320,
-			"height":90,
-			"color":"2"
-		},
 		{
 			"id":"031ea7637f7ef484",
 			"type":"text",
