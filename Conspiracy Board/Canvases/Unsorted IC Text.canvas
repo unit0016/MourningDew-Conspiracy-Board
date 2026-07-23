@@ -1,0 +1,44 @@
+{
+	"nodes":[
+		{"id":"48b1a38c450e965a","type":"group","x":-620,"y":-40,"width":800,"height":340,"color":"4","label":"crystaline"},
+		{
+			"id":"20bc0122a45344da",
+			"type":"text",
+			"text":"§ Okay, stand right there. Don’t fall! \n§ Okay… okay. You steady? \n§ Look up. Isn’t it beautiful? \n§ There aren’t many places where you can see so many stars. It’s a shame, no? \n§ …so many people are missing out on this. \n§ I know! I know. We shouldn’t worry about them, right? \n§ Is it wrong to want everybody to see this? Even if they’re mean?",
+			"styleAttributes":{},
+			"x":-300,
+			"y":-20,
+			"width":460,
+			"height":300,
+			"color":"4"
+		},
+		{
+			"id":"ba725027b07ded8d",
+			"type":"text",
+			"text":"This probably is linked to why 'euhedral' was rejected as a shape.",
+			"styleAttributes":{},
+			"x":-600,
+			"y":10,
+			"width":260,
+			"height":110,
+			"color":"1"
+		}
+	],
+	"edges":[
+		{
+			"id":"6ae20e84db7cba84",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"ba725027b07ded8d",
+			"fromSide":"right",
+			"toNode":"20bc0122a45344da",
+			"toSide":"left",
+			"color":"1"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
