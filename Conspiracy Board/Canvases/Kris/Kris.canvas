@@ -1,59 +1,36 @@
 {
 	"nodes":[
-		{"id":"4f7f6507edd4eceb","type":"group","x":-3640,"y":-3020,"width":5700,"height":2780,"color":"4","label":"The Kris Krises"},
-		{"id":"1baa5f3a197de85c","type":"group","x":-3600,"y":-2960,"width":5620,"height":2160,"color":"3","label":"krisdreemurrkris"},
+		{"id":"4f7f6507edd4eceb","type":"group","x":-3640,"y":-4860,"width":7320,"height":4620,"color":"4","label":"The Kris Krises"},
 		{"id":"ca57fc9001860b76","type":"group","x":-1260,"y":-760,"width":1760,"height":500,"color":"3","label":"Kris D'vina"},
 		{"id":"032c908ecc2b0664","type":"group","x":-1760,"y":-760,"width":450,"height":260,"color":"1","label":"Yes, There's Multiple"},
+		{"id":"1baa5f3a197de85c","type":"group","x":-3600,"y":-4840,"width":7200,"height":4040,"color":"3","label":"krisdreemurrkris"},
+		{"id":"f93d53cd8f88775e","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/Oh, the poor children!.png","x":30,"y":-457,"width":398,"height":54,"color":"4"},
 		{
-			"id":"113bbd93683bf04b",
+			"id":"e5c1fe638191dfb1",
 			"type":"text",
-			"text":"§ Suddenly, you\nthought very hard\nabout an animated\nseries you watched\nas a kid...\n§ \"Automatic Duck.\"",
+			"text":"'That night in the woods' can't have happened in a world where Dess was never lost. What does referring to it here mean??",
 			"styleAttributes":{},
-			"x":-1860,
-			"y":-2920,
-			"width":260,
-			"height":196,
-			"color":"4"
-		},
-		{"id":"a9a866ebbf7bcc7c","type":"file","file":"Conspiracy Board/Canvases/Kris/Before The Story.canvas","portal":true,"x":-3560,"y":-2920,"width":1680,"height":2040},
-		{
-			"id":"5151e234265d369b",
-			"type":"text",
-			"text":"§ (You look into the fire...) \n§ (There's a strange machine in the fire, stripped of some of its parts.) \n§ (It looks like it's ancient.) \n§ (Some of the label is faded, but the letters you can make out say...) \n```\n§ (\"R     A        I   N        LLC\".)\n```\n§ (The logo...) \n§ (You put the machine back down.) \n\n§ Squeak! \n§ (...Underneath the machine was an automatic duck toy.) \n§ (It used to belong to you.) \n§ (Goodnight, sweet prince.) \n\n§ It's a smoldering pile of contraband.\n\n*(Kris' third channel description.)*",
-			"styleAttributes":{},
-			"x":-1560,
-			"y":-2939,
-			"width":560,
-			"height":459,
-			"color":"4"
-		},
-		{"id":"515d1db5d1f1856a","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Kris Account.png","x":-1580,"y":-2020,"width":399,"height":82},
-		{"id":"39072fe0f939818b","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Kris' consultation screenshot (lq).png","x":-1140,"y":-2020,"width":400,"height":364},
-		{"id":"464c0d71bd14601b","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Can anyone try to recognize December.png","x":-1581,"y":-1900,"width":400,"height":91},
-		{
-			"id":"372f865e71172971",
-			"type":"text",
-			"text":"This is clearly one of the Krises narrating, and I'm FAIRLY sure it's Dreemurr in spite of the section sign usage due to it being at the lake.",
-			"styleAttributes":{},
-			"x":-690,
-			"y":-2261,
-			"width":360,
-			"height":140,
+			"x":29,
+			"y":-378,
+			"width":400,
+			"height":86,
 			"color":"1"
 		},
-		{"id":"89b7808dd1b175dd","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Important Person's Shirt A.png","x":-710,"y":-2020,"width":283,"height":400,"color":"4"},
+		{"id":"714cd7af7e6c17c0","type":"file","file":"Conspiracy Board/Canvases/Kris/The Device.canvas","portal":true,"x":120,"y":-4809,"width":3420,"height":3000},
+		{"id":"a9a866ebbf7bcc7c","type":"file","file":"Conspiracy Board/Canvases/Kris/Before The Story.canvas","portal":true,"x":-3560,"y":-4800,"width":1680,"height":2040},
+		{"id":"51936bfcb827ae16","type":"file","file":"Conspiracy Board/Events/Media/Kris/Lake.png","x":-3165,"y":-2680,"width":400,"height":300},
+		{"id":"89b7808dd1b175dd","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Important Person's Shirt A.png","x":-2655,"y":-2673,"width":283,"height":400,"color":"4"},
 		{
-			"id":"b3654c65c5c0c62e",
+			"id":"bfdfcd8b4ce75220",
 			"type":"text",
-			"text":"Clearly as capable of modifying the game for different answers as we are.",
+			"text":"*You don't like looking at this sort of thing.\n§ Wait, what was that *?\n                                                                -Kris \\[Blotched out with Black Ink\\]\n                                                                \n",
 			"styleAttributes":{},
-			"x":-1070,
-			"y":-1632,
-			"width":260,
-			"height":100,
-			"color":"1"
+			"x":-2650,
+			"y":-2016,
+			"width":530,
+			"height":90,
+			"color":"4"
 		},
-		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 1/Kris consultation A.png","x":-1563,"y":-1567,"width":360,"height":623},
 		{
 			"id":"5794380380c64dd9",
 			"type":"text",
@@ -65,17 +42,88 @@
 			"height":60,
 			"color":"1"
 		},
-		{"id":"51936bfcb827ae16","type":"file","file":"Conspiracy Board/Events/Media/Kris/Lake.png","x":-330,"y":-2590,"width":400,"height":300},
+		{"id":"39072fe0f939818b","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Kris' consultation screenshot (lq).png","x":-3104,"y":-2108,"width":400,"height":364},
+		{"id":"c9f75d6c6fab6d5a","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 1/Kris consultation A.png","x":-3253,"y":-1538,"width":360,"height":623},
+		{
+			"id":"372f865e71172971",
+			"type":"text",
+			"text":"This is clearly one of the Krises narrating, and I'm FAIRLY sure it's Dreemurr in spite of the section sign usage due to it being at the lake.",
+			"styleAttributes":{},
+			"x":-3525,
+			"y":-2351,
+			"width":360,
+			"height":140,
+			"color":"1"
+		},
+		{"id":"515d1db5d1f1856a","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Kris Account.png","x":-3544,"y":-2108,"width":399,"height":82},
 		{
 			"id":"cdd97f21dcd7af7a",
 			"type":"text",
 			"text":"§ It’s just within reach. If you just wiggle your hand… \n§ …if you could only move your hand like so…",
 			"styleAttributes":{},
-			"x":-260,
-			"y":-2251,
+			"x":-3095,
+			"y":-2341,
 			"width":260,
 			"height":120,
 			"color":"4"
+		},
+		{
+			"id":"b3654c65c5c0c62e",
+			"type":"text",
+			"text":"Clearly as capable of modifying the game for different answers as we are.",
+			"styleAttributes":{},
+			"x":-3034,
+			"y":-1720,
+			"width":260,
+			"height":100,
+			"color":"1"
+		},
+		{"id":"b637d816cea66643","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Kris hints at kris_dvina_kris Page.png","x":-580,"y":-1095,"width":400,"height":269,"color":"4"},
+		{
+			"id":"6901ca51ee43da5e",
+			"type":"text",
+			"text":"In reference to a 'Green Diamond' in someone's Consultation.",
+			"styleAttributes":{},
+			"x":-2650,
+			"y":-2106,
+			"width":400,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"89457a68dbf51514","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Important Person's Shirt B.png","x":-2627,"y":-2235,"width":226,"height":29,"color":"4"},
+		{
+			"id":"6d8fb99d379b2691",
+			"type":"text",
+			"text":"From one of the Excalidraw boards.",
+			"styleAttributes":{},
+			"x":-2369,
+			"y":-1906,
+			"width":260,
+			"height":72,
+			"color":"1"
+		},
+		{
+			"id":"c7bc4975dcff77f5",
+			"type":"text",
+			"text":"Playing up the fact they aren't exactly fond of themselves, here, with their consultation? Then again, not like I've heard of a Kris having a good experience with Therapy.",
+			"styleAttributes":{},
+			"x":-3560,
+			"y":-1214,
+			"width":260,
+			"height":200,
+			"color":"1"
+		},
+		{"id":"464c0d71bd14601b","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Can anyone try to recognize December.png","x":-3545,"y":-1988,"width":400,"height":91},
+		{
+			"id":"a8bdf4bd0eb8bf69",
+			"type":"text",
+			"text":"Linking it to Noelle's blog seems to imply whatever this page is actually about involves both Kris & Noelle.",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-1033,
+			"width":260,
+			"height":192,
+			"color":"1"
 		},
 		{
 			"id":"c57de21c45f8e167",
@@ -83,24 +131,12 @@
 			"text":"They, really are all happy, aren't they?\n\nYet, when I look at them... it's as if I dont even know who I'm looking at.\n\nI'll show them... that not all roads have to lead to the same place.\n\nThat there's another side, as long as you're able to go outside of the lines...\n\nSoon.\n\n\n\nhttps://www.youtube.com/@krisdreemurrkris",
 			"styleAttributes":{},
 			"x":-410,
-			"y":-1892,
+			"y":-1870,
 			"width":480,
 			"height":335,
 			"color":"4"
 		},
-		{"id":"89457a68dbf51514","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Important Person's Shirt B.png","x":-682,"y":-1582,"width":226,"height":29,"color":"4"},
-		{
-			"id":"6901ca51ee43da5e",
-			"type":"text",
-			"text":"In reference to a 'Green Diamond' in someone's Consultation.",
-			"styleAttributes":{},
-			"x":-721,
-			"y":-1463,
-			"width":400,
-			"height":60,
-			"color":"1"
-		},
-		{"id":"3d1900dbef0db239","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/Kris consultation B.png","x":-1186,"y":-1493,"width":441,"height":460},
+		{"id":"3d1900dbef0db239","type":"file","file":"Conspiracy Board/Events/Media/Consultations/Round 2/Kris consultation B.png","x":-2876,"y":-1464,"width":441,"height":460},
 		{"id":"33f900fc7a8d0819","type":"link","url":"https://www.youtube.com/embed/vvHnpyFiO_k","x":-170,"y":-1412,"width":640,"height":360},
 		{
 			"id":"ff40d377e4df8c0e",
@@ -114,37 +150,15 @@
 			"color":"4"
 		},
 		{
-			"id":"bfdfcd8b4ce75220",
+			"id":"c3da14ca338f91ef",
 			"type":"text",
-			"text":"*You don't like looking at this sort of thing.\n§ Wait, what was that *?\n                                                                -Kris \\[Blotched out with Black Ink\\]\n                                                                \n",
+			"text":"§ Sup, Pearl?",
 			"styleAttributes":{},
-			"x":-721,
-			"y":-1373,
-			"width":530,
-			"height":90,
+			"x":-2650,
+			"y":-1846,
+			"width":260,
+			"height":60,
 			"color":"4"
-		},
-		{
-			"id":"6d8fb99d379b2691",
-			"type":"text",
-			"text":"From one of the Excalidraw boards.",
-			"styleAttributes":{},
-			"x":-440,
-			"y":-1263,
-			"width":260,
-			"height":72,
-			"color":"1"
-		},
-		{
-			"id":"c7bc4975dcff77f5",
-			"type":"text",
-			"text":"Playing up the fact they aren't exactly fond of themselves, here, with their consultation? Then again, not like I've heard of a Kris having a good experience with Therapy.",
-			"styleAttributes":{},
-			"x":-1870,
-			"y":-1243,
-			"width":260,
-			"height":200,
-			"color":"1"
 		},
 		{
 			"id":"97e71e7fd7fb6144",
@@ -179,58 +193,12 @@
 				}
 			]
 		},
-		{
-			"id":"c3da14ca338f91ef",
-			"type":"text",
-			"text":"§ Sup, Pearl?",
-			"styleAttributes":{},
-			"x":-721,
-			"y":-1203,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
-		{"id":"b637d816cea66643","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Kris hints at kris_dvina_kris Page.png","x":-580,"y":-1095,"width":400,"height":269,"color":"4"},
-		{
-			"id":"a8bdf4bd0eb8bf69",
-			"type":"text",
-			"text":"Linking it to Noelle's blog seems to imply whatever this page is actually about involves both Kris & Noelle.",
-			"styleAttributes":{},
-			"x":-140,
-			"y":-1033,
-			"width":260,
-			"height":192,
-			"color":"1"
-		},
-		{
-			"id":"23e736028fef65b6",
-			"type":"text",
-			"text":"If the spaces are literally meant to represent each missing character; this cannot be \"ROYAL SCIENCES LLC.\" *However*; assuming the spacing is stylistic...\n\nWHAT IS THAT IMPLYING.",
-			"styleAttributes":{},
-			"x":-960,
-			"y":-2939,
-			"width":260,
-			"height":215,
-			"color":"1"
-		},
-		{"id":"590b49b53bd54b06","type":"file","file":"Conspiracy Board/Events/Kris' Birth.md","x":-400,"y":-735,"width":400,"height":443,"color":"1"},
 		{"id":"9e879d06ff347355","type":"link","url":"https://mourningdew.phinarina.xyz/kris_dvina_kris/","x":-805,"y":-731,"width":365,"height":439},
-		{"id":"658ace554eec80e4","type":"file","file":"Conspiracy Board/Events/Media/Kris/Kris D'vina/Kris Sick.png","x":-1009,"y":-652,"width":164,"height":145,"color":"4"},
+		{"id":"590b49b53bd54b06","type":"file","file":"Conspiracy Board/Events/Kris' Birth.md","x":-400,"y":-735,"width":400,"height":443,"color":"1"},
 		{"id":"e11a876cd4ff3cab","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/Multiple Krises One.png","x":-1740,"y":-728,"width":400,"height":57,"color":"4"},
 		{"id":"2457d1d6d96692c9","type":"file","file":"Conspiracy Board/Events/Media/Kris/Kris D'vina/Kris Sick B.png","x":-1240,"y":-652,"width":177,"height":98,"color":"4"},
 		{"id":"1e6c8dc4942df8bd","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/Multiple Krises Two.png","x":-1740,"y":-643,"width":400,"height":133,"color":"4"},
-		{"id":"f93d53cd8f88775e","type":"file","file":"Conspiracy Board/Events/Media/Metacommunication/Discord Hints/Oh, the poor children!.png","x":30,"y":-457,"width":398,"height":54,"color":"4"},
-		{
-			"id":"e5c1fe638191dfb1",
-			"type":"text",
-			"text":"'That night in the woods' can't have happened in a world where Dess was never lost. What does referring to it here mean??",
-			"styleAttributes":{},
-			"x":29,
-			"y":-378,
-			"width":400,
-			"height":86,
-			"color":"1"
-		}
+		{"id":"658ace554eec80e4","type":"file","file":"Conspiracy Board/Events/Media/Kris/Kris D'vina/Kris Sick.png","x":-1009,"y":-652,"width":164,"height":145,"color":"4"}
 	],
 	"edges":[
 		{
@@ -409,27 +377,6 @@
 			"fromSide":"top",
 			"toNode":"f93d53cd8f88775e",
 			"toSide":"bottom",
-			"color":"1"
-		},
-		{
-			"id":"e7780dd6950da802",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"5151e234265d369b",
-			"fromSide":"left",
-			"toNode":"113bbd93683bf04b",
-			"toSide":"right",
-			"color":"4"
-		},
-		{
-			"id":"e0c8af50f65e250e",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"23e736028fef65b6",
-			"fromSide":"left",
-			"toNode":"5151e234265d369b",
-			"toSide":"right",
 			"color":"1"
 		}
 	],

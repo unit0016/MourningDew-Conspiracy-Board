@@ -15,9 +15,9 @@
               "state": {
                 "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
                 "viewState": {
-                  "x": 6677.620224809987,
-                  "y": -17.774487861647273,
-                  "zoom": -4
+                  "x": 5877.219280021758,
+                  "y": -400.5835358022437,
+                  "zoom": -1.5128708775987572
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -189,19 +189,20 @@
   },
   "active": "2e03ee4f7e5c44b2",
   "lastOpenFiles": [
-    "Conspiracy Board/Canvases/Unsorted IC Text.canvas",
-    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
-    "Conspiracy Board/Canvases/Unknown Playthrough.canvas",
     "Conspiracy Board/Canvases/Kris/Kris.canvas",
+    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+    "Conspiracy Board/Canvases/Kris/The Device.canvas",
+    "Conspiracy Board/Canvases/PENNY, Misc. Metacommunications, Et Al.canvas",
+    "Conspiracy Board/Events/Media/Kris/krisdreemurrkris/The Device",
+    "Conspiracy Board/Events/Media/Kris/krisdreemurrkris/The Device/MOURNINGDEW Responses.png",
+    "Conspiracy Board/Canvases/Unsorted IC Text.canvas",
+    "Conspiracy Board/Canvases/Unknown Playthrough.canvas",
     "Conspiracy Board/Canvases/Kris/Kris' Timeline.canvas",
     "Conspiracy Board/Canvases/Kris/Before The Story.canvas",
     "Conspiracy Board/Canvases/Onyx's Timeline.canvas",
     "Conspiracy Board/Canvases/Consultations/Round 1.canvas",
     "Conspiracy Board/Events/Media/Consultations/Round 1/Jegneg Consultation.png",
-    "Conspiracy Board/Canvases/Consultations/Consultations.canvas",
-    "Conspiracy Board/Canvases/The Town Of DELTA RUNE/A Town Called DELTA RUNE.canvas",
     "Conspiracy Board/Events/Media/DELTA RUNE/Milk Looker Dialogue.jpg",
-    "Conspiracy Board/Canvases/The Town Of DELTA RUNE/The Cattenheimers.canvas",
     "Conspiracy Board/Events/Media/DELTA RUNE/The Cattenheimers",
     "Conspiracy Board/Events/Media/DELTA RUNE",
     "Conspiracy Board/Events/Media/DELTA RUNE/The Cattenheimers/Catti Dialogue.jpg",
@@ -218,8 +219,6 @@
     "Conspiracy Board/Canvases/Pearl/Blog",
     "Conspiracy Board/Canvases/Pearl",
     "Conspiracy Board/Events/Media/Consultations/Scores.png",
-    "Conspiracy Board/Events/Media/Consultations/Round 2/75b (SUSIE).png",
-    "Conspiracy Board/Events/Media/The Prophecy",
     "Conspiracy Board/Events/Kris' Birth.md",
     "Conspiracy Board/Events/Consultation/CONSULTATION.md",
     "Conspiracy Board/Events/Consultation/Score Calculation.md",
