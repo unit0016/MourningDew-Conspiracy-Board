@@ -1,0 +1,99 @@
+{
+	"nodes":[
+		{"id":"46b3dc59f06398e7","type":"group","x":-1040,"y":-340,"width":1980,"height":760,"color":"3","label":"The Lake"},
+		{
+			"id":"6c355261e96cf76d",
+			"type":"text",
+			"text":"This is hard confirmation that the incident at the lake is where what happened to Kris was as important as we assumed - but it seems we were off base in believing that they'd managed to pass through to the other side of the lake with Noelle. Something more additionally seems to be up with this version of DELTARUNE; seeing as the backgrounds are this mangled web of spritesheets (see additional note about this), placeholder assets... and the lake proper. Noelle's monologue seems consistent up until the point Kris zones out; where it briefly diverts.\n\nAt this point, Kris' shadow (or, perhaps literally them, separated from the event of both them + Noelle walking together? Unclear.) separates from them, and the choicer textbox is shattered in a manner *identical* to the UNDERTALE Omega Flower Fight, and the player seemingly regains control as Kris' shadow, separated from Kris & Noelle proper; forces themselves back upright whilst still locked in the cutscene pose. \n\nAttempting to leave the room brings them to dogcheck... literally, lake shadow still attached.",
+			"styleAttributes":{},
+			"x":-1020,
+			"y":-309,
+			"width":420,
+			"height":619,
+			"color":"1"
+		},
+		{"id":"c23d837015ec6d5d","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Unknown Date 2026.mp4","x":-580,"y":-309,"width":1100,"height":619,"color":"4"},
+		{
+			"id":"3478d7750f7e8dbc",
+			"type":"text",
+			"text":"Is that spritesheet modified in any way? I feel like a few sprites in there aren't even on TCRF. Someone would have to poke around DR proper though. That almost polaroid framed sprite of Noelle feels suspect, too.",
+			"styleAttributes":{},
+			"x":560,
+			"y":-74,
+			"width":360,
+			"height":149,
+			"color":"1"
+		},
+		{
+			"id":"7151e6ac9fbdd8d8",
+			"type":"text",
+			"text":"Something about the audio on this video makes me feel... I don't know. There's. *Squeaking*. Is there spectrogram shenanigans going on here?",
+			"styleAttributes":{},
+			"x":-320,
+			"y":340,
+			"width":580,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"1d255e440125303a","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/What did you think.png","x":540,"y":100,"width":242,"height":60,"color":"6"},
+		{
+			"id":"7d8e9ee74f990d38",
+			"type":"text",
+			"text":"Quoting Thank You ARG.",
+			"styleAttributes":{},
+			"x":540,
+			"y":180,
+			"width":242,
+			"height":60,
+			"color":"1"
+		}
+	],
+	"edges":[
+		{
+			"id":"e7c2eab9910bb512",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"6c355261e96cf76d",
+			"fromSide":"right",
+			"toNode":"c23d837015ec6d5d",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"cfa1b23df4bed0e8",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"3478d7750f7e8dbc",
+			"fromSide":"left",
+			"toNode":"c23d837015ec6d5d",
+			"toSide":"right",
+			"color":"1"
+		},
+		{
+			"id":"1513deba43e0812b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"7151e6ac9fbdd8d8",
+			"fromSide":"top",
+			"toNode":"c23d837015ec6d5d",
+			"toSide":"bottom",
+			"color":"1"
+		},
+		{
+			"id":"51af0d1e0b90f585",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"7d8e9ee74f990d38",
+			"fromSide":"top",
+			"toNode":"1d255e440125303a",
+			"toSide":"bottom",
+			"color":"1"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
