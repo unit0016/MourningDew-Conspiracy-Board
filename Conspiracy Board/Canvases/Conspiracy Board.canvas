@@ -7,9 +7,32 @@
 		{"id":"e65c4ac87700c850","type":"file","file":"Conspiracy Board/Canvases/Player Timeline.canvas","portal":true,"x":2100,"y":4940,"width":1220,"height":580},
 		{"id":"c0485c1ab78738ab","type":"file","file":"Conspiracy Board/Canvases/Pearl/Pearl.canvas","portal":true,"x":-240,"y":2640,"width":6180,"height":1580},
 		{"id":"aaa71d8f65414f56","type":"file","file":"Conspiracy Board/Canvases/Unsorted IC Text.canvas","portal":true,"x":4760,"y":1720,"width":900,"height":440},
-		{"id":"db3773c3dec7c03d","type":"file","file":"Conspiracy Board/Canvases/Unknown Playthrough.canvas","portal":true,"x":4760,"y":2200,"width":560,"height":420}
+		{"id":"db3773c3dec7c03d","type":"file","file":"Conspiracy Board/Canvases/Unknown Playthrough.canvas","portal":true,"x":4760,"y":2200,"width":560,"height":420},
+		{"id":"ebb26fc0a386f64d","type":"link","url":"https://www.youtube.com/embed/G-fiQVhtVqY","x":3690,"y":-160,"width":640,"height":360},
+		{
+			"id":"24bf7f819da2e5e8",
+			"type":"text",
+			"text":"This video further elaborates on what other responses and secrets lie in the Device.",
+			"styleAttributes":{},
+			"x":4340,
+			"y":-160,
+			"width":200,
+			"height":160,
+			"color":"1"
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"df4cd6c3f3c01f36",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"24bf7f819da2e5e8",
+			"fromSide":"bottom",
+			"toNode":"ebb26fc0a386f64d",
+			"toSide":"right",
+			"color":"1"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
