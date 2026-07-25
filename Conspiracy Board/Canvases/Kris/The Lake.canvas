@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"46b3dc59f06398e7","type":"group","x":-1040,"y":-340,"width":1980,"height":760,"color":"3","label":"The Lake"},
+		{"id":"46b3dc59f06398e7","type":"group","x":-1040,"y":-340,"width":3100,"height":760,"color":"3","label":"A Bridge To MOURNINGDEW"},
 		{
 			"id":"6c355261e96cf76d",
 			"type":"text",
@@ -14,17 +14,6 @@
 		},
 		{"id":"c23d837015ec6d5d","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Unknown Date 2026.mp4","x":-580,"y":-309,"width":1100,"height":619,"color":"4"},
 		{
-			"id":"3478d7750f7e8dbc",
-			"type":"text",
-			"text":"Is that spritesheet modified in any way? I feel like a few sprites in there aren't even on TCRF. Someone would have to poke around DR proper though. That almost polaroid framed sprite of Noelle feels suspect, too.",
-			"styleAttributes":{},
-			"x":560,
-			"y":-74,
-			"width":360,
-			"height":149,
-			"color":"1"
-		},
-		{
 			"id":"7151e6ac9fbdd8d8",
 			"type":"text",
 			"text":"Something about the audio on this video makes me feel... I don't know. There's. *Squeaking*. Is there spectrogram shenanigans going on here?",
@@ -35,18 +24,30 @@
 			"height":60,
 			"color":"1"
 		},
-		{"id":"1d255e440125303a","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/What did you think.png","x":540,"y":100,"width":242,"height":60,"color":"6"},
+		{
+			"id":"3478d7750f7e8dbc",
+			"type":"text",
+			"text":"Is that spritesheet modified in any way? I feel like a few sprites in there aren't even on TCRF. Someone would have to poke around DR proper though. That almost polaroid framed sprite of Noelle feels suspect, too.",
+			"styleAttributes":{},
+			"x":560,
+			"y":-220,
+			"width":360,
+			"height":149,
+			"color":"1"
+		},
+		{"id":"1d255e440125303a","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/What did you think.png","x":560,"y":60,"width":242,"height":60,"color":"6"},
 		{
 			"id":"7d8e9ee74f990d38",
 			"type":"text",
 			"text":"Quoting Thank You ARG.",
 			"styleAttributes":{},
-			"x":540,
+			"x":560,
 			"y":180,
 			"width":242,
 			"height":60,
 			"color":"1"
-		}
+		},
+		{"id":"aa1685b9d253d295","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/PENNY'S Creation.mp4","x":940,"y":-309,"width":1100,"height":619}
 	],
 	"edges":[
 		{
@@ -90,6 +91,26 @@
 			"toNode":"1d255e440125303a",
 			"toSide":"bottom",
 			"color":"1"
+		},
+		{
+			"id":"bd558a383fbb5f3d",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"c23d837015ec6d5d",
+			"fromSide":"right",
+			"toNode":"1d255e440125303a",
+			"toSide":"left",
+			"color":"4"
+		},
+		{
+			"id":"cc4e0a17c5ddf207",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"1d255e440125303a",
+			"fromSide":"right",
+			"toNode":"aa1685b9d253d295",
+			"toSide":"left",
+			"color":"4"
 		}
 	],
 	"metadata":{

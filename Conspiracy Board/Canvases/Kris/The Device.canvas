@@ -7,17 +7,6 @@
 		{"id":"4fb09de90de6aed9","type":"group","x":2380,"y":640,"width":700,"height":460,"color":"4","label":"December."},
 		{"id":"4b176211267b741d","type":"group","x":2380,"y":1140,"width":860,"height":200,"color":"#ffffff","label":"Color"},
 		{
-			"id":"2340c10779d2fb91",
-			"type":"text",
-			"text":"### The following is a list of responses for power sources in CMOS.",
-			"styleAttributes":{},
-			"x":2400,
-			"y":-280,
-			"width":660,
-			"height":60,
-			"color":"1"
-		},
-		{
 			"id":"94a57e4646b3297a",
 			"type":"text",
 			"text":"Kris... oh... Kris...\nDid you REALLY think you could just waltz in so easily?\n\nBut this wouldn't be fun without a game.\nSometimes having all the cards makes things too easy!\nSo I'll give you a hint.\n\nWhat is something you own that is only used by others?",
@@ -52,6 +41,28 @@
 		},
 		{"id":"4c38f461b4ae651d","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/The Device/MOURNINGDEW Responses.png","x":-20,"y":-370,"width":298,"height":160,"color":"6"},
 		{
+			"id":"71d6b4bdae408306",
+			"type":"text",
+			"text":"We've all seen the happiest outcomes. Nobody can fix the device, no matter how hard we all tried. No one can\n\nBut, maybe in order to fix something, you have to break it first?",
+			"styleAttributes":{},
+			"x":-20,
+			"y":20,
+			"width":260,
+			"height":240,
+			"color":"4"
+		},
+		{
+			"id":"df8d8d5a55ef0c41",
+			"type":"text",
+			"text":"Notably not the full (unused) full verse as in DELTARUNE, 'Coldwater fell from top of sky.'",
+			"styleAttributes":{},
+			"x":280,
+			"y":20,
+			"width":260,
+			"height":123,
+			"color":"1"
+		},
+		{
 			"id":"6a2ff285e9c1dfa4",
 			"type":"text",
 			"text":"SUNCRYSTAL",
@@ -59,83 +70,6 @@
 			"x":2400,
 			"y":-180,
 			"width":140,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"350ba806bd162d19",
-			"type":"text",
-			"text":"You choose eternity.\n...\nMove forward with this answer.",
-			"styleAttributes":{},
-			"x":2580,
-			"y":120,
-			"width":280,
-			"height":100,
-			"color":"6"
-		},
-		{
-			"id":"49f3a21c28473b3f",
-			"type":"text",
-			"text":"GREETINGS DOCTOR GASTER\nHOW ARE YOU FEELING TODAY?\n(Program `FAIL()`s 10 times in a row.)",
-			"styleAttributes":{},
-			"x":2580,
-			"y":240,
-			"width":280,
-			"height":120,
-			"color":"6"
-		},
-		{
-			"id":"f108d43a075e9990",
-			"type":"text",
-			"text":"GASTER",
-			"styleAttributes":{},
-			"x":2400,
-			"y":270,
-			"width":120,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"9856f920ac3cb330",
-			"type":"text",
-			"text":"GLASS",
-			"styleAttributes":{},
-			"x":2400,
-			"y":380,
-			"width":120,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"4f418de4888e2de0",
-			"type":"text",
-			"text":"AAAAAA",
-			"styleAttributes":{},
-			"x":2400,
-			"y":485,
-			"width":120,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"d82f308f83fa7b48",
-			"type":"text",
-			"text":"MOONCRYSTAL / PURECRYSTAL",
-			"styleAttributes":{},
-			"x":2400,
-			"y":30,
-			"width":280,
-			"height":60,
-			"color":"3"
-		},
-		{
-			"id":"b6c9d32425c7a849",
-			"type":"text",
-			"text":"VOIDCRYSTAL",
-			"styleAttributes":{},
-			"x":2400,
-			"y":140,
-			"width":160,
 			"height":60,
 			"color":"3"
 		},
@@ -186,17 +120,6 @@
 			"color":"6"
 		},
 		{
-			"id":"71d6b4bdae408306",
-			"type":"text",
-			"text":"We've all seen the happiest outcomes. Nobody can fix the device, no matter how hard we all tried. No one can\n\nBut, maybe in order to fix something, you have to break it first?",
-			"styleAttributes":{},
-			"x":-20,
-			"y":20,
-			"width":260,
-			"height":240,
-			"color":"4"
-		},
-		{
 			"id":"6d87c82d68c95bf0",
 			"type":"text",
 			"text":"Coldwater fell from the sky.",
@@ -208,15 +131,48 @@
 			"color":"4"
 		},
 		{
-			"id":"df8d8d5a55ef0c41",
+			"id":"4030235052f7ca71",
 			"type":"text",
-			"text":"Notably not the full (unused) full verse as in DELTARUNE, 'Coldwater fell from top of sky.'",
+			"text":"§ (You look into the fire...) \n§ (There's a strange machine in the fire, stripped of some of its parts.) \n§ (It looks like it's ancient.) \n§ (Some of the label is faded, but the letters you can make out say...) \n```\n§ (\"R     A        I   N        LLC\".)\n```\n§ (The logo...) \n§ (You put the machine back down.) \n\n§ Squeak! \n§ (...Underneath the machine was an automatic duck toy.) \n§ (It used to belong to you.) \n§ (Goodnight, sweet prince.) \n\n§ It's a smoldering pile of contraband.\n\n*(Kris' third channel description.)*",
 			"styleAttributes":{},
-			"x":280,
-			"y":20,
-			"width":260,
-			"height":123,
+			"x":-2,
+			"y":564,
+			"width":560,
+			"height":459,
+			"color":"4"
+		},
+		{
+			"id":"2340c10779d2fb91",
+			"type":"text",
+			"text":"### The following is a list of responses for power sources in CMOS.",
+			"styleAttributes":{},
+			"x":2400,
+			"y":-280,
+			"width":660,
+			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"0af471abac105131",
+			"type":"text",
+			"text":"You think you're onto something,\ndon't you?\n\nYou're not even close.",
+			"styleAttributes":{},
+			"x":2940,
+			"y":240,
+			"width":260,
+			"height":140,
+			"color":"6"
+		},
+		{
+			"id":"003676085c558a0c",
+			"type":"text",
+			"text":"What is seen in shadows\nis easily misunderstood in the\nmind of a child.\n\nIt's just glass",
+			"styleAttributes":{},
+			"x":2940,
+			"y":410,
+			"width":260,
+			"height":150,
+			"color":"6"
 		},
 		{
 			"id":"c8a91b027950853f",
@@ -228,17 +184,6 @@
 			"width":260,
 			"height":60,
 			"color":"1"
-		},
-		{
-			"id":"4030235052f7ca71",
-			"type":"text",
-			"text":"§ (You look into the fire...) \n§ (There's a strange machine in the fire, stripped of some of its parts.) \n§ (It looks like it's ancient.) \n§ (Some of the label is faded, but the letters you can make out say...) \n```\n§ (\"R     A        I   N        LLC\".)\n```\n§ (The logo...) \n§ (You put the machine back down.) \n\n§ Squeak! \n§ (...Underneath the machine was an automatic duck toy.) \n§ (It used to belong to you.) \n§ (Goodnight, sweet prince.) \n\n§ It's a smoldering pile of contraband.\n\n*(Kris' third channel description.)*",
-			"styleAttributes":{},
-			"x":-2,
-			"y":564,
-			"width":560,
-			"height":459,
-			"color":"4"
 		},
 		{
 			"id":"bff6a24ea7d09967",
@@ -261,28 +206,6 @@
 			"width":290,
 			"height":78,
 			"color":"1"
-		},
-		{
-			"id":"a3dd0fd6097440ce",
-			"type":"text",
-			"text":"Stained?",
-			"styleAttributes":{},
-			"x":2580,
-			"y":380,
-			"width":260,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"ef9f7423ed804e9f",
-			"type":"text",
-			"text":"What are you doing?",
-			"styleAttributes":{},
-			"x":2580,
-			"y":485,
-			"width":260,
-			"height":60,
-			"color":"6"
 		},
 		{
 			"id":"0eaea783c505b64d",
@@ -318,50 +241,6 @@
 			"color":"6"
 		},
 		{
-			"id":"6e91eb44cc519598",
-			"type":"text",
-			"text":"Under brightest light,\nthe only things you can see are shadows.\nIncorrect power",
-			"styleAttributes":{},
-			"x":2710,
-			"y":10,
-			"width":340,
-			"height":100,
-			"color":"6"
-		},
-		{
-			"id":"370033c4418456b6",
-			"type":"text",
-			"text":"Another callback to the 'Thank You' ARG... might this be related to Noelle somehow?",
-			"styleAttributes":{},
-			"x":2880,
-			"y":120,
-			"width":280,
-			"height":100,
-			"color":"1"
-		},
-		{
-			"id":"0af471abac105131",
-			"type":"text",
-			"text":"You think you're onto something,\ndon't you?\n\nYou're not even close.",
-			"styleAttributes":{},
-			"x":2940,
-			"y":240,
-			"width":260,
-			"height":140,
-			"color":"6"
-		},
-		{
-			"id":"003676085c558a0c",
-			"type":"text",
-			"text":"What is seen in shadows\nis easily misunderstood in the\nmind of a child.\n\nIt's just glass",
-			"styleAttributes":{},
-			"x":2940,
-			"y":410,
-			"width":260,
-			"height":150,
-			"color":"6"
-		},
-		{
 			"id":"8f344310da94c787",
 			"type":"text",
 			"text":"As Azabi pointed out; most color options do nothing... save one.",
@@ -380,6 +259,17 @@
 			"x":2400,
 			"y":1250,
 			"width":100,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"d82f308f83fa7b48",
+			"type":"text",
+			"text":"MOONCRYSTAL / PURECRYSTAL",
+			"styleAttributes":{},
+			"x":2400,
+			"y":30,
+			"width":280,
 			"height":60,
 			"color":"3"
 		},
@@ -403,6 +293,128 @@
 			"y":1160,
 			"width":300,
 			"height":165,
+			"color":"1"
+		},
+		{
+			"id":"6e91eb44cc519598",
+			"type":"text",
+			"text":"Under brightest light,\nthe only things you can see are shadows.\nIncorrect power",
+			"styleAttributes":{},
+			"x":2710,
+			"y":10,
+			"width":340,
+			"height":100,
+			"color":"6"
+		},
+		{
+			"id":"370033c4418456b6",
+			"type":"text",
+			"text":"Another callback to the 'Thank You' ARG... might this be related to Noelle somehow?",
+			"styleAttributes":{},
+			"x":2880,
+			"y":120,
+			"width":280,
+			"height":100,
+			"color":"1"
+		},
+		{
+			"id":"350ba806bd162d19",
+			"type":"text",
+			"text":"You choose eternity.\n...\nMove forward with this answer.",
+			"styleAttributes":{},
+			"x":2580,
+			"y":120,
+			"width":280,
+			"height":100,
+			"color":"6"
+		},
+		{
+			"id":"49f3a21c28473b3f",
+			"type":"text",
+			"text":"GREETINGS DOCTOR GASTER\nHOW ARE YOU FEELING TODAY?\n(Program `FAIL()`s 10 times in a row.)",
+			"styleAttributes":{},
+			"x":2580,
+			"y":240,
+			"width":280,
+			"height":120,
+			"color":"6"
+		},
+		{
+			"id":"f108d43a075e9990",
+			"type":"text",
+			"text":"GASTER",
+			"styleAttributes":{},
+			"x":2400,
+			"y":270,
+			"width":120,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"9856f920ac3cb330",
+			"type":"text",
+			"text":"GLASS",
+			"styleAttributes":{},
+			"x":2400,
+			"y":380,
+			"width":120,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"b6c9d32425c7a849",
+			"type":"text",
+			"text":"VOIDCRYSTAL",
+			"styleAttributes":{},
+			"x":2400,
+			"y":140,
+			"width":160,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"4f418de4888e2de0",
+			"type":"text",
+			"text":"AAAAAA",
+			"styleAttributes":{},
+			"x":2400,
+			"y":485,
+			"width":120,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"a3dd0fd6097440ce",
+			"type":"text",
+			"text":"Stained?",
+			"styleAttributes":{},
+			"x":2580,
+			"y":380,
+			"width":260,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"ef9f7423ed804e9f",
+			"type":"text",
+			"text":"What are you doing?",
+			"styleAttributes":{},
+			"x":2580,
+			"y":485,
+			"width":260,
+			"height":60,
+			"color":"6"
+		},
+		{"id":"80331924965e1301","type":"link","url":"https://www.youtube.com/embed/G-fiQVhtVqY","x":2370,"y":1360,"width":640,"height":360},
+		{
+			"id":"a7d914061ad4f4b5",
+			"type":"text",
+			"text":"This video further elaborates on what other responses and secrets lie in the Device.",
+			"styleAttributes":{},
+			"x":3020,
+			"y":1360,
+			"width":200,
+			"height":160,
 			"color":"1"
 		}
 	],
@@ -625,6 +637,16 @@
 			"fromNode":"d9cbf701c95f568d",
 			"fromSide":"left",
 			"toNode":"d7f0a05e6869b735",
+			"toSide":"right",
+			"color":"1"
+		},
+		{
+			"id":"7589759d6c2a1b28",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"a7d914061ad4f4b5",
+			"fromSide":"bottom",
+			"toNode":"80331924965e1301",
 			"toSide":"right",
 			"color":"1"
 		}
