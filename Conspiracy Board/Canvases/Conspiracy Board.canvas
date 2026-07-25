@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"0cb3c72f22994a3d","type":"file","file":"Conspiracy Board/Canvases/PENNY, Misc. Metacommunications, Et Al.canvas","portal":true,"x":-1600,"y":-6240,"width":18470,"height":4100},
 		{
 			"id":"772b59ba0a4cdc62",
 			"type":"file",
@@ -29,7 +28,8 @@
 		{"id":"db3773c3dec7c03d","type":"file","file":"Conspiracy Board/Canvases/Unknown Playthrough.canvas","portal":true,"x":-6620,"y":-1640,"width":560,"height":420},
 		{"id":"b28bf6d6365eda54","type":"file","file":"Conspiracy Board/Canvases/Onyx's Timeline.canvas","portal":true,"x":-3420,"y":-460,"width":876,"height":600},
 		{"id":"e65c4ac87700c850","type":"file","file":"Conspiracy Board/Canvases/Player Timeline.canvas","portal":true,"x":-3420,"y":220,"width":1220,"height":580},
-		{"id":"c0485c1ab78738ab","type":"file","file":"Conspiracy Board/Canvases/Pearl/Pearl.canvas","portal":true,"x":-5760,"y":-2080,"width":6180,"height":1580}
+		{"id":"c0485c1ab78738ab","type":"file","file":"Conspiracy Board/Canvases/Pearl/Pearl.canvas","portal":true,"x":-5760,"y":-2080,"width":6180,"height":1580},
+		{"id":"0cb3c72f22994a3d","type":"file","file":"Conspiracy Board/Canvases/PENNY, Misc. Metacommunications, Et Al.canvas","portal":true,"x":-1600,"y":-6720,"width":20790,"height":4580}
 	],
 	"edges":[],
 	"metadata":{
