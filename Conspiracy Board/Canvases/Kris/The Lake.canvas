@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"46b3dc59f06398e7","type":"group","x":-1040,"y":-340,"width":3100,"height":760,"color":"3","label":"A Bridge To MOURNINGDEW"},
+		{"id":"46b3dc59f06398e7","type":"group","x":-1040,"y":-340,"width":3100,"height":780,"color":"3","label":"A Bridge To MOURNINGDEW"},
 		{
 			"id":"6c355261e96cf76d",
 			"type":"text",
@@ -47,7 +47,18 @@
 			"height":60,
 			"color":"1"
 		},
-		{"id":"aa1685b9d253d295","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/PENNY'S Creation.mp4","x":940,"y":-309,"width":1100,"height":619}
+		{"id":"aa1685b9d253d295","type":"file","file":"Conspiracy Board/Events/Media/Kris/krisdreemurrkris/PENNY'S Creation.mp4","x":940,"y":-309,"width":1100,"height":619},
+		{
+			"id":"b1139cbc7fb35759",
+			"type":"text",
+			"text":"It seems Kris split off from their physical form, after all - Noelle didn't notice a beat. PENNY is indeed a construct of the DEVICE... but, in kind...\nIt seems DELTARUNE was deprecated for the express purpose of allowing the device's complete recovery.",
+			"styleAttributes":{},
+			"x":940,
+			"y":340,
+			"width":1100,
+			"height":80,
+			"color":"1"
+		}
 	],
 	"edges":[
 		{
@@ -111,6 +122,16 @@
 			"toNode":"aa1685b9d253d295",
 			"toSide":"left",
 			"color":"4"
+		},
+		{
+			"id":"df1ddab253362870",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b1139cbc7fb35759",
+			"fromSide":"top",
+			"toNode":"aa1685b9d253d295",
+			"toSide":"bottom",
+			"color":"1"
 		}
 	],
 	"metadata":{
