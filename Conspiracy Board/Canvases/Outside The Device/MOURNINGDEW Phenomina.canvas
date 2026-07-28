@@ -12,17 +12,6 @@
 			"height":180,
 			"color":"1"
 		},
-		{
-			"id":"d3e912f4fbecf3d3",
-			"type":"text",
-			"text":"Collective comment: \"This is the genesis of MOURNINGDEW, it seems. The anonymous source which provided this video noted that the only modification made to the game was a personal one adding lyrics to the Secret Boss's fight. Additionally, after Kris splits off from the cutscene, no player input was provided. They seemingly moved on their own. Nothing more exists; the game was closed and re-installed shortly after. No further anomalies occurred after such.\"",
-			"styleAttributes":{},
-			"x":220,
-			"y":360,
-			"width":640,
-			"height":180,
-			"color":"4"
-		},
 		{"id":"5bf6a34b27fa58c7","type":"link","url":"https://www.youtube.com/embed/ZdRdNIbP-Wg","x":220,"y":-20,"width":640,"height":360,"color":"4"},
 		{
 			"id":"e89bcf7b4faf14ae",
@@ -58,18 +47,6 @@
 			"color":"1"
 		},
 		{"id":"86c9c30483a3f0a7","type":"file","file":"Conspiracy Board/Events/Media/Outside The Device/CH5 Secret Boss Lyrics.png","x":-220,"y":260,"width":400,"height":319,"color":"4"},
-		{
-			"id":"9850a5390f2dc3df",
-			"type":"text",
-			"text":"I cross-referenced the lyrics, they are the normal Mew Mew Magic lyrics. What isn't normal, however, is...\nThat's a head. Here's a reconstructed version, though it's very strangely upscaled verse whatever it's original resolution was.",
-			"styleAttributes":{},
-			"x":220,
-			"y":560,
-			"width":480,
-			"height":120,
-			"color":"1"
-		},
-		{"id":"127b3c80863a3421","type":"file","file":"Conspiracy Board/Events/Media/Outside The Device/Head_Reconstructed.png","x":740,"y":549,"width":62,"height":60,"color":"1"},
 		{"id":"c57999a99d4df236","type":"link","url":"https://www.youtube.com/embed/lSocQtWuye0","x":920,"y":-20,"width":640,"height":360,"color":"4"},
 		{
 			"id":"f5df8ed9471848c8",
@@ -92,7 +69,30 @@
 			"width":380,
 			"height":60,
 			"color":"4"
-		}
+		},
+		{
+			"id":"d3e912f4fbecf3d3",
+			"type":"text",
+			"text":"Collective comment: \"This is the genesis of MOURNINGDEW, it seems. The anonymous source which provided this video noted that the only modification made to the game was a personal one adding lyrics to the Secret Boss's fight. Additionally, after Kris splits off from the cutscene, no player input was provided. They seemingly moved on their own. Nothing more exists; the game was closed and re-installed shortly after. No further anomalies occurred after such.\"",
+			"styleAttributes":{},
+			"x":220,
+			"y":360,
+			"width":640,
+			"height":180,
+			"color":"4"
+		},
+		{
+			"id":"9850a5390f2dc3df",
+			"type":"text",
+			"text":"I cross-referenced the lyrics, they are the normal Mew Mew Magic lyrics. What isn't normal, however, is...\nThat's a head. Here's a reconstructed version, though it's very strangely upscaled verse whatever it's original resolution was.",
+			"styleAttributes":{},
+			"x":220,
+			"y":560,
+			"width":480,
+			"height":120,
+			"color":"1"
+		},
+		{"id":"127b3c80863a3421","type":"file","file":"Conspiracy Board/Events/Media/Outside The Device/Head_Reconstructed.png","x":740,"y":549,"width":62,"height":60,"color":"1"}
 	],
 	"edges":[
 		{
