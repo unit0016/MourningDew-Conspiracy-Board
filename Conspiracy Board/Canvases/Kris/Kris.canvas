@@ -35,39 +35,6 @@
 			"color":"4"
 		},
 		{
-			"id":"97e71e7fd7fb6144",
-			"type":"file",
-			"file":"Conspiracy Board/Canvases/Kris/Kris' Timeline.canvas",
-			"portal":true,
-			"x":-998,
-			"y":-1518,
-			"width":1480,
-			"height":700,
-			"interdimensionalEdges":[
-				{
-					"id":"03815c78b0b50456",
-					"styleAttributes":{},
-					"toFloating":false,
-					"fromFloating":false,
-					"fromNode":"33f900fc7a8d0819",
-					"fromSide":"right",
-					"toNode":"acportal||97e71e7fd7fb6144||3bbf5bd423f74cc2",
-					"toSide":"left",
-					"color":"4"
-				},
-				{
-					"id":"24d756f15cb5c5ff",
-					"styleAttributes":{},
-					"toFloating":false,
-					"fromNode":"ff40d377e4df8c0e",
-					"fromSide":"right",
-					"toNode":"acportal||97e71e7fd7fb6144||3bbf5bd423f74cc2",
-					"toSide":"left",
-					"color":"4"
-				}
-			]
-		},
-		{
 			"id":"ff40d377e4df8c0e",
 			"type":"text",
 			"text":"About that last one... Don't you think something seems off...?",
@@ -220,7 +187,6 @@
 			"height":200,
 			"color":"1"
 		},
-		{"id":"b00fcb1713031f4c","type":"file","file":"Conspiracy Board/Canvases/Kris/Kris Q&A.md","x":1600,"y":-4740,"width":740,"height":2890,"color":"4"},
 		{
 			"id":"2d9a1b54db746c3e",
 			"type":"text",
@@ -277,19 +243,6 @@
 			"color":"1"
 		},
 		{
-			"id":"f82b9fefc7328dbf",
-			"type":"text",
-			"text":"Kris' played this piece before, in the dining room of the Holiday House (kris_piano_waitingroom). They recognize it, but seem uncertain if they've actually played it themselves for some reason. Might be important, might just be further characterizing the anonymous person in [[MOURNINGDEW Phenomina.canvas]]. Unclear at this juncture. ...What does Kris mean by that at the end, though?\nAlso, Kris, if you monitor this board at all - [the song you're looking for is on musescore!](https://musescore.com/user/28747830/scores/5249363)",
-			"styleAttributes":{},
-			"x":2380,
-			"y":-2640,
-			"width":460,
-			"height":280,
-			"color":"1"
-		},
-		{"id":"714cd7af7e6c17c0","type":"file","file":"Conspiracy Board/Canvases/Kris/The Device.canvas","portal":true,"x":-1860,"y":-4800,"width":3420,"height":3000},
-		{"id":"5db853ff35a30908","type":"file","file":"Conspiracy Board/Canvases/Kris/The Lake.canvas","portal":true,"x":480,"y":-1800,"width":3200,"height":880},
-		{
 			"id":"7c1878473bbcede1",
 			"type":"text",
 			"text":"This hits close to home. It isn't wrong to hope, in our view... and for their sake; I hope this isn't a story where we have to choose between MOURNINGDEW and DELTARUNE.",
@@ -300,6 +253,19 @@
 			"height":100,
 			"color":"1"
 		},
+		{"id":"b00fcb1713031f4c","type":"file","file":"Conspiracy Board/Canvases/Kris/Kris Q&A.md","x":1600,"y":-4740,"width":740,"height":2890,"color":"4"},
+		{
+			"id":"f82b9fefc7328dbf",
+			"type":"text",
+			"text":"Kris' played this piece before, in the dining room of the Holiday House (kris_piano_waitingroom). They recognize it, but seem uncertain if they've actually played it themselves for some reason. Might be important, might just be further characterizing the anonymous person in [[MOURNINGDEW Phenomina.canvas]]. Unclear at this juncture. ...What does Kris mean by that at the end, though?\nAlso, Kris, if you monitor this board at all - [the song you're looking for is on musescore!](https://musescore.com/user/28747830/scores/5249363)",
+			"styleAttributes":{},
+			"x":2380,
+			"y":-2640,
+			"width":460,
+			"height":280,
+			"color":"1"
+		},
+		{"id":"5db853ff35a30908","type":"file","file":"Conspiracy Board/Canvases/Kris/The Lake.canvas","portal":true,"x":480,"y":-1800,"width":3200,"height":880},
 		{
 			"id":"afe253f872fa031a",
 			"type":"text",
@@ -332,6 +298,40 @@
 			"width":460,
 			"height":60,
 			"color":"1"
+		},
+		{"id":"714cd7af7e6c17c0","type":"file","file":"Conspiracy Board/Canvases/Kris/The Device.canvas","portal":true,"x":-1860,"y":-4800,"width":3420,"height":3000},
+		{
+			"id":"97e71e7fd7fb6144",
+			"type":"file",
+			"file":"Conspiracy Board/Canvases/Kris/Kris' Timeline.canvas",
+			"portal":true,
+			"x":-998,
+			"y":-1518,
+			"width":1480,
+			"height":700,
+			"interdimensionalEdges":[
+				{
+					"id":"03815c78b0b50456",
+					"styleAttributes":{},
+					"toFloating":false,
+					"fromFloating":false,
+					"fromNode":"33f900fc7a8d0819",
+					"fromSide":"right",
+					"toNode":"acportal||97e71e7fd7fb6144||3bbf5bd423f74cc2",
+					"toSide":"left",
+					"color":"4"
+				},
+				{
+					"id":"24d756f15cb5c5ff",
+					"styleAttributes":{},
+					"toFloating":false,
+					"fromNode":"ff40d377e4df8c0e",
+					"fromSide":"right",
+					"toNode":"acportal||97e71e7fd7fb6144||3bbf5bd423f74cc2",
+					"toSide":"left",
+					"color":"4"
+				}
+			]
 		}
 	],
 	"edges":[
