@@ -1,29 +1,6 @@
 {
 	"nodes":[
 		{"id":"d16796cd98fb4131","type":"group","x":-240,"y":-240,"width":1820,"height":940,"color":"4","label":"MOURNINGDEW Phenomina"},
-		{"id":"c57999a99d4df236","type":"link","url":"https://www.youtube.com/embed/lSocQtWuye0","x":920,"y":-20,"width":640,"height":360,"color":"4"},
-		{
-			"id":"f5df8ed9471848c8",
-			"type":"text",
-			"text":"Ditto, but for the second video w/ PENNY's creation.\n\n...Why was \"protecting their identity\" required?",
-			"styleAttributes":{},
-			"x":1030,
-			"y":-180,
-			"width":420,
-			"height":80,
-			"color":"1"
-		},
-		{
-			"id":"f1b97ee5ea38e849",
-			"type":"text",
-			"text":"Recovered from a source who took extreme measures to cover their identity. No comments.",
-			"styleAttributes":{},
-			"x":1050,
-			"y":390,
-			"width":380,
-			"height":60,
-			"color":"4"
-		},
 		{
 			"id":"5e5c33bd535c4c3a",
 			"type":"text",
@@ -92,7 +69,30 @@
 			"height":120,
 			"color":"1"
 		},
-		{"id":"127b3c80863a3421","type":"file","file":"Conspiracy Board/Events/Media/Outside The Device/Head_Reconstructed.png","x":740,"y":549,"width":62,"height":60,"color":"1"}
+		{"id":"127b3c80863a3421","type":"file","file":"Conspiracy Board/Events/Media/Outside The Device/Head_Reconstructed.png","x":740,"y":549,"width":62,"height":60,"color":"1"},
+		{"id":"c57999a99d4df236","type":"link","url":"https://www.youtube.com/embed/lSocQtWuye0","x":920,"y":-20,"width":640,"height":360,"color":"4"},
+		{
+			"id":"f5df8ed9471848c8",
+			"type":"text",
+			"text":"Ditto, but for the second video w/ PENNY's creation.\n\n...Why was \"protecting their identity\" required?",
+			"styleAttributes":{},
+			"x":1030,
+			"y":-180,
+			"width":420,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"f1b97ee5ea38e849",
+			"type":"text",
+			"text":"Recovered from a source who took extreme measures to cover their identity. No comments.",
+			"styleAttributes":{},
+			"x":1050,
+			"y":390,
+			"width":380,
+			"height":60,
+			"color":"4"
+		}
 	],
 	"edges":[
 		{
