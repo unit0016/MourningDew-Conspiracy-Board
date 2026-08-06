@@ -15,9 +15,9 @@
               "state": {
                 "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
                 "viewState": {
-                  "x": 16138.698260919258,
-                  "y": -4583.547374648183,
-                  "zoom": 0.1872145135061442
+                  "x": 1594.0067962929434,
+                  "y": -1512.0057845208726,
+                  "zoom": -1.666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -44,7 +44,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -189,17 +191,18 @@
   },
   "active": "2e03ee4f7e5c44b2",
   "lastOpenFiles": [
-    "Conspiracy Board/Canvases/Outside The Device/MOURNINGDEW Phenomina.canvas",
+    "Conspiracy Board/Canvases/Kris/Before The Story.canvas",
+    "Conspiracy Board/Canvases/Kris/Kris' Timeline.canvas",
     "Conspiracy Board/Canvases/Kris/Kris.canvas",
+    "Conspiracy Board/Canvases/Outside The Device/MOURNINGDEW Phenomina.canvas",
+    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
     "Conspiracy Board/Canvases/Kris/The Lake.canvas",
     "Conspiracy Board/Canvases/Kris/The Device.canvas",
     "Conspiracy Board/Canvases/Kris/Kris Q&A.md",
     "Conspiracy Board/Events/Media/Kris/Kris D'vina/d'vina room chair.png",
     "Conspiracy Board/Canvases/Outside The Device/Pearl/Pearl's Timeline.canvas",
-    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
     "Conspiracy Board/Canvases/Unsorted IC Text.canvas",
     "Conspiracy Board/Canvases/Consultations/Consultations.canvas",
-    "Conspiracy Board/Canvases/Kris/Kris' Timeline.canvas",
     "Conspiracy Board/Canvases/Outside The Device/Unknown Playthrough.canvas",
     "Conspiracy Board/Events/Media/Outside The Device/Head_Reconstructed.png.0.pdnSave",
     "Conspiracy Board/Events/Media/Outside The Device/Head_Reconstructed.png",
@@ -207,7 +210,6 @@
     "Conspiracy Board/Events/Media/Outside The Device",
     "Conspiracy Board/Events/Media/Outside The Device/CH5 Secret Boss Lyrics.png",
     "Conspiracy Board/Canvases/Outside The Device",
-    "Conspiracy Board/Canvases/PENNY, Misc. Metacommunications, Et Al.canvas",
     "Conspiracy Board/Events/Media/Metacommunication/Lake 2.jpg",
     "Conspiracy Board/Events/Media/Kris/krisdreemurrkris/PENNY'S Creation.mp4",
     "Conspiracy Board/Events/Media/Kris/krisdreemurrkris/What did you think.png",

@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"d16796cd98fb4131","type":"group","x":-240,"y":-240,"width":1820,"height":940,"color":"4","label":"MOURNINGDEW Phenomina"},
+		{"id":"d16796cd98fb4131","type":"group","x":-240,"y":-240,"width":1820,"height":840,"color":"4","label":"MOURNINGDEW Phenomina"},
 		{
 			"id":"5e5c33bd535c4c3a",
 			"type":"text",
@@ -58,18 +58,6 @@
 			"height":180,
 			"color":"4"
 		},
-		{
-			"id":"9850a5390f2dc3df",
-			"type":"text",
-			"text":"I cross-referenced the lyrics, they are the normal Mew Mew Magic lyrics. What isn't normal, however, is...\nThat's a head. Here's a reconstructed version, though it's very strangely upscaled verse whatever it's original resolution was.",
-			"styleAttributes":{},
-			"x":220,
-			"y":560,
-			"width":480,
-			"height":120,
-			"color":"1"
-		},
-		{"id":"127b3c80863a3421","type":"file","file":"Conspiracy Board/Events/Media/Outside The Device/Head_Reconstructed.png","x":740,"y":549,"width":62,"height":60,"color":"1"},
 		{"id":"c57999a99d4df236","type":"link","url":"https://www.youtube.com/embed/lSocQtWuye0","x":920,"y":-20,"width":640,"height":360,"color":"4"},
 		{
 			"id":"f5df8ed9471848c8",
@@ -138,27 +126,6 @@
 			"toNode":"86c9c30483a3f0a7",
 			"toSide":"right",
 			"color":"4"
-		},
-		{
-			"id":"f4e9425619e8fd0c",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"9850a5390f2dc3df",
-			"fromSide":"left",
-			"toNode":"86c9c30483a3f0a7",
-			"toSide":"bottom",
-			"color":"1"
-		},
-		{
-			"id":"25f4a6425c0e3a98",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"9850a5390f2dc3df",
-			"fromSide":"right",
-			"toNode":"127b3c80863a3421",
-			"toSide":"left",
-			"color":"1"
 		},
 		{
 			"id":"99b42d79b402127e",
