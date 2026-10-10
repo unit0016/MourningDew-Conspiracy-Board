@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"c83a97a3a7a37212","type":"group","x":460,"y":-120,"width":1940,"height":2440,"color":"4","label":"Captain Hook"},
+		{"id":"c83a97a3a7a37212","type":"group","x":460,"y":-120,"width":1940,"height":2460,"color":"4","label":"Captain Hook"},
 		{"id":"4ec72ec03176dedd","type":"group","x":-360,"y":-120,"width":740,"height":2200,"color":"4","label":"'UNUSED' Text Dump"},
 		{"id":"2bd46b24684b6066","type":"group","x":1600,"y":-40,"width":780,"height":2080,"color":"6","label":"Device Startup Transcript"},
-		{"id":"a2d9821005d90f56","type":"group","x":480,"y":1780,"width":540,"height":520,"color":"5","label":"VOID"},
+		{"id":"a2d9821005d90f56","type":"group","x":480,"y":1800,"width":940,"height":520,"color":"5","label":"VOID"},
 		{
 			"id":"576f0bafc851e749",
 			"type":"text",
@@ -754,18 +754,29 @@
 			"height":60,
 			"color":"1"
 		},
-		{"id":"7f554b653821407e","type":"link","url":"https://mourningdew.phinarina.xyz/void","x":485,"y":1890,"width":510,"height":400,"color":"4"},
+		{
+			"id":"8080c580a8d43552",
+			"type":"text",
+			"text":"The webpage is a recreation of the 'THANK YOU' ARG form input with *three* fields instead of two.\nUpon submission, text changes to:\n'I... Let me count and get back to you on that...'",
+			"styleAttributes":{},
+			"x":1020,
+			"y":1820,
+			"width":380,
+			"height":160,
+			"color":"1"
+		},
 		{
 			"id":"cd38ca5f39adc7db",
 			"type":"text",
 			"text":"* Hey, kid. We managed to fix up this old thingamajig for you.",
 			"styleAttributes":{},
 			"x":485,
-			"y":1800,
+			"y":1820,
 			"width":510,
 			"height":70,
 			"color":"4"
-		}
+		},
+		{"id":"7f554b653821407e","type":"link","url":"https://mourningdew.phinarina.xyz/void","x":485,"y":1910,"width":510,"height":400,"color":"4"}
 	],
 	"edges":[
 		{
