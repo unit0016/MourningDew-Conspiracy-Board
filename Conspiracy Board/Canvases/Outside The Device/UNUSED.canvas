@@ -76,6 +76,61 @@
 			"width":260,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"d105f2b89c18b0b5",
+			"type":"text",
+			"text":"`WRONG! WRONG! WRONG!!!`",
+			"styleAttributes":{},
+			"x":-170,
+			"y":640,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"6faa8dcc104e6300",
+			"type":"text",
+			"text":"`\"Hey, Ralsei. Looks like Kris is trying to tell you something.\"`",
+			"styleAttributes":{},
+			"x":-260,
+			"y":740,
+			"width":440,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"id":"2623934d699aebfd",
+			"type":"text",
+			"text":"`\"But...\"`",
+			"styleAttributes":{},
+			"x":-170,
+			"y":860,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"4c74da39fc907351",
+			"type":"text",
+			"text":"`\"Can you see me...?\"`",
+			"styleAttributes":{},
+			"x":-170,
+			"y":960,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"b9b7617b02ca5a1a",
+			"type":"text",
+			"text":"`\"(Tired)\"`",
+			"styleAttributes":{},
+			"x":-170,
+			"y":1060,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[
@@ -141,6 +196,58 @@
 			"fromNode":"524234e5f6dc554e",
 			"fromSide":"bottom",
 			"toNode":"e7e3721a56474107",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"b8791001372af566",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e7e3721a56474107",
+			"fromSide":"bottom",
+			"toNode":"d105f2b89c18b0b5",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"ef4bc649db685a51",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"d105f2b89c18b0b5",
+			"fromSide":"bottom",
+			"toNode":"6faa8dcc104e6300",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"c8137a50fb010e1a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"6faa8dcc104e6300",
+			"fromSide":"bottom",
+			"toNode":"2623934d699aebfd",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"a0aa1a19f602437a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2623934d699aebfd",
+			"fromSide":"bottom",
+			"toNode":"4c74da39fc907351",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"b15054b1b71d63da",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4c74da39fc907351",
+			"fromSide":"bottom",
+			"toNode":"b9b7617b02ca5a1a",
 			"toSide":"top",
 			"color":"4"
 		}
