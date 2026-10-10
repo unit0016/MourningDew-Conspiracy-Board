@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{
+			"id":"b1c63d9350c58a90",
+			"type":"text",
+			"text":"unused_0 = stringsetloc(\"Hello?\", \"UNUSED_slash_UNUSED_gml_2_0_b\")",
+			"styleAttributes":{},
+			"x":-320,
+			"y":-80,
+			"width":560,
+			"height":60,
+			"color":"1"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
