@@ -32,6 +32,17 @@
 			"width":260,
 			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"31bee1ffedf0104a",
+			"type":"text",
+			"text":"`\"This may be a strange question, but...\"`",
+			"styleAttributes":{},
+			"x":-240,
+			"y":240,
+			"width":400,
+			"height":60,
+			"color":"1"
 		}
 	],
 	"edges":[
@@ -54,6 +65,17 @@
 			"fromNode":"42ed4f310450cd6f",
 			"fromSide":"bottom",
 			"toNode":"0aba6a818a475e54",
+			"toSide":"top",
+			"color":"1"
+		},
+		{
+			"id":"32e1c4cbf64f08ca",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"0aba6a818a475e54",
+			"fromSide":"bottom",
+			"toNode":"31bee1ffedf0104a",
 			"toSide":"top",
 			"color":"1"
 		}
