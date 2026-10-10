@@ -757,12 +757,12 @@
 		{
 			"id":"8080c580a8d43552",
 			"type":"text",
-			"text":"The webpage is a recreation of the 'THANK YOU' ARG form input with *three* fields instead of two.\nUpon submission, text changes to:\n'I... Let me count and get back to you on that...'",
+			"text":"The webpage is a recreation of the 'THANK YOU' ARG form input with *three* fields instead of two.\nUpon submission, text changes to one of the following:\n'I... Let me count and get back to you on that...'\n'I don't know who he is, but he's right'",
 			"styleAttributes":{},
 			"x":1020,
 			"y":1820,
 			"width":380,
-			"height":160,
+			"height":220,
 			"color":"1"
 		},
 		{
