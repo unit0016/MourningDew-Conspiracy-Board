@@ -392,7 +392,7 @@
 		{
 			"id":"8080c580a8d43552",
 			"type":"text",
-			"text":"The webpage is a recreation of the 'THANK YOU' ARG form input with *three* fields instead of two. The instructions provided were:\n1. - Speak. Normal.\n2. - I Just Cannot Compute It\n\nUpon submission, text changes to one of the following depending on certain criteria:\n'I... Let me count and get back to you on that...'\n'I don't know who he is, but he's right'",
+			"text":"The webpage is a recreation of the 'THANK YOU' ARG form input with *three* fields instead of two.\nUpon submission, text changes to one of the following depending on certain criteria:\n'I... Let me count and get back to you on that...'\n'I don't know who he is, but he's right'",
 			"styleAttributes":{},
 			"x":1020,
 			"y":1820,
