@@ -10,9 +10,54 @@
 			"width":560,
 			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"42ed4f310450cd6f",
+			"type":"text",
+			"text":"`unused_1 = stringsetloc(\"Like, uh, hey, maybe things took a weird route right now...\", \"UNUSED_slash_UNUSED_gml_3_0_b\")`",
+			"styleAttributes":{},
+			"x":-320,
+			"y":20,
+			"width":560,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"id":"0aba6a818a475e54",
+			"type":"text",
+			"text":"`\"I... I'm scared...\"`",
+			"styleAttributes":{},
+			"x":-170,
+			"y":140,
+			"width":260,
+			"height":60,
+			"color":"1"
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"7c5099b1fb14d4b3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"b1c63d9350c58a90",
+			"fromSide":"bottom",
+			"toNode":"42ed4f310450cd6f",
+			"toSide":"top",
+			"color":"1"
+		},
+		{
+			"id":"c3d5a07ebea85b2d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"42ed4f310450cd6f",
+			"fromSide":"bottom",
+			"toNode":"0aba6a818a475e54",
+			"toSide":"top",
+			"color":"1"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
