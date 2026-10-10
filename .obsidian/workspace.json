@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Conspiracy Board/Canvases/Outside The Device/UNUSED & Webhook.canvas",
+                "file": "Conspiracy Board/Canvases/Kris/UNUSED & Webhook.canvas",
                 "viewState": {
-                  "x": 1330.8419158594793,
-                  "y": 1073.2072764802028,
-                  "zoom": -0.09550996547054103
+                  "x": 2681.68064422874,
+                  "y": 1557.8950058460346,
+                  "zoom": -1.8276103443568268
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -191,10 +191,10 @@
   },
   "active": "2e03ee4f7e5c44b2",
   "lastOpenFiles": [
-    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
-    "index.md",
     "readme.md",
-    "Conspiracy Board/Canvases/Outside The Device/UNUSED & Webhook.canvas",
+    "Conspiracy Board/Canvases/Kris/UNUSED & Webhook.canvas",
+    "index.md",
+    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
     "Conspiracy Board/Canvases/Kris/Before The Story.canvas",
     "Conspiracy Board/Canvases/Kris/Kris' Timeline.canvas",
     "Conspiracy Board/Canvases/Kris/Kris.canvas",
