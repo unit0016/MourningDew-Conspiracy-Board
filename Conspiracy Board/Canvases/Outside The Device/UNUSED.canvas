@@ -43,6 +43,17 @@
 			"width":400,
 			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"1ff5118e502544c0",
+			"type":"text",
+			"text":"\"... Gosh, who am I kidding?\"",
+			"styleAttributes":{},
+			"x":-170,
+			"y":340,
+			"width":260,
+			"height":60,
+			"color":"1"
 		}
 	],
 	"edges":[
@@ -76,6 +87,17 @@
 			"fromNode":"0aba6a818a475e54",
 			"fromSide":"bottom",
 			"toNode":"31bee1ffedf0104a",
+			"toSide":"top",
+			"color":"1"
+		},
+		{
+			"id":"d61ffd8fe5dbb717",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"31bee1ffedf0104a",
+			"fromSide":"bottom",
+			"toNode":"1ff5118e502544c0",
 			"toSide":"top",
 			"color":"1"
 		}
