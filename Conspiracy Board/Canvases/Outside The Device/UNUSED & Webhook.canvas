@@ -364,6 +364,17 @@
 			"width":320,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"daccbb5ef3d7f58c",
+			"type":"text",
+			"text":"Mm. Being alone. So good.",
+			"styleAttributes":{},
+			"x":580,
+			"y":990,
+			"width":260,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[
@@ -699,6 +710,17 @@
 			"fromNode":"a5639c3ec01ac4df",
 			"fromSide":"bottom",
 			"toNode":"97f2a7dc136f8a30",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"4007e736ca0b6eca",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"97f2a7dc136f8a30",
+			"fromSide":"bottom",
+			"toNode":"daccbb5ef3d7f58c",
 			"toSide":"top",
 			"color":"4"
 		}
