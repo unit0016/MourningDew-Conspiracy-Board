@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"48b1a38c450e965a","type":"group","x":-620,"y":-40,"width":800,"height":340,"color":"4","label":"crystaline"},
+		{"id":"48b1a38c450e965a","type":"group","x":-620,"y":-40,"width":800,"height":480,"color":"4","label":"crystaline"},
 		{
 			"id":"20bc0122a45344da",
 			"type":"text",
@@ -22,7 +22,8 @@
 			"width":260,
 			"height":110,
 			"color":"1"
-		}
+		},
+		{"id":"43e3a9f31383c368","type":"file","file":"Conspiracy Board/Events/Media/DELTA RUNE/Unknown Dialogue, Male.png","x":-600,"y":300,"width":400,"height":115}
 	],
 	"edges":[
 		{

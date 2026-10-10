@@ -24,7 +24,7 @@
 			]
 		},
 		{"id":"4c8ca9b7f1fc2a2f","type":"file","file":"Conspiracy Board/Canvases/The Town Of DELTA RUNE/A Town Called DELTA RUNE.canvas","portal":true,"x":-9120,"y":-2120,"width":2480,"height":1420},
-		{"id":"aaa71d8f65414f56","type":"file","file":"Conspiracy Board/Canvases/Unsorted IC Text.canvas","portal":true,"x":-6620,"y":-2120,"width":900,"height":440},
+		{"id":"aaa71d8f65414f56","type":"file","file":"Conspiracy Board/Canvases/Unsorted IC Text.canvas","portal":true,"x":-6620,"y":-2120,"width":900,"height":580},
 		{"id":"db3773c3dec7c03d","type":"file","file":"Conspiracy Board/Canvases/Outside The Device/Unknown Playthrough.canvas","portal":true,"x":-6620,"y":-1640,"width":560,"height":420},
 		{"id":"b28bf6d6365eda54","type":"file","file":"Conspiracy Board/Canvases/Outside The Device/Onyx's Timeline.canvas","portal":true,"x":-3420,"y":-460,"width":876,"height":600},
 		{"id":"e65c4ac87700c850","type":"file","file":"Conspiracy Board/Canvases/Outside The Device/Player Timeline.canvas","portal":true,"x":-3420,"y":220,"width":1220,"height":580},
