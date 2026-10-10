@@ -392,7 +392,7 @@
 		{
 			"id":"8080c580a8d43552",
 			"type":"text",
-			"text":"The webpage is a recreation of the 'THANK YOU' ARG form input with *three* fields instead of two.\nUpon submission, text changes to one of the following depending on certain criteria:\n'I... Let me count and get back to you on that...'\n'I don't know who he is, but he's right'",
+			"text":"The webpage is a recreation of the 'THANK YOU' ARG form input with *three* fields instead of two.\nUpon submission, text changes to one of the following depending on certain criteria:\n'I... Let me count and get back to you on that...'\n'I don't know who he is, but he's right'\n\nThe first box was for an email.\nThe second box was for asking a question or feeding something to Noelle for her to repeat back to us.\nThe third box's purpose is unknown, so far theorized to be our name?",
 			"styleAttributes":{},
 			"x":1020,
 			"y":1820,
@@ -1507,6 +1507,17 @@
 			"toNode":"7f554b653821407e",
 			"toSide":"top",
 			"color":"4"
+		},
+		{
+			"id":"b58d8a0d586549a6",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"7f554b653821407e",
+			"fromSide":"right",
+			"toNode":"8080c580a8d43552",
+			"toSide":"left",
+			"color":"1"
 		}
 	],
 	"metadata":{
