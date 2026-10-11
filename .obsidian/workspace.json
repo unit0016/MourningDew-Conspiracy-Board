@@ -15,9 +15,9 @@
               "state": {
                 "file": "Conspiracy Board/Canvases/Kris/UNUSED & Webhook.canvas",
                 "viewState": {
-                  "x": 1036.8375068178884,
-                  "y": 3749.3323775817157,
-                  "zoom": -0.5501809241858149
+                  "x": 1080.9734513065848,
+                  "y": 4460.729310975458,
+                  "zoom": -1.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -191,6 +191,8 @@
   },
   "active": "2e03ee4f7e5c44b2",
   "lastOpenFiles": [
+    "Conspiracy Board/Events/Media/Noelle",
+    "Conspiracy Board/Events/Media/Noelle/End Recording.mp4",
     "Conspiracy Board/Canvases/Conspiracy Board.canvas",
     "Conspiracy Board/Canvases/Kris/UNUSED & Webhook.canvas",
     "Conspiracy Board/Canvases/Kris/Kris.canvas",
@@ -223,7 +225,6 @@
     "Conspiracy Board/Events/Media/DELTA RUNE/The Cattenheimers",
     "Conspiracy Board/Events/Media/DELTA RUNE",
     "Conspiracy Board/Canvases/The Town Of DELTA RUNE",
-    "Conspiracy Board/Events/Media/DELTA RUNE/Susie",
     "Conspiracy Board/Events/Kris' Birth.md",
     "Conspiracy Board/Events/Consultation/CONSULTATION.md",
     "Conspiracy Board/Events/Consultation/Score Calculation.md",
