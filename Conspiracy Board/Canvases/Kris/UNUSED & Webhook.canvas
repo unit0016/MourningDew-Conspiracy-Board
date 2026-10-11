@@ -1723,6 +1723,50 @@
 			"width":290,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"0d4f56ed785afd7d",
+			"type":"text",
+			"text":"- Miss, I think I still need your help.",
+			"styleAttributes":{},
+			"x":665,
+			"y":5800,
+			"width":310,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"4d7c05df5f6c09da",
+			"type":"text",
+			"text":"- (I wish I had another worm to show me the way...)",
+			"styleAttributes":{},
+			"x":603,
+			"y":5880,
+			"width":435,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"aaaea1972a4b47b0",
+			"type":"text",
+			"text":"- YOU'LL do our project.",
+			"styleAttributes":{},
+			"x":696,
+			"y":5960,
+			"width":250,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"9e8d41580608b54b",
+			"type":"text",
+			"text":"- ... please... tell me..",
+			"styleAttributes":{},
+			"x":716,
+			"y":6040,
+			"width":209,
+			"height":60,
+			"color":"4"
 		}
 	],
 	"edges":[
@@ -3375,6 +3419,47 @@
 			"fromNode":"21a5cc0ce16bf19b",
 			"fromSide":"bottom",
 			"toNode":"1b66109455e32158",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"bce7fb49b758f639",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1b66109455e32158",
+			"fromSide":"bottom",
+			"toNode":"0d4f56ed785afd7d",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"cded51d2238c8cd7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0d4f56ed785afd7d",
+			"fromSide":"bottom",
+			"toNode":"4d7c05df5f6c09da",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"7007719b4de3d669",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"4d7c05df5f6c09da",
+			"fromSide":"bottom",
+			"toNode":"aaaea1972a4b47b0",
+			"toSide":"top",
+			"color":"4"
+		},
+		{
+			"id":"a0094770dcb269f6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"aaaea1972a4b47b0",
+			"fromSide":"bottom",
+			"toNode":"9e8d41580608b54b",
 			"toSide":"top",
 			"color":"4"
 		}
