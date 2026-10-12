@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"eb5f827476b2a41c","type":"group","x":-840,"y":-240,"width":3040,"height":17100,"color":"#ffc800","label":"Captain Hook / Noelle"},
+		{"id":"c2efa8188e7eb92b","type":"file","file":"Conspiracy Board/Canvases/Noelle/UNUSED & Webhook.canvas","portal":true,"x":-720,"y":-160,"width":2860,"height":17020}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

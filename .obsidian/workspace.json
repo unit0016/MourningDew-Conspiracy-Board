@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Conspiracy Board/Canvases/Kris/UNUSED & Webhook.canvas",
+                "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
                 "viewState": {
-                  "x": 882.1393045944094,
-                  "y": 6031.957379829178,
-                  "zoom": -1
+                  "x": -7140.919856872331,
+                  "y": 915.111563061455,
+                  "zoom": -2.666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "UNUSED & Webhook"
+              "title": "Conspiracy Board"
             }
           }
         ]
@@ -191,11 +191,21 @@
   },
   "active": "2e03ee4f7e5c44b2",
   "lastOpenFiles": [
-    "Conspiracy Board/Events/Media/Noelle",
-    "Conspiracy Board/Events/Media/Noelle/End Recording.mp4",
+    "Conspiracy Board/Canvases/Noelle/Captain Hook - Noelle.canvas",
+    "Conspiracy Board/Canvases/Noelle/UNUSED & Webhook.canvas",
+    "Conspiracy Board/Events/Media/Noelle/ch5z_intro.ogg",
+    "Conspiracy Board/Events/Media/Noelle/BONUS_Chaos_King_(Think).ogg",
+    "Conspiracy Board/Events/Media/Noelle/spr_noelle_silo_look_back_transition.gif",
+    "Conspiracy Board/Events/Media/Noelle/牐橯捥彴㔱.mp3",
+    "Conspiracy Board/Events/Media/Noelle/noelle6.mp4",
+    "Conspiracy Board/Events/Media/Noelle/noelle5.mp4",
     "Conspiracy Board/Canvases/Conspiracy Board.canvas",
-    "Conspiracy Board/Canvases/Kris/UNUSED & Webhook.canvas",
+    "Conspiracy Board/Events/Media/Noelle/noelle4.mp4",
+    "Conspiracy Board/Events/Media/Noelle/noelle3.mp4",
+    "Conspiracy Board/Events/Media/Noelle/noelle2.mp4",
     "Conspiracy Board/Canvases/Kris/Kris.canvas",
+    "Conspiracy Board/Canvases/Noelle",
+    "Conspiracy Board/Events/Media/Noelle",
     "Conspiracy Board/Canvases/Kris/Kris' Timeline.canvas",
     "Conspiracy Board/Canvases/Kris/The Device.canvas",
     "Conspiracy Board/Canvases/Kris/The Lake.canvas",
@@ -205,26 +215,15 @@
     "readme.md",
     "index.md",
     "Conspiracy Board/Canvases/Kris/Before The Story.canvas",
-    "Conspiracy Board/Canvases/Outside The Device/MOURNINGDEW Phenomina.canvas",
     "Conspiracy Board/Canvases/Kris/Kris Q&A.md",
     "Conspiracy Board/Events/Media/Kris/Kris D'vina/d'vina room chair.png",
-    "Conspiracy Board/Events/Media/Outside The Device/Head_Reconstructed.png.0.pdnSave",
     "Conspiracy Board/Events/Media/Outside The Device/Head_Reconstructed.png",
     "Conspiracy Board/Events/Media/Outside The Device/CH5 Secret Boss Lyrics - Copy.png",
-    "Conspiracy Board/Events/Media/Outside The Device",
     "Conspiracy Board/Events/Media/Outside The Device/CH5 Secret Boss Lyrics.png",
-    "Conspiracy Board/Canvases/Outside The Device",
     "Conspiracy Board/Events/Media/Metacommunication/Lake 2.jpg",
-    "Conspiracy Board/Events/Media/Kris/krisdreemurrkris/PENNY'S Creation.mp4",
     "Conspiracy Board/Events/Media/Kris/krisdreemurrkris/What did you think.png",
-    "Conspiracy Board/Events/Media/Kris/krisdreemurrkris/Unknown Date 2026.mp4",
-    "Conspiracy Board/Events/Media/Kris/krisdreemurrkris/The Device",
     "Conspiracy Board/Events/Media/Kris/krisdreemurrkris/The Device/MOURNINGDEW Responses.png",
     "Conspiracy Board/Events/Media/Consultations/Round 1/Jegneg Consultation.png",
-    "Conspiracy Board/Events/Media/DELTA RUNE/Milk Looker Dialogue.jpg",
-    "Conspiracy Board/Events/Media/DELTA RUNE/The Cattenheimers",
-    "Conspiracy Board/Events/Media/DELTA RUNE",
-    "Conspiracy Board/Canvases/The Town Of DELTA RUNE",
     "Conspiracy Board/Events/Kris' Birth.md",
     "Conspiracy Board/Events/Consultation/CONSULTATION.md",
     "Conspiracy Board/Events/Consultation/Score Calculation.md",
