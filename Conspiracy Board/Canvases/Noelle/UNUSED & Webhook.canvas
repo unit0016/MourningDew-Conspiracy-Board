@@ -269,28 +269,6 @@
 			"color":"3"
 		},
 		{
-			"id":"ca4b911d70ca9410",
-			"type":"text",
-			"text":"hello Captain Hook. - genesis",
-			"styleAttributes":{},
-			"x":741,
-			"y":11440,
-			"width":260,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"5888b9fa872c2f6e",
-			"type":"text",
-			"text":"why does everyone call me that faha",
-			"styleAttributes":{},
-			"x":712,
-			"y":11520,
-			"width":320,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"31bee1ffedf0104a",
 			"type":"text",
 			"text":"`\"This may be a strange question, but...\"`",
@@ -1944,62 +1922,6 @@
 			"height":85,
 			"color":"1"
 		},
-		{"id":"2c1fcf02533b003a","type":"file","file":"Conspiracy Board/Events/Media/Noelle/noelle3.mp4","x":669,"y":8000,"width":400,"height":225,"color":"4"},
-		{
-			"id":"764e18bdedf7a34f",
-			"type":"text",
-			"text":"- W-wait, aren't you supposed to be ACTing!?",
-			"styleAttributes":{},
-			"x":669,
-			"y":8240,
-			"width":400,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"23ee6d90053d1b8b",
-			"type":"text",
-			"text":"- End this dream... won't you?",
-			"styleAttributes":{},
-			"x":729,
-			"y":8400,
-			"width":280,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"74d6f5267084c6a2",
-			"type":"text",
-			"text":"- (Where to next...?)",
-			"styleAttributes":{},
-			"x":769,
-			"y":8480,
-			"width":201,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"80367bf6082b44f4",
-			"type":"text",
-			"text":"It's time to wake up...",
-			"styleAttributes":{},
-			"x":770,
-			"y":8560,
-			"width":200,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"96734f028c075f82",
-			"type":"text",
-			"text":"- W... Wait! Wait wait wait!!",
-			"styleAttributes":{},
-			"x":739,
-			"y":8640,
-			"width":260,
-			"height":60,
-			"color":"4"
-		},
 		{
 			"id":"51f55db2edb9b6df",
 			"type":"text",
@@ -2090,358 +2012,85 @@
 			"color":"4"
 		},
 		{
-			"id":"a66a5d499a3e5dbb",
+			"id":"9740417e8a61bda2",
 			"type":"text",
-			"text":"- (This cardboard stand is actually just a fake cardboard stand of a cardboard stand.)",
+			"text":"okay",
 			"styleAttributes":{},
-			"x":669,
-			"y":8320,
-			"width":400,
+			"x":992,
+			"y":15920,
+			"width":80,
 			"height":60,
 			"color":"4"
 		},
 		{
-			"id":"68d7a17ab12f67bb",
+			"id":"4561e114f785323e",
 			"type":"text",
-			"text":"- (Let's find a new home for him fast, OK, Kris?)",
+			"text":"um\nhuman",
 			"styleAttributes":{},
-			"x":674,
-			"y":9360,
-			"width":394,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"644254c390cdf2a2",
-			"type":"text",
-			"text":"That does not sound like a very friendly homecoming.",
-			"styleAttributes":{},
-			"x":651,
-			"y":9440,
-			"width":440,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"d0ab7a2384b763db",
-			"type":"text",
-			"text":"- ... look. There was a misunderstanding, and...",
-			"styleAttributes":{},
-			"x":651,
-			"y":9520,
-			"width":440,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"865bd2d1f49d0b0d",
-			"type":"text",
-			"text":"- (Dude... we can't go back in there now.)",
-			"styleAttributes":{},
-			"x":696,
-			"y":9600,
-			"width":350,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"d89c6523f845ce20",
-			"type":"text",
-			"text":"- (You'll find somewhere else to sleep.)",
-			"styleAttributes":{},
-			"x":702,
-			"y":9680,
-			"width":339,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"c751146cbe71b0ba",
-			"type":"text",
-			"text":"WHAT MISUNDERSTANDING?",
-			"styleAttributes":{},
-			"x":741,
-			"y":9760,
-			"width":260,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"d9b53b4ba5f1374a",
-			"type":"text",
-			"text":"- Ha! I can't go home at all because I'm so scared!",
-			"styleAttributes":{},
-			"x":661,
-			"y":9840,
-			"width":421,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"3a15ad80bec782e6",
-			"type":"text",
-			"text":"- (Nothing here except for poor architectural engineering.)",
-			"styleAttributes":{},
-			"x":632,
-			"y":9920,
-			"width":479,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"ed0470641aabc1d0",
-			"type":"text",
-			"text":"is home unsafe?",
-			"styleAttributes":{},
-			"x":791,
-			"y":10000,
-			"width":160,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"2184449acc1e6c95",
-			"type":"text",
-			"text":"- Yes...?",
-			"styleAttributes":{},
-			"x":812,
-			"y":10080,
-			"width":118,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"10a053d19d613ac6",
-			"type":"text",
-			"text":"- I think I found the exit!",
-			"styleAttributes":{},
-			"x":745,
-			"y":8720,
-			"width":250,
-			"height":60,
-			"color":"4"
-		},
-		{"id":"fe6cf4f2fab39752","type":"file","file":"Conspiracy Board/Events/Media/Noelle/noelle4.mp4","x":670,"y":8800,"width":400,"height":225,"color":"4"},
-		{
-			"id":"9af160ecf4448225",
-			"type":"text",
-			"text":"I do have an inquiry, if you would be so kind as to answer before we proceed...",
-			"styleAttributes":{},
-			"x":670,
-			"y":9040,
-			"width":400,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"32ef7407bbae27d7",
-			"type":"text",
-			"text":"What is your intention, anyhow?",
-			"styleAttributes":{},
-			"x":733,
-			"y":9120,
-			"width":275,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"e19a2133e3466414",
-			"type":"text",
-			"text":"It's time to go home,",
-			"styleAttributes":{},
-			"x":771,
-			"y":9200,
-			"width":200,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"6660da174385a4b1",
-			"type":"text",
-			"text":"- Tear down my house!! Tear down my kids!!",
-			"styleAttributes":{},
-			"x":676,
-			"y":9280,
-			"width":390,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"a25b02d58f71fdb1",
-			"type":"text",
-			"text":"holy \\$!\\$?",
-			"styleAttributes":{},
-			"x":812,
-			"y":11120,
-			"width":118,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"9c5822314f8a6c4a",
-			"type":"text",
-			"text":"hi guys",
-			"styleAttributes":{},
-			"x":821,
-			"y":11200,
+			"x":982,
+			"y":16000,
 			"width":100,
-			"height":60,
+			"height":80,
 			"color":"4"
 		},
+		{"id":"c04dd78d802333da","type":"file","file":"Conspiracy Board/Events/Media/Noelle/牐橯捥彴㔱.mp3","x":832,"y":16100,"width":400,"height":42,"color":"4"},
+		{"id":"ef16af1abdb5a6c6","type":"file","file":"Conspiracy Board/Events/Media/Noelle/BONUS_Chaos_King_(Think).ogg","x":832,"y":16159,"width":400,"height":42,"color":"4"},
 		{
-			"id":"aa771fb5dd5f37f7",
+			"id":"149e1149be018898",
 			"type":"text",
-			"text":"there's still limits",
+			"text":"Probably just here because it won't actually be used in-game and was only used for testing, cool it was done like this though.",
 			"styleAttributes":{},
-			"x":782,
-			"y":11280,
-			"width":178,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"db3dcea4672c00c8",
-			"type":"text",
-			"text":"i can only use words that are in the text",
-			"styleAttributes":{},
-			"x":742,
-			"y":11360,
+			"x":500,
+			"y":16100,
 			"width":260,
-			"height":60,
+			"height":160,
+			"color":"1"
+		},
+		{
+			"id":"d71c85f6d8a9b562",
+			"type":"text",
+			"text":"i feel sick i need to sleep\nthank you",
+			"styleAttributes":{},
+			"x":922,
+			"y":16220,
+			"width":220,
+			"height":80,
 			"color":"4"
 		},
 		{
-			"id":"e17ed5568ecf2bec",
+			"id":"d838078477ada448",
 			"type":"text",
-			"text":"I'm tired. Can I just beat someone up?",
+			"text":"i'll come back tomorrow alright\ndon't forgAј⴦/󁳰󯈳D抵̀#`.䁬񀲾𷪣1X㦫w舠>>Ȧ􌥝Tԣ󪾲7K5",
 			"styleAttributes":{},
-			"x":711,
-			"y":10320,
-			"width":320,
-			"height":60,
+			"x":818,
+			"y":16320,
+			"width":428,
+			"height":80,
 			"color":"4"
 		},
 		{
-			"id":"22661d3e0b8629b0",
+			"id":"560dc7425a115f12",
 			"type":"text",
-			"text":"- ... I mean, sometimes I miss...",
+			"text":"This line is not currently in service.\nI'm sorry to cut your reunion short!\nBut frankly, this is getting boring. Wouldn't you agree?\nNo, you must wait! That guiding light was me, but I tire of this role.\nYou'll do it for me instead!\nSo just hang on tight for a little bit. Things will fall into place! You'll see her very soon.",
 			"styleAttributes":{},
-			"x":728,
-			"y":10400,
-			"width":288,
-			"height":60,
+			"x":818,
+			"y":16420,
+			"width":428,
+			"height":260,
 			"color":"4"
 		},
 		{
-			"id":"c891d157b674313d",
+			"id":"4306949c7772d32e",
 			"type":"text",
-			"text":"Everything.",
+			"text":"Might be the red-texter taunting krisdreemurrkris earlier, maybe?",
 			"styleAttributes":{},
-			"x":801,
-			"y":10480,
-			"width":140,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"2493dcc9a7e548f4",
-			"type":"text",
-			"text":"- Maybe if I just...",
-			"styleAttributes":{},
-			"x":779,
-			"y":10560,
-			"width":185,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"13c1bdd9a0a7387b",
-			"type":"text",
-			"text":"＊ わたし　そっちを 　 歩いてみるね…？",
-			"styleAttributes":{},
-			"x":692,
-			"y":10640,
-			"width":358,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"7aa0fa76d42e06fa",
-			"type":"text",
-			"text":"* 気が散るだろ！！",
-			"styleAttributes":{},
-			"x":742,
-			"y":10720,
+			"x":520,
+			"y":16505,
 			"width":260,
-			"height":60,
-			"color":"4"
+			"height":90,
+			"color":"1"
 		},
-		{
-			"id":"43427c67de000305",
-			"type":"text",
-			"text":"があああああ！！",
-			"styleAttributes":{},
-			"x":781,
-			"y":10800,
-			"width":181,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"b16ed6c80ee41c42",
-			"type":"text",
-			"text":"と…止まれ！ 目が回る！",
-			"styleAttributes":{},
-			"x":751,
-			"y":10880,
-			"width":240,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"7cda9c9818665982",
-			"type":"text",
-			"text":"did it work",
-			"styleAttributes":{},
-			"x":807,
-			"y":10960,
-			"width":128,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"f1e6d5db56b2dd50",
-			"type":"text",
-			"text":"oh my GOD",
-			"styleAttributes":{},
-			"x":802,
-			"y":11040,
-			"width":140,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"0199355e22b89ae4",
-			"type":"text",
-			"text":"- ... I'm... not sure.",
-			"styleAttributes":{},
-			"x":771,
-			"y":10160,
-			"width":201,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"65a6cf65ec1d163b",
-			"type":"text",
-			"text":"EXPLAIN, PLEASE.",
-			"styleAttributes":{},
-			"x":778,
-			"y":10240,
-			"width":188,
-			"height":60,
-			"color":"5"
-		},
+		{"id":"cf08323dac49e706","type":"file","file":"Conspiracy Board/Events/Media/Noelle/ch5z_intro.ogg","x":832,"y":16700,"width":400,"height":42,"color":"4"},
 		{
 			"id":"0e8c6e2d39a1ed3b",
 			"type":"text",
@@ -2531,17 +2180,6 @@
 			"color":"5"
 		},
 		{
-			"id":"33ce0cc68643f6c5",
-			"type":"text",
-			"text":"i don't know what to say to make you trust me",
-			"styleAttributes":{},
-			"x":842,
-			"y":12720,
-			"width":380,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"619c5f42aa515e2e",
 			"type":"text",
 			"text":"Who are you?",
@@ -2553,17 +2191,6 @@
 			"color":"5"
 		},
 		{
-			"id":"5a508b3de6e9658f",
-			"type":"text",
-			"text":"i don't really remember it but yes",
-			"styleAttributes":{},
-			"x":891,
-			"y":12340,
-			"width":280,
-			"height":60,
-			"color":"4"
-		},
-		{
 			"id":"d28efbd51ac7decc",
 			"type":"text",
 			"text":"i'm noelle",
@@ -2571,6 +2198,83 @@
 			"x":972,
 			"y":12180,
 			"width":120,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"a25b02d58f71fdb1",
+			"type":"text",
+			"text":"holy \\$!\\$?",
+			"styleAttributes":{},
+			"x":812,
+			"y":11120,
+			"width":118,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"9c5822314f8a6c4a",
+			"type":"text",
+			"text":"hi guys",
+			"styleAttributes":{},
+			"x":821,
+			"y":11200,
+			"width":100,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"aa771fb5dd5f37f7",
+			"type":"text",
+			"text":"there's still limits",
+			"styleAttributes":{},
+			"x":782,
+			"y":11280,
+			"width":178,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"db3dcea4672c00c8",
+			"type":"text",
+			"text":"i can only use words that are in the text",
+			"styleAttributes":{},
+			"x":742,
+			"y":11360,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"f1e6d5db56b2dd50",
+			"type":"text",
+			"text":"oh my GOD",
+			"styleAttributes":{},
+			"x":802,
+			"y":11040,
+			"width":140,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"33ce0cc68643f6c5",
+			"type":"text",
+			"text":"i don't know what to say to make you trust me",
+			"styleAttributes":{},
+			"x":842,
+			"y":12720,
+			"width":380,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"5a508b3de6e9658f",
+			"type":"text",
+			"text":"i don't really remember it but yes",
+			"styleAttributes":{},
+			"x":891,
+			"y":12340,
+			"width":280,
 			"height":60,
 			"color":"4"
 		},
@@ -2608,6 +2312,72 @@
 			"color":"4"
 		},
 		{
+			"id":"ca4b911d70ca9410",
+			"type":"text",
+			"text":"hello Captain Hook. - genesis",
+			"styleAttributes":{},
+			"x":741,
+			"y":11440,
+			"width":260,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"5888b9fa872c2f6e",
+			"type":"text",
+			"text":"why does everyone call me that faha",
+			"styleAttributes":{},
+			"x":712,
+			"y":11520,
+			"width":320,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"7cda9c9818665982",
+			"type":"text",
+			"text":"did it work",
+			"styleAttributes":{},
+			"x":807,
+			"y":10960,
+			"width":128,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"b16ed6c80ee41c42",
+			"type":"text",
+			"text":"と…止まれ！ 目が回る！",
+			"styleAttributes":{},
+			"x":751,
+			"y":10880,
+			"width":240,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"43427c67de000305",
+			"type":"text",
+			"text":"があああああ！！",
+			"styleAttributes":{},
+			"x":781,
+			"y":10800,
+			"width":181,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"7aa0fa76d42e06fa",
+			"type":"text",
+			"text":"* 気が散るだろ！！",
+			"styleAttributes":{},
+			"x":742,
+			"y":10720,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
 			"id":"cf316608c89440fd",
 			"type":"text",
 			"text":" they're an idiot getting cold feet and leaving me to die\ni was wrong",
@@ -2616,6 +2386,39 @@
 			"y":13060,
 			"width":400,
 			"height":100,
+			"color":"4"
+		},
+		{
+			"id":"13c1bdd9a0a7387b",
+			"type":"text",
+			"text":"＊ わたし　そっちを 　 歩いてみるね…？",
+			"styleAttributes":{},
+			"x":692,
+			"y":10640,
+			"width":358,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"c891d157b674313d",
+			"type":"text",
+			"text":"Everything.",
+			"styleAttributes":{},
+			"x":801,
+			"y":10480,
+			"width":140,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"2493dcc9a7e548f4",
+			"type":"text",
+			"text":"- Maybe if I just...",
+			"styleAttributes":{},
+			"x":779,
+			"y":10560,
+			"width":185,
+			"height":60,
 			"color":"4"
 		},
 		{
@@ -2637,6 +2440,17 @@
 			"x":867,
 			"y":13260,
 			"width":330,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"22661d3e0b8629b0",
+			"type":"text",
+			"text":"- ... I mean, sometimes I miss...",
+			"styleAttributes":{},
+			"x":728,
+			"y":10400,
+			"width":288,
 			"height":60,
 			"color":"4"
 		},
@@ -2663,6 +2477,50 @@
 			"color":"4"
 		},
 		{
+			"id":"2184449acc1e6c95",
+			"type":"text",
+			"text":"- Yes...?",
+			"styleAttributes":{},
+			"x":812,
+			"y":10080,
+			"width":118,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"e17ed5568ecf2bec",
+			"type":"text",
+			"text":"I'm tired. Can I just beat someone up?",
+			"styleAttributes":{},
+			"x":711,
+			"y":10320,
+			"width":320,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"0199355e22b89ae4",
+			"type":"text",
+			"text":"- ... I'm... not sure.",
+			"styleAttributes":{},
+			"x":771,
+			"y":10160,
+			"width":201,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"65a6cf65ec1d163b",
+			"type":"text",
+			"text":"EXPLAIN, PLEASE.",
+			"styleAttributes":{},
+			"x":778,
+			"y":10240,
+			"width":188,
+			"height":60,
+			"color":"5"
+		},
+		{
 			"id":"4882c28711ea5dec",
 			"type":"text",
 			"text":"Aggression does not suit your purposes, nor aid your case.\nBreathe, and be still; you will not achieve anything through anger.",
@@ -2671,6 +2529,50 @@
 			"y":13700,
 			"width":518,
 			"height":80,
+			"color":"5"
+		},
+		{
+			"id":"c751146cbe71b0ba",
+			"type":"text",
+			"text":"WHAT MISUNDERSTANDING?",
+			"styleAttributes":{},
+			"x":741,
+			"y":9760,
+			"width":260,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"d9b53b4ba5f1374a",
+			"type":"text",
+			"text":"- Ha! I can't go home at all because I'm so scared!",
+			"styleAttributes":{},
+			"x":661,
+			"y":9840,
+			"width":421,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"3a15ad80bec782e6",
+			"type":"text",
+			"text":"- (Nothing here except for poor architectural engineering.)",
+			"styleAttributes":{},
+			"x":632,
+			"y":9920,
+			"width":479,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"ed0470641aabc1d0",
+			"type":"text",
+			"text":"is home unsafe?",
+			"styleAttributes":{},
+			"x":791,
+			"y":10000,
+			"width":160,
+			"height":60,
 			"color":"5"
 		},
 		{
@@ -2696,6 +2598,28 @@
 			"color":"5"
 		},
 		{
+			"id":"865bd2d1f49d0b0d",
+			"type":"text",
+			"text":"- (Dude... we can't go back in there now.)",
+			"styleAttributes":{},
+			"x":696,
+			"y":9600,
+			"width":350,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"d89c6523f845ce20",
+			"type":"text",
+			"text":"- (You'll find somewhere else to sleep.)",
+			"styleAttributes":{},
+			"x":702,
+			"y":9680,
+			"width":339,
+			"height":60,
+			"color":"4"
+		},
+		{
 			"id":"2f85f342ba3ac2a4",
 			"type":"text",
 			"text":"another fake Kris",
@@ -2706,7 +2630,40 @@
 			"height":60,
 			"color":"4"
 		},
+		{
+			"id":"d0ab7a2384b763db",
+			"type":"text",
+			"text":"- ... look. There was a misunderstanding, and...",
+			"styleAttributes":{},
+			"x":651,
+			"y":9520,
+			"width":440,
+			"height":60,
+			"color":"4"
+		},
 		{"id":"cc7d5ea2df114dd5","type":"file","file":"Conspiracy Board/Events/Media/Noelle/noelle5.mp4","x":832,"y":14220,"width":400,"height":225,"color":"4"},
+		{
+			"id":"68d7a17ab12f67bb",
+			"type":"text",
+			"text":"- (Let's find a new home for him fast, OK, Kris?)",
+			"styleAttributes":{},
+			"x":674,
+			"y":9360,
+			"width":394,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"644254c390cdf2a2",
+			"type":"text",
+			"text":"That does not sound like a very friendly homecoming.",
+			"styleAttributes":{},
+			"x":651,
+			"y":9440,
+			"width":440,
+			"height":60,
+			"color":"5"
+		},
 		{
 			"id":"ef42b273312a20ef",
 			"type":"text",
@@ -2717,6 +2674,28 @@
 			"width":420,
 			"height":80,
 			"color":"5"
+		},
+		{
+			"id":"e19a2133e3466414",
+			"type":"text",
+			"text":"It's time to go home,",
+			"styleAttributes":{},
+			"x":771,
+			"y":9200,
+			"width":200,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"6660da174385a4b1",
+			"type":"text",
+			"text":"- Tear down my house!! Tear down my kids!!",
+			"styleAttributes":{},
+			"x":676,
+			"y":9280,
+			"width":390,
+			"height":60,
+			"color":"4"
 		},
 		{
 			"id":"323c30b1a026d193",
@@ -2731,6 +2710,29 @@
 		},
 		{"id":"2d16e936052fb021","type":"file","file":"Conspiracy Board/Events/Media/Noelle/noelle6.mp4","x":832,"y":14640,"width":400,"height":225,"color":"4"},
 		{
+			"id":"9af160ecf4448225",
+			"type":"text",
+			"text":"I do have an inquiry, if you would be so kind as to answer before we proceed...",
+			"styleAttributes":{},
+			"x":670,
+			"y":9040,
+			"width":400,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"32ef7407bbae27d7",
+			"type":"text",
+			"text":"What is your intention, anyhow?",
+			"styleAttributes":{},
+			"x":733,
+			"y":9120,
+			"width":275,
+			"height":60,
+			"color":"5"
+		},
+		{"id":"fe6cf4f2fab39752","type":"file","file":"Conspiracy Board/Events/Media/Noelle/noelle4.mp4","x":670,"y":8800,"width":400,"height":225,"color":"4"},
+		{
 			"id":"6c8a056d740b1e27",
 			"type":"text",
 			"text":"UM",
@@ -2738,6 +2740,50 @@
 			"x":992,
 			"y":14880,
 			"width":80,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"74d6f5267084c6a2",
+			"type":"text",
+			"text":"- (Where to next...?)",
+			"styleAttributes":{},
+			"x":769,
+			"y":8480,
+			"width":201,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"80367bf6082b44f4",
+			"type":"text",
+			"text":"It's time to wake up...",
+			"styleAttributes":{},
+			"x":770,
+			"y":8560,
+			"width":200,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"96734f028c075f82",
+			"type":"text",
+			"text":"- W... Wait! Wait wait wait!!",
+			"styleAttributes":{},
+			"x":739,
+			"y":8640,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"10a053d19d613ac6",
+			"type":"text",
+			"text":"- I think I found the exit!",
+			"styleAttributes":{},
+			"x":745,
+			"y":8720,
+			"width":250,
 			"height":60,
 			"color":"4"
 		},
@@ -2774,74 +2820,38 @@
 			"height":60,
 			"color":"5"
 		},
-		{"id":"fd0fa3a71faf6ec3","type":"file","file":"Conspiracy Board/Events/Media/Noelle/spr_noelle_silo_look_back_transition.gif","x":1002,"y":15800,"width":60,"height":93,"color":"4"},
 		{
-			"id":"9740417e8a61bda2",
+			"id":"9b4870e307501cc4",
 			"type":"text",
-			"text":"okay",
+			"text":"Okay\nI tried talking to the woman from my dream\nShe didn't say anything but\nI feel like\nTotal memory used = 24673788 (0x01787dfc) bytes 23.53MB",
 			"styleAttributes":{},
-			"x":992,
-			"y":15920,
-			"width":80,
+			"x":802,
+			"y":15220,
+			"width":460,
+			"height":180,
+			"color":"4"
+		},
+		{
+			"id":"23ee6d90053d1b8b",
+			"type":"text",
+			"text":"- End this dream... won't you?",
+			"styleAttributes":{},
+			"x":729,
+			"y":8400,
+			"width":280,
 			"height":60,
 			"color":"4"
 		},
 		{
-			"id":"4561e114f785323e",
+			"id":"a66a5d499a3e5dbb",
 			"type":"text",
-			"text":"um\nhuman",
+			"text":"- (This cardboard stand is actually just a fake cardboard stand of a cardboard stand.)",
 			"styleAttributes":{},
-			"x":982,
-			"y":16000,
-			"width":100,
-			"height":80,
-			"color":"4"
-		},
-		{"id":"c04dd78d802333da","type":"file","file":"Conspiracy Board/Events/Media/Noelle/牐橯捥彴㔱.mp3","x":832,"y":16100,"width":400,"height":42,"color":"4"},
-		{"id":"ef16af1abdb5a6c6","type":"file","file":"Conspiracy Board/Events/Media/Noelle/BONUS_Chaos_King_(Think).ogg","x":832,"y":16159,"width":400,"height":42,"color":"4"},
-		{
-			"id":"149e1149be018898",
-			"type":"text",
-			"text":"Probably just here because it won't actually be used in-game and was only used for testing, cool it was done like this though.",
-			"styleAttributes":{},
-			"x":500,
-			"y":16100,
-			"width":260,
-			"height":160,
-			"color":"1"
-		},
-		{
-			"id":"d71c85f6d8a9b562",
-			"type":"text",
-			"text":"i feel sick i need to sleep\nthank you",
-			"styleAttributes":{},
-			"x":922,
-			"y":16220,
-			"width":220,
-			"height":80,
-			"color":"4"
-		},
-		{
-			"id":"a9ef3df5c343cc44",
-			"type":"text",
-			"text":"tv dude time",
-			"styleAttributes":{},
-			"x":962,
-			"y":15720,
-			"width":140,
+			"x":669,
+			"y":8320,
+			"width":400,
 			"height":60,
 			"color":"4"
-		},
-		{
-			"id":"94d0acf4b87034df",
-			"type":"text",
-			"text":"HMM.\nWHAT ABOUT THE OTHERS? MUCH OF THE SAME?",
-			"styleAttributes":{},
-			"x":902,
-			"y":15600,
-			"width":260,
-			"height":100,
-			"color":"5"
 		},
 		{
 			"id":"71ca9975a674cc76",
@@ -2852,28 +2862,6 @@
 			"y":15500,
 			"width":980,
 			"height":80,
-			"color":"4"
-		},
-		{
-			"id":"d838078477ada448",
-			"type":"text",
-			"text":"i'll come back tomorrow alright\ndon't forgAј⴦/󁳰󯈳D抵̀#`.䁬񀲾𷪣1X㦫w舠>>Ȧ􌥝Tԣ󪾲7K5",
-			"styleAttributes":{},
-			"x":818,
-			"y":16320,
-			"width":428,
-			"height":80,
-			"color":"4"
-		},
-		{
-			"id":"560dc7425a115f12",
-			"type":"text",
-			"text":"This line is not currently in service.\nI'm sorry to cut your reunion short!\nBut frankly, this is getting boring. Wouldn't you agree?\nNo, you must wait! That guiding light was me, but I tire of this role.\nYou'll do it for me instead!\nSo just hang on tight for a little bit. Things will fall into place! You'll see her very soon.",
-			"styleAttributes":{},
-			"x":818,
-			"y":16420,
-			"width":428,
-			"height":260,
 			"color":"4"
 		},
 		{
@@ -2888,28 +2876,40 @@
 			"color":"5"
 		},
 		{
-			"id":"9b4870e307501cc4",
+			"id":"764e18bdedf7a34f",
 			"type":"text",
-			"text":"Okay\nI tried talking to the woman from my dream\nShe didn't say anything but\nI feel like\nTotal memory used = 24673788 (0x01787dfc) bytes 23.53MB",
+			"text":"- W-wait, aren't you supposed to be ACTing!?",
 			"styleAttributes":{},
-			"x":802,
-			"y":15220,
-			"width":460,
-			"height":180,
+			"x":669,
+			"y":8240,
+			"width":400,
+			"height":60,
 			"color":"4"
 		},
+		{"id":"2c1fcf02533b003a","type":"file","file":"Conspiracy Board/Events/Media/Noelle/noelle3.mp4","x":669,"y":8000,"width":400,"height":225,"color":"4"},
 		{
-			"id":"4306949c7772d32e",
+			"id":"94d0acf4b87034df",
 			"type":"text",
-			"text":"Might be the red-texter taunting krisdreemurrkris earlier, maybe?",
+			"text":"HMM.\nWHAT ABOUT THE OTHERS? MUCH OF THE SAME?",
 			"styleAttributes":{},
-			"x":520,
-			"y":16505,
+			"x":902,
+			"y":15600,
 			"width":260,
-			"height":90,
-			"color":"1"
+			"height":100,
+			"color":"5"
 		},
-		{"id":"cf08323dac49e706","type":"file","file":"Conspiracy Board/Events/Media/Noelle/ch5z_intro.ogg","x":832,"y":16700,"width":400,"height":42,"color":"4"}
+		{"id":"fd0fa3a71faf6ec3","type":"file","file":"Conspiracy Board/Events/Media/Noelle/spr_noelle_silo_look_back_transition.gif","x":1002,"y":15800,"width":60,"height":93,"color":"4"},
+		{
+			"id":"a9ef3df5c343cc44",
+			"type":"text",
+			"text":"tv dude time",
+			"styleAttributes":{},
+			"x":962,
+			"y":15720,
+			"width":140,
+			"height":60,
+			"color":"4"
+		}
 	],
 	"edges":[
 		{

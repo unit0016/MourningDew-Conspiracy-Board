@@ -1,9 +1,87 @@
 {
 	"nodes":[
-		{"id":"eb5f827476b2a41c","type":"group","x":-840,"y":-240,"width":3040,"height":17100,"color":"#ffc800","label":"Captain Hook / Noelle"},
-		{"id":"c2efa8188e7eb92b","type":"file","file":"Conspiracy Board/Canvases/Noelle/UNUSED & Webhook.canvas","portal":true,"x":-720,"y":-160,"width":2860,"height":17020}
+		{"id":"eb5f827476b2a41c","type":"group","x":-2680,"y":-240,"width":4880,"height":17100,"color":"#ffc800","label":"Captain Hook / Noelle"},
+		{"id":"2f8b06e1b442cc47","type":"group","x":-2660,"y":-200,"width":1740,"height":420,"label":"MOURNINGDEW Noelle"},
+		{"id":"9826936a2516831c","type":"file","file":"Conspiracy Board/Events/Media/Kris/Spectrogram.png","x":-2640,"y":-160,"width":400,"height":225,"color":"6"},
+		{"id":"82dec684e985859c","type":"link","url":"https://www.youtube.com/embed/wUpj2lKCSV0","x":-2184,"y":-160,"width":640,"height":360,"color":"6"},
+		{
+			"id":"024bdc45dd85c12c",
+			"type":"text",
+			"text":"Our first look at MOURNINGDEW Noelle. The Holiday House seems to be in major disrepair lacking furniture and mingling with boarded windows, but she still has her phone, at least...\n\n'No problem here.' is also.. interesting.",
+			"styleAttributes":{},
+			"x":-1472,
+			"y":-160,
+			"width":527,
+			"height":160,
+			"color":"1"
+		},
+		{"id":"c2efa8188e7eb92b","type":"file","file":"Conspiracy Board/Canvases/Noelle/UNUSED & Webhook.canvas","portal":true,"x":-720,"y":-160,"width":2860,"height":17020},
+		{
+			"id":"8484d5868da75c62",
+			"type":"text",
+			"text":"'Spatial Calibration failed ...All I've got is the girl next door.'",
+			"styleAttributes":{},
+			"x":-1472,
+			"y":20,
+			"width":480,
+			"height":60,
+			"color":"6"
+		},
+		{
+			"id":"f54580a2082c7fa9",
+			"type":"text",
+			"text":"Released to the discord as a .wav file.",
+			"styleAttributes":{},
+			"x":-2570,
+			"y":100,
+			"width":260,
+			"height":60,
+			"color":"1"
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"d3214f6c143ae55f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"9826936a2516831c",
+			"fromSide":"right",
+			"toNode":"82dec684e985859c",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"f71f1aa9d7dbe755",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"82dec684e985859c",
+			"fromSide":"right",
+			"toNode":"024bdc45dd85c12c",
+			"toSide":"left",
+			"color":"1"
+		},
+		{
+			"id":"8261391bc1e264ee",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8484d5868da75c62",
+			"fromSide":"left",
+			"toNode":"82dec684e985859c",
+			"toSide":"right",
+			"color":"6"
+		},
+		{
+			"id":"176aabfc48730db4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f54580a2082c7fa9",
+			"fromSide":"top",
+			"toNode":"9826936a2516831c",
+			"toSide":"bottom",
+			"color":"1"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

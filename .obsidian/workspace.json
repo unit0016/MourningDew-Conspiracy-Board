@@ -15,9 +15,9 @@
               "state": {
                 "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
                 "viewState": {
-                  "x": -2888.502290060589,
-                  "y": -2895.1779732163714,
-                  "zoom": -3.333333333333333
+                  "x": -5503.245970304592,
+                  "y": 2455.724858949001,
+                  "zoom": -3.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -192,8 +192,9 @@
   "active": "2e03ee4f7e5c44b2",
   "lastOpenFiles": [
     "Conspiracy Board/Canvases/Kris/Kris.canvas",
-    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
     "Conspiracy Board/Canvases/Noelle/Captain Hook - Noelle.canvas",
+    "Conspiracy Board/Events/Media/Kris/Spectrogram.png",
+    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
     "Conspiracy Board/Canvases/Noelle/UNUSED & Webhook.canvas",
     "Conspiracy Board/Events/Media/Noelle/ch5z_intro.ogg",
     "Conspiracy Board/Events/Media/Noelle/BONUS_Chaos_King_(Think).ogg",
@@ -223,7 +224,6 @@
     "Conspiracy Board/Events/Media/Metacommunication/Lake 2.jpg",
     "Conspiracy Board/Events/Media/Kris/krisdreemurrkris/What did you think.png",
     "Conspiracy Board/Events/Media/Kris/krisdreemurrkris/The Device/MOURNINGDEW Responses.png",
-    "Conspiracy Board/Events/Media/Consultations/Round 1/Jegneg Consultation.png",
     "Conspiracy Board/Events/Kris' Birth.md",
     "Conspiracy Board/Events/Consultation/CONSULTATION.md",
     "Conspiracy Board/Events/Consultation/Score Calculation.md",
