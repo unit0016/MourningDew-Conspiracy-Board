@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+                "file": "Conspiracy Board/Canvases/Kris/Kris.canvas",
                 "viewState": {
-                  "x": -5503.245970304592,
-                  "y": 2455.724858949001,
-                  "zoom": -3.6666666666666665
+                  "x": 248.39622641509436,
+                  "y": -1272.9697818396232,
+                  "zoom": -1.4319508822151903
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Conspiracy Board"
+              "title": "Kris"
             }
           }
         ]
@@ -191,10 +191,12 @@
   },
   "active": "2e03ee4f7e5c44b2",
   "lastOpenFiles": [
+    "Conspiracy Board/Canvases/Kris/Kris' Timeline.canvas",
     "Conspiracy Board/Canvases/Kris/Kris.canvas",
+    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
+    "Conspiracy Board/Canvases/Outside The Device/Unknown Playthrough.canvas",
     "Conspiracy Board/Canvases/Noelle/Captain Hook - Noelle.canvas",
     "Conspiracy Board/Events/Media/Kris/Spectrogram.png",
-    "Conspiracy Board/Canvases/Conspiracy Board.canvas",
     "Conspiracy Board/Canvases/Noelle/UNUSED & Webhook.canvas",
     "Conspiracy Board/Events/Media/Noelle/ch5z_intro.ogg",
     "Conspiracy Board/Events/Media/Noelle/BONUS_Chaos_King_(Think).ogg",
@@ -207,7 +209,6 @@
     "Conspiracy Board/Events/Media/Noelle/noelle2.mp4",
     "Conspiracy Board/Canvases/Noelle",
     "Conspiracy Board/Events/Media/Noelle",
-    "Conspiracy Board/Canvases/Kris/Kris' Timeline.canvas",
     "Conspiracy Board/Canvases/Kris/The Device.canvas",
     "Conspiracy Board/Canvases/Kris/The Lake.canvas",
     "Conspiracy Board/Canvases/PENNY, Misc. Metacommunications, Et Al.canvas",
